@@ -44,7 +44,7 @@ h2 {
 
 #sub_logo {
     margin-top: 0.5%;
-    margin-left: 1.5%;
+    margin-left: 2.7%;
     margin-bottom: 2%;
 }
 
@@ -79,4 +79,14 @@ h2 {
 
 .active {
     border-bottom: 2px solid #000000;
+}
+
+/* header image */
+
+#header_image {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background: url('../css/images/project\ one\ pic.jpg') no-repeat center center;
+    background-size: contain;  
 }
