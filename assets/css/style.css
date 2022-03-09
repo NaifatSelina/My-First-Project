@@ -47,3 +47,36 @@ h2 {
     margin-left: 1.5%;
     margin-bottom: 2%;
 }
+
+/* navigation menu links*/
+
+#menu {
+    font-size: 80%;
+    letter-spacing: 2px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin: 15px 1px 1px 7px;
+    padding: 0px 3px 0 0;
+    border-right: 1px solid #000000;
+}
+
+#menu li:first-child {
+    border-right: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #814032;
+
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #000000;
+}
+
+.active {
+    border-bottom: 2px solid #000000;
+}
