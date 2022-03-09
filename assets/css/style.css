@@ -90,3 +90,23 @@ h2 {
     background: url('../css/images/project\ one\ pic.jpg') no-repeat center center;
     background-size: contain;  
 }
+
+/* cover text*/
+
+#cover_text {
+    color: white;
+    font-style: oblique bold;
+    float: right;
+    text-align: center;
+
+    width: 250px;
+    height: 30px;
+
+    padding: 10px 10px 10px 10px;
+
+    background-color: rgba(123, 75, 70, 0.7);
+
+    bottom: 1px;
+    right: 50px;
+}
+
