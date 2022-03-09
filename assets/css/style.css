@@ -5,3 +5,10 @@
     padding: 0;
     border: none;
 }
+
+body {
+    font-family: Libre Baskerville, sans-serif;
+    font-weight: 150;
+    color: #000000;
+    background-color: #E1F1E3;
+}
