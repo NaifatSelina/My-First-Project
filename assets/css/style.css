@@ -24,7 +24,7 @@ h2 {
 
 h1 {
     font-size: 150%;
-    color: #814032;
+    color: #4E130D;
 }
 
 h2 {
@@ -69,7 +69,7 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: #814032;
+    color: #4E130D;
 
 }
 
@@ -110,3 +110,18 @@ h2 {
     right: 50px;
 }
 
+.ethos_headings {
+    color: #4E130D;
+    font-size: 125%;
+    font-style: normal;
+
+    margin: 15px 5px 5px 10px;
+}
+
+.ethos_paragraphs {
+    color: #000000;
+    font-style: normal;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
