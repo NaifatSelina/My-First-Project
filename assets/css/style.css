@@ -114,6 +114,13 @@ h2 {
 
 }
 
+#cover_text {
+    background-color: rgba(123, 75, 70, 0.7);
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
 
 
 /* ethos sections */
@@ -129,11 +136,13 @@ h2 {
     color: #000000;
     font-style: normal;
     font-size: 90%;
-    text-align: left;
+    text-align: center;
+    vertical-align: middle;
 
     display: inline-block;
     width: 400px;
-    height: 10px;
+    height: 80px;
+
 }
 
 #our_motivation {
@@ -145,14 +154,18 @@ h2 {
 
 #our_method {
     float: left;
-    margin: 5px 5px 5px 30px;
+    margin: 5px 50px;
+    margin-top: 100px;
     padding-top: 30px;
     padding-bottom: 30px;
+    
 }
 
 #our_outcome {
     float: right;
-    margin: 5px 10px 5px 10px;
+    margin: 5px 10px;
+    margin-top: 190px;
+    margin-right: 10px;
     padding-top: 30px;
     padding-bottom: 30px;
 }
