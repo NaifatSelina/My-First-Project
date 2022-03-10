@@ -110,18 +110,42 @@ h2 {
     right: 50px;
 }
 
+
+/* ethos sections */ 
+
 .ethos_headings {
     color: #4E130D;
     font-size: 125%;
     font-style: normal;
-
-    margin: 15px 5px 5px 10px;
+    text-align: center;
 }
 
 .ethos_paragraphs {
     color: #000000;
     font-style: normal;
+    font-size: 90%;
+    text-align: left;
+    
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 10px;
 }
+
+#our_motivation {
+    float: left;
+    margin: 15px 5px 5px 20px;
+    padding-top: 30px;
+}
+
+#our_method {
+    float: left;
+    margin: 5px 5px 5px 30px;
+    padding-top: 30px;
+}
+
+#our_outcome {
+    float: right;
+    margin: 5px 10px 5px 10px;
+    padding-top: 30px;
+}
+
