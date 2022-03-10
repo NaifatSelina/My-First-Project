@@ -171,3 +171,23 @@ h2 {
 }
 
 /* better section*/
+
+#better, li{
+    vertical-align: center;
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 180px;
+    margin-left: 180px;
+    margin-bottom: 20px;
+    list-style-type: square;
+    text-align: center;
+}
+
+#better_section {
+    background-color: rgba(123, 75, 70, 0.7);
+    height: 200px;
+    width: 100%;
+    margin-top: 30%;
+
+    
+}
