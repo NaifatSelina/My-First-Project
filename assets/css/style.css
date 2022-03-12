@@ -89,6 +89,8 @@ h2 {
     overflow: hidden;
     background: url('../css/images/project\ one\ pic.jpg') no-repeat center center;
     background-size: contain;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
 }
 
 /* cover text*/
@@ -173,14 +175,14 @@ h2 {
 /* better section*/
 
 #better, li{
-    vertical-align: center;
-    display: inline-block;
-    margin-top: 40px;
-    margin-right: 180px;
-    margin-left: 180px;
-    margin-bottom: 20px;
-    list-style-type: square;
-    text-align: center;
+    font-size: 130%;
+    
+    display: inline;
+    margin-top: 80px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+    list-style-type: circle;
 }
 
 #better_section {
@@ -188,6 +190,31 @@ h2 {
     height: 200px;
     width: 100%;
     margin-top: 30%;
-
     
+    border: 2px solid #000000;
+    border-left: none;
+    border-right: none;  
+}
+
+/* something to listen to section*/
+
+#something_to_section {
+    height: 600px;
+    width: 100%;
+
+    border: 2px solid #000000;
+    border-left: none;
+    border-right: none;  
+    border-top: none;
+}
+
+#something_to_listen_to_title {
+    text-decoration: underline 1px solid #000000;
+    font-size: 170%;
+    font-style: normal;
+    font-weight: 500;
+    color: #4E130D;
+
+    margin-left: 440px;
+    margin-top: 50px;
 }
