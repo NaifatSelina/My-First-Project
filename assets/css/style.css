@@ -218,3 +218,17 @@ h2 {
     margin-left: 440px;
     margin-top: 50px;
 }
+
+    #audio_titles {
+        color: #000000;
+        font-weight: 500;
+        font-style: oblique;
+        font-size: 100%;
+
+        margin-left: 540px;
+        margin-top: 10px;
+    }
+
+    #audio_titles:hover {
+        font-weight: 600;
+    }
