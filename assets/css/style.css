@@ -204,9 +204,8 @@ li {
     font-style: normal;
     font-weight: 500;
     color: #4E130D;
-
-    margin-left: 420px;
-    margin-top: 50px;
+    text-align: center;
+    padding-top: 40px;
 }
 
 #audio_titles {
@@ -215,9 +214,9 @@ li {
     font-style: oblique;
     font-size: 100%;
 
-    margin-left: 540px;
-    margin-top: 10px;
-    margin-bottom: 90px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
 }
 
 #audio_titles:hover {
@@ -320,3 +319,4 @@ hr {
     background-size: contain;
     margin-left: 10px;
 }
+
