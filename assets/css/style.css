@@ -174,6 +174,7 @@ h2 {
     background-color: rgba(123, 75, 70, 0.7);
     height: 200px;
     width: 100%;
+     clear: both;
 }
 
 #better,
@@ -231,6 +232,7 @@ li {
     line-height: 70px;
     padding: 30px;
     margin-left: 25px;
+    clear: both;
 
 }
 
@@ -255,7 +257,7 @@ li {
 
 #center-about {
     width: 25%;
-    margin: 0 auto;
+    margin: 0;
 }
 
 hr {
@@ -270,6 +272,11 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    color: #4E130D;
+}
+
+.left_side_heading p {
+    margin-top: 30px;
 }
 
 .right_side_heading {
@@ -278,6 +285,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    color: #4E130D;
 }
 
 .right_side_heading h2 {
@@ -286,27 +294,29 @@ hr {
 
 .right_side_heading p {
     text-align: right;
+    margin-top: 30px;
 }
 
 #get_ready_title {
     text-align: center;
     margin: 20px 0;
-    font-size: 280%;
+    font-size: 200%;
 }
 
 #photo_container {
     width: 300px;
-    height: 300px;
+    height: 400px;
     padding: 30px;
-    border-style: solid;
-    border-color: #ccc;
+    background-color: rgba(123, 75, 70, 0.7);
     border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
+    margin-top: 60px;
+    margin-left: 470px;
 }
 
 #get_ready_photo {
-    background: url('../css/images/ethos-center-image.jpg') no-repeat center center;
+    background: url('../css/images/pexels-photo-6446680.jpeg') no-repeat center center;
     height: 100%;
-    border-radius: 50%;
+    width: 90%;
+    background-size: contain;
+    margin-left: 10px;
 }
