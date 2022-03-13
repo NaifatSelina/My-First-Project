@@ -15,7 +15,7 @@ body {
 
 /* heading sub_logo and logo */
 
-#header {
+header {
     height: 80px;
     width: 100%;
 }
@@ -408,7 +408,22 @@ hr {
 
 /* footer */
 
-#footer {
+footer {
     height: 80px;
     width: 100%;
+}
+
+.social_links {
+    text-align: center;
+}
+
+.social_links i {
+    color: #000000;
+    font-size: 150%;
+    margin: 40px;
+    padding: 10px;
+}
+
+.social_links li {
+    display: inline;
 }
