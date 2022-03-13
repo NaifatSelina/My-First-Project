@@ -235,21 +235,12 @@ h2 {
 
     /* videos */
 
+    #ted_talk, #lofi, #nature_sounds {
+        line-height: 70px;
+        padding: 30px;
+        
+    }
+
     #ted_talk {
-        margin-right: 30px;
-        margin-left: 40px;
-        margin-top: 100px;
-        display: block;
-    }
-
-    #lofi {
-        margin-right: 30px;
-        margin-left: 440px;
-        margin-top: 100px;
-    }
-
-    #nature_sounds {
-        margin-right: 20px;
-        margin-left: 40px;
-        float: right;
+        margin-left: 50px;
     }
