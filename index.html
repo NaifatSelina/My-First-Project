@@ -172,8 +172,27 @@
     <!--win a free candle section-->
     <section>
         <a name="candle_sign_up"></a>
-        <div>
-            candle sign up
+        <div id="sign_up_section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+                <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i></h2>
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" class="text-input" required>
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" class="text-input" required>
+                
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" class="text-input" required>
+                
+                <label for="road">Road</label>
+                <input type="radio" id="road" name="running_preference" value="road" required>
+                <label for="trail">Trail</label>
+                <input type="radio" id="trail" name="running_preference" value="trail" required>
+                <label for="both">Both</label>
+                <input type="radio" id="both" name="running_preference" value="both" required>
+                
+                <input class="join-button" type="submit" value="Let's Run!" class="join-button">
+            </form>
         </div>
     </section>
 

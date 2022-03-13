@@ -270,7 +270,7 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     color: #4E130D;
 }
 
@@ -298,18 +298,18 @@ hr {
 
 #get_ready_title {
     text-align: center;
-    margin: 20px 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
     font-size: 200%;
 }
 
 #photo_container {
     width: 300px;
     height: 400px;
-    padding: 30px;
+    padding: 20px;
     background-color: rgba(123, 75, 70, 0.7);
     border-width: 1px;
-    margin-top: 60px;
-    margin-left: 470px;
+    margin: 0 auto;
 }
 
 #get_ready_photo {
@@ -317,6 +317,7 @@ hr {
     height: 100%;
     width: 90%;
     background-size: contain;
-    margin-left: 10px;
+    margin: 0 auto;
 }
 
+/* sign up page*/
