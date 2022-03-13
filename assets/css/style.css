@@ -328,6 +328,13 @@ hr {
     border-bottom: 1px solid #000000;
 }
 
+#get_started {
+    color: white;
+    font-size: 140%;
+    padding-top: 30px;
+
+}
+
 .fill_in_section {
     clear: left;
     background: url('../css/images/pexels-photo-3668371.jpeg');
