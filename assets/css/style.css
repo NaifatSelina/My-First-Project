@@ -128,6 +128,7 @@ h2 {
     font-style: normal;
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .ethos_paragraphs {
@@ -135,17 +136,13 @@ h2 {
     font-style: normal;
     font-size: 90%;
     text-align: center;
-    vertical-align: middle;
-   
-
-    display: inline-block;
     width: 400px;
     height: 80px;
 }
 
 #our_motivation {
     float: left;
-    margin: 15px 5px 5px 20px;
+    margin: 15px 0 0 20px;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -160,44 +157,35 @@ h2 {
 }
 
 #our_outcome {
-    float: right;
-    margin: 5px 10px;
+    float: left;
+    margin: 5px 0 0 10px;
     margin-top: 190px;
     margin-right: 10px;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 /* better section*/
 
 
-#better {
-    margin-top: 80px;
+#better_section {
+    border: 2px solid #000000;
+    border-left: none;
+    border-right: none;
+
+    background-color: rgba(123, 75, 70, 0.7);
+    height: 200px;
+    width: 100%;
 }
 
 #better,
 li {
     font-size: 130%;
     text-align: center;
-    display: flex;
-    margin-left: 70px;
-    margin-right: 70px;
-}
-
-#better_section {
-    background-color: rgba(123, 75, 70, 0.7);
-    height: 200px;
-    width: 100%;
-
-    border: 2px solid #000000;
-    border-left: none;
-    border-right: none;
-    margin-top: none;
-}
-
-#better_space, #better_mind, #better_work {
     letter-spacing: 4px;
-    margin-left: 50px; 
+    display: flex;
+
+    margin-right: 60px; 
+    margin-left: 100px;
+    margin-top: 40px;
 }
 
 /* something to listen to section*/
@@ -244,4 +232,12 @@ li {
     padding: 30px;
     margin-left: 25px;
 
+}
+
+/* get ready section*/
+
+#get_ready {
+    border-bottom: 1px solid #000000;
+    height: 600px;
+    width: 100%;
 }
