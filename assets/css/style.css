@@ -174,7 +174,7 @@ h2 {
     background-color: rgba(123, 75, 70, 0.7);
     height: 200px;
     width: 100%;
-     clear: both;
+    clear: both;
 }
 
 #better,
@@ -184,7 +184,7 @@ li {
     letter-spacing: 4px;
     display: flex;
 
-    margin-right: 60px; 
+    margin-right: 60px;
     margin-left: 100px;
     margin-top: 40px;
 }
@@ -332,7 +332,14 @@ hr {
     color: white;
     font-size: 140%;
     padding-top: 30px;
+    padding-left: 40px;
+    padding-bottom: 5px;
 
+}
+
+#get_started_sub {
+    color: antiquewhite;
+    padding-left: 50px;
 }
 
 .fill_in_section {
@@ -353,7 +360,7 @@ hr {
     padding: 30px;
 }
 
-.sign_up_form > h2 {
+.sign_up_form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -380,12 +387,12 @@ hr {
     font-size: 100%;
     background-color: #f16c6b;
     color: #fafafa;
-    display:block;
+    display: block;
 }
 
 .join_button:hover {
-   background-color: #fafafa;
-   color: #f16c6b;
-  
-    
+    background-color: #fafafa;
+    color: #f16c6b;
+
+
 }
