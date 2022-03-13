@@ -127,11 +127,17 @@ h2 {
 
 /* ethos sections */
 
+#ethos_section {
+    height: 400px;
+    width: 100%;
+}
+
 .ethos_headings {
     color: #4E130D;
     font-size: 125%;
     font-style: normal;
     text-align: center;
+    margin-top: 20px;
 }
 
 .ethos_paragraphs {
@@ -140,11 +146,11 @@ h2 {
     font-size: 90%;
     text-align: center;
     vertical-align: middle;
+   
 
     display: inline-block;
     width: 400px;
     height: 80px;
-
 }
 
 #our_motivation {
@@ -192,11 +198,11 @@ li {
     background-color: rgba(123, 75, 70, 0.7);
     height: 200px;
     width: 100%;
-    margin-top: 30%;
 
     border: 2px solid #000000;
     border-left: none;
     border-right: none;
+    margin-top: none;
 }
 
 #better_space, #better_mind, #better_work {
@@ -204,18 +210,13 @@ li {
     margin-left: 50px; 
 }
 
-background-color: rgba(232, 232, 232, 0.2);
-
 /* something to listen to section*/
 
 #something_to_section {
     height: 600px;
     width: 100%;
 
-    border: 2px solid #000000;
-    border-left: none;
-    border-right: none;
-    border-top: none;
+    border-bottom: 1px solid #000000;
 }
 
 #something_to_listen_to_title {
@@ -251,9 +252,10 @@ background-color: rgba(232, 232, 232, 0.2);
 #nature_sounds {
     line-height: 70px;
     padding: 30px;
+    margin-left: 25px;
 
 }
 
 #ted_talk {
-    margin-left: 50px;
+    margin-left:  
 }
