@@ -242,19 +242,19 @@ li {
 }
 
 #left_side {
-    padding-top: 30px;
-    width: 33%;
+    padding-top: 50px;
+    width: 25%;
     float: left;
 }
 
 #right_side {
-    padding-top: 30px;
-    width: 33%;
+    padding-top: 50px;
+    width: 25%;
     float: right;
 }
 
 #center-about {
-    width: 33%;
+    width: 25%;
     margin: 0 auto;
 }
 
