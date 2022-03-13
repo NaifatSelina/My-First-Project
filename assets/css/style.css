@@ -242,60 +242,14 @@ li {
     width: 100%;
 }
 
-#left_side {
+#left-about {
     padding-top: 30px;
     width: 33%;
     float: left;
 }
 
-#centre_pic_section {
+#right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-}
-
-#square_pic_conatainer {
-    width: 33%;
-    margin: 0 auto;
-}
-
-.left_side_heading {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.right_side_heading {
-    width: 60%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.right_side_heading h2 {
-    text-align: right;
-}
-
-.right_side_heading p {
-    text-align: right;
-}
-
-#square_pic_container {
-    width: 300px;
-    height: 300px;
-    padding: 30px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-#square_pic {
-    background: url('../css/images/ethos-center-image.jpg') no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
 }
