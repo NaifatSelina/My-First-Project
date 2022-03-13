@@ -160,7 +160,7 @@ h2 {
     margin-top: 100px;
     padding-top: 30px;
     padding-bottom: 30px;
-    
+
 }
 
 #our_outcome {
@@ -174,15 +174,18 @@ h2 {
 
 /* better section*/
 
-#better, li{
-    font-size: 130%;
-    
-    display: inline;
-    margin-top: 80px;
-    margin-right: 100px;
-    margin-left: 100px;
 
-    list-style-type: circle;
+#better {
+    margin-top: 80px;
+}
+
+#better,
+li {
+    font-size: 130%;
+    text-align: center;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
 }
 
 #better_section {
@@ -190,11 +193,18 @@ h2 {
     height: 200px;
     width: 100%;
     margin-top: 30%;
-    
+
     border: 2px solid #000000;
     border-left: none;
-    border-right: none;  
+    border-right: none;
 }
+
+#better_space, #better_mind, #better_work {
+    letter-spacing: 4px;
+    margin-left: 50px; 
+}
+
+background-color: rgba(232, 232, 232, 0.2);
 
 /* something to listen to section*/
 
@@ -204,7 +214,7 @@ h2 {
 
     border: 2px solid #000000;
     border-left: none;
-    border-right: none;  
+    border-right: none;
     border-top: none;
 }
 
@@ -219,28 +229,31 @@ h2 {
     margin-top: 50px;
 }
 
-    #audio_titles {
-        color: #000000;
-        font-weight: 500;
-        font-style: oblique;
-        font-size: 100%;
+#audio_titles {
+    color: #000000;
+    font-weight: 500;
+    font-style: oblique;
+    font-size: 100%;
 
-        margin-left: 540px;
-        margin-top: 10px;
-    }
+    margin-left: 540px;
+    margin-top: 10px;
+    margin-bottom: 90px;
+}
 
-    #audio_titles:hover {
-        font-weight: 600;
-    }
+#audio_titles:hover {
+    font-weight: 600;
+}
 
-    /* videos */
+/* videos */
 
-    #ted_talk, #lofi, #nature_sounds {
-        line-height: 70px;
-        padding: 30px;
-        
-    }
+#ted_talk,
+#lofi,
+#nature_sounds {
+    line-height: 70px;
+    padding: 30px;
 
-    #ted_talk {
-        margin-left: 50px;
-    }
+}
+
+#ted_talk {
+    margin-left: 50px;
+}
