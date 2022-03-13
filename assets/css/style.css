@@ -330,8 +330,8 @@ hr {
 
 .fill_in_section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
-    background-size: cover;
+    background: url('../css/images/pexels-photo-3668371.jpeg');
+    background-size: contain;
     background-position: center;
     height: 900px;
 }
