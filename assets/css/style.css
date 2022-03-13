@@ -109,21 +109,11 @@ h2 {
 
     background-color: rgba(123, 75, 70, 0.7);
 
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
-
-}
-
-#cover_text {
-    background-color: rgba(123, 75, 70, 0.7);
-    bottom: 30px;
-    right: 150px;
+    bottom: 50px;
+    right: 350px;
 
     position: absolute;
 }
-
 
 /* ethos sections */
 
@@ -226,7 +216,7 @@ li {
     font-weight: 500;
     color: #4E130D;
 
-    margin-left: 440px;
+    margin-left: 450px;
     margin-top: 50px;
 }
 
@@ -254,8 +244,4 @@ li {
     padding: 30px;
     margin-left: 25px;
 
-}
-
-#ted_talk {
-    margin-left:  
 }
