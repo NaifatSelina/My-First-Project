@@ -132,7 +132,6 @@ h2 {
     font-style: normal;
     text-align: center;
     margin-top: 60px;
-    margin-bottom: 10px;
 }
 
 .ethos_paragraphs {
@@ -146,8 +145,8 @@ h2 {
     padding-top: 50px;
     width: 25%;
     float: left;
-    padding-left: 50px;
-    text-align: left;
+    padding-left: 30px;
+    text-align: center;
 }
 
 #our_method {
@@ -186,9 +185,9 @@ h2 {
 /* something to listen to section*/
 
 #something_to_section {
-    height: 600px;
+    height: 800px;
     width: 100%;
-    background-color: rgb(107, 124, 108);
+    background-color: rgb(172, 177, 172);
 }
 
 #something_to_listen_to_title {
@@ -198,7 +197,8 @@ h2 {
     font-weight: 500;
     color: #4E130D;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 20px;
 }
 
 #audio_titles {
