@@ -123,7 +123,7 @@ h2 {
 #ethos_section {
     height: 600px;
     width: 100%;
-    background-color: rgb(161, 173, 158);
+    background-color: rgb(202, 219, 196);
 }
 
 .ethos_headings {
@@ -173,9 +173,8 @@ h2 {
 #better_section {
     height: 250px;
     width: 100%;
-    margin-top: 10px;
-
-     
+    margin-top: -10px;
+      
     background-image: url('https://images.pexels.com/photos/7303281/pexels-photo-7303281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     background-position: center;
@@ -183,17 +182,6 @@ h2 {
     background-attachment: local;   
 }
 
-#better,
-li {
-    font-size: 200%;
-    font-style: oblique;
-    letter-spacing: 4px;
-    margin-bottom: 50px;
-
-    color: #4E130D;
-    margin-left: 100px;
-    margin-top: -10px;
-}
 
 /* something to listen to section*/
 
