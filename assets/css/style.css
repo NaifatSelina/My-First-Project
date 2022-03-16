@@ -392,10 +392,12 @@ hr {
 footer {
     height: 50px;
     width: 100%;
+    background-color: rgb(253, 248, 241);
 }
 
 .social_links {
     text-align: center;
+    background-color: rgb(253, 248, 241);
 }
 
 .social_links i {
@@ -415,5 +417,5 @@ footer {
     font-size: 80%;
     text-align: center;
     padding-bottom: 10px;
-    border-bottom: 1px solid #000000;
+    background-color: rgb(253, 248, 241);
 }
