@@ -17,7 +17,7 @@ body {
 header {
     height: 125px;
     width: 100%;
-    background-color: rgb(253, 248, 241);
+    background-color: rgb(252, 242, 229);
     position: fixed;
     z-index: 5;
 }
@@ -138,7 +138,10 @@ h2 {
     color: #000000;
     font-style: normal;
     font-size: 100%;
+    font-weight: 300;
     width: 400px;
+    margin: 0;
+    text-align: center;
 }
 
 #our_motivation {
@@ -152,7 +155,7 @@ h2 {
 #our_method {
     float: left;
     margin-top: 200px;
-    margin-left: 80px;
+    margin-left: 100px;
     padding-top: 50px;
     padding-bottom: 30px;
     text-align: center;
@@ -245,7 +248,7 @@ p {
 
 #get_ready {
     height: 800px;
-    background-color: rgb(87, 95, 87);
+    background-color: rgb(127, 136, 127);
 }
 
 #left_side {
@@ -340,15 +343,15 @@ hr {
 
 #sign_up_section {
     width: 100%;
-    height: 700px;
+    height: 800px;
 }
 
 #get_started {
     color: white;
     font-size: 140%;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-left: 40px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 #get_started_sub {
@@ -358,7 +361,7 @@ hr {
 
 .fill_in_section {
     clear: left;
-    background-image: url('../css/images/pexels-photo-3668371.jpeg');
+    background-image: url('https://images.pexels.com/photos/6965273/pexels-photo-6965273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: contain;
     background-position: center;
 
@@ -416,19 +419,20 @@ hr {
 footer {
     height: 50px;
     width: 100%;
-    background-color: rgb(253, 248, 241);
+    background-color: rgb(252, 242, 229);
 }
 
 .social_links {
     text-align: center;
-    background-color: rgb(253, 248, 241);
+    background-color: rgb(252, 242, 229);
 }
 
 .social_links i {
-    color: #000000;
+    color: #4E130D;
     font-size: 150%;
     margin: 10px;
     padding-top: 10px;
+     
 }
 
 .social_links li {
@@ -441,5 +445,5 @@ footer {
     font-size: 80%;
     text-align: center;
     padding-bottom: 10px;
-    background-color: rgb(253, 248, 241);
+    background-color: rgb(252, 242, 229);
 }
