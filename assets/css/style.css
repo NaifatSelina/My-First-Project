@@ -123,7 +123,7 @@ h2 {
 #ethos_section {
     height: 600px;
     width: 100%;
-    background-color: rgb(174, 211, 180);
+    background-color: rgb(176, 199, 180);
 }
 
 .ethos_headings {
@@ -198,8 +198,7 @@ li {
 #something_to_section {
     height: 600px;
     width: 100%;
-
-    border-bottom: 1px solid #000000;
+    background-color: rgb(125, 145, 127);
 }
 
 #something_to_listen_to_title {
@@ -241,6 +240,7 @@ li {
 
 #get_ready {
     height: 700px;
+    background-color: rgb(86, 100, 87);
 }
 
 #left_side {
