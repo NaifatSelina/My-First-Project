@@ -191,13 +191,12 @@ h2 {
 }
 
 #something_to_listen_to_title {
-    text-decoration: underline 1px solid #000000;
     font-size: 200%;
     font-style: normal;
     font-weight: 500;
     color: #4E130D;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 120px;
     padding-bottom: 20px;
 }
 
