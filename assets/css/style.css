@@ -10,7 +10,6 @@ body {
     font-family: Libre Baskerville, sans-serif;
     font-weight: 150;
     color: #000000;
-    background-color: #E1F1E3;
 }
 
 /* heading sub_logo and logo */
@@ -20,6 +19,7 @@ header {
     width: 100%;
     background-color: rgb(253, 248, 241);
     position: fixed;
+    z-index: 5;
 }
 
 h1,
@@ -115,8 +115,9 @@ h2 {
 /* ethos sections */
 
 #ethos_section {
-    height: 400px;
+    height: 600px;
     width: 100%;
+    background-color: rgb(174, 211, 180);
 }
 
 .ethos_headings {
