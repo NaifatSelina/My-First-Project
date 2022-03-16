@@ -94,18 +94,20 @@ h2 {
 #cover_text h2 {
     color: white;
     font-style: oblique bold;
-    float: right;
     text-align: center;
+    text-transform: uppercase;
 
-    width: 250px;
-    height: 30px;
+    width: 400px;
+    height: 80px;
 
-    padding: 10px 10px 10px 10px;
+    padding-top: 60px;
+    padding-left: 0px;
 
     background-color: rgba(123, 75, 70, 0.7);
 
-    bottom: 50px;
-    right: 350px;
+    bottom: 10px;
+    right: 20px;
+    
 
     position: absolute;
 }
