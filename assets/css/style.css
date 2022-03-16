@@ -124,51 +124,49 @@ h2 {
     height: 600px;
     width: 100%;
     background-color: rgb(161, 173, 158);
-
 }
 
 .ethos_headings {
     color: #4E130D;
-    font-size: 125%;
+    font-size: 180%;
     font-style: normal;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 60px;
     margin-bottom: 10px;
 }
 
 .ethos_paragraphs {
     color: #000000;
     font-style: normal;
-    font-size: 90%;
-    text-align: center;
+    font-size: 100%;
     width: 400px;
-    height: 80px;
 }
 
 #our_motivation {
+    padding-top: 50px;
+    width: 25%;
     float: left;
-    margin: 15px 0 0 20px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-left: 50px;
+    text-align: left;
 }
 
 #our_method {
     float: left;
-    margin: 5px 50px;
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-left: 80px;
     padding-top: 30px;
     padding-bottom: 30px;
+    text-align: center;
 
 }
 
 #our_outcome {
-    float: left;
-    margin: 5px 0 0 10px;
-    margin-top: 190px;
-    margin-right: 10px;
+    padding-top: 50px;
+    width: 25%;
+    float: right;
+    padding-right: 70px;
+    margin-top: 250px;
 }
-
-
 
 /* better section*/
 
