@@ -171,14 +171,19 @@ h2 {
 /* better section*/
 
 #better_section {
-    border: 2px solid #000000;
-    border-left: none;
-    border-right: none;
-
-    background-color: rgba(123, 75, 70, 0.7);
     height: 200px;
     width: 100%;
-    clear: both;
+    margin-top: 10px;
+
+     
+    background-image: url('https://images.pexels.com/photos/7388677/pexels-photo-7388677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+     
+
+     
 }
 
 #better,
@@ -187,10 +192,11 @@ li {
     text-align: center;
     letter-spacing: 4px;
     display: flex;
+    color: antiquewhite;
 
     margin-right: 60px;
     margin-left: 100px;
-    margin-top: 40px;
+    margin-top: -10px;
 }
 
 /* something to listen to section*/
@@ -343,7 +349,7 @@ hr {
 
 .fill_in_section {
     clear: left;
-    background: url('../css/images/pexels-photo-3668371.jpeg');
+    background-image: url('../css/images/pexels-photo-3668371.jpeg');
     background-size: contain;
     background-position: center;
 
