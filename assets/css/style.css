@@ -44,7 +44,7 @@ h2 {
 
 #logo,
 #sub_logo {
-    margin: 10px 0 0 7px;
+    margin: 15px 0 0 7px;
 }
 
 #sub_logo {
@@ -63,7 +63,7 @@ h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin: 15px 1px 1px 7px;
+    margin: 20px 1px 1px 7px;
     padding: 0px 3px 0 0;
     border-right: 1px solid #000000;
 }
@@ -88,15 +88,7 @@ h2 {
 
 /* header image */
 
-#header_image {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    background: url('../css/images/project\ one\ pic.jpg') no-repeat center center;
-    background-size: contain;
-    border-bottom: 1px solid #000000;
-    border-top: 1px solid #000000;
-}
+#header
 
 /* cover text*/
 
