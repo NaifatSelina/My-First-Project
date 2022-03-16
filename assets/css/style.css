@@ -121,9 +121,9 @@ h2 {
 /* ethos sections */
 
 #ethos_section {
-    height: 600px;
+    height: 700px;
     width: 100%;
-    background-color: rgb(202, 219, 196);
+    background-color: rgb(216, 219, 215);
 }
 
 .ethos_headings {
@@ -142,7 +142,7 @@ h2 {
 }
 
 #our_motivation {
-    padding-top: 50px;
+    padding-top: 80px;
     width: 25%;
     float: left;
     padding-left: 30px;
@@ -151,9 +151,9 @@ h2 {
 
 #our_method {
     float: left;
-    margin-top: 150px;
+    margin-top: 200px;
     margin-left: 80px;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 30px;
     text-align: center;
 
@@ -164,7 +164,7 @@ h2 {
     width: 25%;
     float: right;
     padding-right: 70px;
-    margin-top: 250px;
+    margin-top: 350px;
 }
 
 /* better section*/
@@ -185,7 +185,7 @@ h2 {
 /* something to listen to section*/
 
 #something_to_section {
-    height: 800px;
+    height: 900px;
     width: 100%;
     background-color: rgb(172, 177, 172);
 }
@@ -220,8 +220,10 @@ h2 {
 #ted_talk,
 #lofi,
 #nature_sounds {
-    margin-top: 30px; 
+    margin-top: 90px; 
+    margin-left: 20px;
     display: inline-block;
+    padding: 30px;
 }
 
 
