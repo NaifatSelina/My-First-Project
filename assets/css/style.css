@@ -171,30 +171,26 @@ h2 {
 /* better section*/
 
 #better_section {
-    height: 200px;
+    height: 250px;
     width: 100%;
     margin-top: 10px;
 
      
-    background-image: url('https://images.pexels.com/photos/7388677/pexels-photo-7388677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-image: url('https://images.pexels.com/photos/7303281/pexels-photo-7303281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: scroll;
-     
-
-     
+    background-attachment: local;   
 }
 
 #better,
 li {
-    font-size: 130%;
-    text-align: center;
+    font-size: 200%;
+    font-style: oblique;
     letter-spacing: 4px;
-    display: flex;
-    color: antiquewhite;
+    margin-bottom: 50px;
 
-    margin-right: 60px;
+    color: #4E130D;
     margin-left: 100px;
     margin-top: -10px;
 }
