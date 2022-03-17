@@ -124,51 +124,35 @@ h2 {
     height: 700px;
     width: 100%;
     background-color: rgb(195, 197, 194);
+    margin-top: -10px;
 }
 
 .ethos_headings {
-    color: #4E130D;
+    color: #000000;
     font-size: 180%;
     font-style: normal;
-    text-align: center;
-    margin-top: 60px;
+    padding-top: 10%;
+    border-bottom: #000000 1px solid;
+    width: 35%;
 }
 
 .ethos_paragraphs {
-    color: #000000;
-    font-style: normal;
+    color: #4E130D;
+    font-style: oblique;
     font-size: 100%;
     font-weight: 300;
-    width: 400px;
+    width: 500px;
     margin: 0;
     text-align: center;
 }
 
-#our_motivation {
-    padding-top: 80px;
-    width: 25%;
-    float: left;
-    padding-left: 30px;
-    text-align: left;
-}
-
-#our_method {
-    float: left;
-    margin-top: 200px;
-    margin-left: 100px;
-    padding-top: 50px;
-    padding-bottom: 30px;
-    text-align: center;
-
-}
-
+#our_motivation,
+#our_method,
 #our_outcome {
-    padding-top: 50px;
-    width: 25%;
-    float: right;
-    padding-right: 70px;
-    margin-top: 350px;
+    justify-content: space-around;
+    margin-left: 30%;
 }
+
 
 /* better section*/
 
@@ -181,7 +165,6 @@ h2 {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: local;
 }
 
 
@@ -432,7 +415,6 @@ footer {
     font-size: 150%;
     margin: 10px;
     padding-top: 10px;
-     
 }
 
 .social_links li {
