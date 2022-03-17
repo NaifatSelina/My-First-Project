@@ -17,7 +17,7 @@ body {
 header {
     height: 20%;
     width: 100%;
-    background-color: rgb(252, 242, 229);
+    background-color: white;
     position: fixed;
     z-index: 5;
 }
@@ -141,7 +141,7 @@ h2 {
 }
 
 .ethos_paragraphs {
-    color: #4E130D;
+    color: #000000;
     font-style: oblique;
     font-size: 100%;
     font-weight: 300;
@@ -180,7 +180,7 @@ h2 {
     height: 300%;
     width: 100%;
     clear: left;
-    background-color: rgb(195, 197, 194);;
+    background-color: rgb(161, 163, 160);
 }
 
 #something_to_listen_to_title {
@@ -238,7 +238,7 @@ p {
 
 #get_ready {
     height: 800px;
-    background-color: rgb(127, 136, 127);
+    background-color: rgb(142, 143, 142);
 }
 
 #left_side {
@@ -341,7 +341,7 @@ hr {
 
 .fill_in_section {
     clear: left;
-    background-image: url('https://images.pexels.com/photos/6965273/pexels-photo-6965273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-image: url('https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: contain;
     background-position: center;
 
@@ -399,7 +399,7 @@ hr {
 footer {
     height: 20%;
     width: 100%;
-    background-color: rgb(252, 242, 229);
+    background-color: white;
 }
 
 .social_links {
@@ -408,7 +408,7 @@ footer {
 }
 
 .social_links i {
-    color: #4E130D;
+    color: #000000;
     font-size: 150%;
     margin: 10px;
     padding-top: 10px;
@@ -424,5 +424,5 @@ footer {
     font-size: 80%;
     text-align: center;
     padding-bottom: 10px;
-    background-color: rgb(252, 242, 229);
+    background-color: white;
 }
