@@ -15,7 +15,7 @@ body {
 /* heading sub_logo and logo */
 
 header {
-    height: 125px;
+    height: 20%;
     width: 100%;
     background-color: rgb(252, 242, 229);
     position: fixed;
@@ -121,7 +121,7 @@ h2 {
 /* ethos sections */
 
 #ethos_section {
-    height: 700px;
+    height: 400%;
     width: 100%;
     background-color: rgb(195, 197, 194);
     margin-top: -10px;
@@ -131,7 +131,7 @@ h2 {
     color: #000000;
     font-size: 180%;
     font-style: normal;
-    padding-top: 10%;
+    padding-top: 4%;
     border-bottom: #000000 1px solid;
     width: 35%;
 }
@@ -141,9 +141,11 @@ h2 {
     font-style: oblique;
     font-size: 100%;
     font-weight: 300;
-    width: 500px;
+    width: 60%;
     margin: 0;
-    text-align: center;
+    text-align: left;
+    padding-top: 0.5%;
+    padding-bottom: 7%;
 }
 
 #our_motivation,
@@ -171,7 +173,7 @@ h2 {
 /* something to listen to section*/
 
 #something_to_section {
-    height: 850px;
+    height: 300%;
     width: 100%;
     background-color: rgb(138, 139, 138);
 }
@@ -220,7 +222,7 @@ p {
     font-weight: 600;
     font-style: oblique;
     text-align: center;
-    margin-top: 50px;
+    margin-bottom: 3%;
 }
 
 #nature_sounds {
@@ -400,7 +402,7 @@ hr {
 /* footer */
 
 footer {
-    height: 50px;
+    height: 20%;
     width: 100%;
     background-color: rgb(252, 242, 229);
 }
