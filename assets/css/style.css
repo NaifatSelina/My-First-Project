@@ -219,6 +219,27 @@ h2 {
     margin-right: 20px;
 }
 
+/*animates zoom effect on hovering over videos */
+#ted_talk:hover,
+#lofi:hover,
+#nature_sounds:hover {
+    animation-name: video-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+/* creates amount of zoom for videos */
+@keyframes video-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+
 #ted_talk,
 #lofi,
 #nature_sounds,
