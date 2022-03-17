@@ -170,7 +170,7 @@ h2 {
     background-image: url('https://images.pexels.com/photos/7303281/pexels-photo-7303281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
@@ -179,7 +179,8 @@ h2 {
 #something_to_section {
     height: 300%;
     width: 100%;
-    background-color: rgb(138, 139, 138);
+    clear: left;
+    background-color: rgb(195, 197, 194);;
 }
 
 #something_to_listen_to_title {
