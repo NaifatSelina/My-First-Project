@@ -139,7 +139,7 @@ h2 {
 
     padding-top: 4%;
     border-bottom: #000000 1px solid;
-    width: 35%;
+    width: 90%;
 }
 
 .ethos_paragraphs {
@@ -150,7 +150,7 @@ h2 {
     width: 90%;
     margin: 0;
     text-align: left;
-    padding-top: 0.5%;
+    padding-top: 1%;
     padding-bottom: 7%;
 }
 
@@ -267,12 +267,14 @@ p {
     padding-top: 80px;
     width: 25%;
     float: left;
+    margin-bottom: -10px;
 }
 
 #right_side {
     padding-top: 80px;
     width: 25%;
     float: right;
+    margin-bottom: -10px;
 }
 
 hr {
