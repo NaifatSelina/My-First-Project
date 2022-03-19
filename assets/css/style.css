@@ -105,7 +105,7 @@ h2 {
 
 #cover_text h2 {
     color: white;
-    font-style: oblique bold;
+    font-weight: bold;
     text-align: center;
     text-transform: uppercase;
 
@@ -122,6 +122,26 @@ h2 {
 
     position: absolute;
 }
+
+/* creates zoom effect*/
+
+#cover_text h2 {
+    animation-name: video-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+/* creates amount of zoom for cover text */
+@keyframes video-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.5);
+    }
+}
+
 
 /* ethos sections */
 
@@ -172,10 +192,7 @@ h2 {
 #our_motivation{
     padding-top: 3.5%;
 }
-
-.top_p {
-    padding-top: 5%;
-}
+ 
 
 /* better section*/
 
