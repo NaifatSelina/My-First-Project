@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +6,7 @@
 }
 
 body {
-    font-family: Libre Baskerville, sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 150;
     color: #000000;
 }
@@ -24,7 +23,7 @@ header {
 
 h1,
 h2 {
-    font-family: Libre Baskerville, sans-serif;
+    font-family: Libre Franklin, sans-serif;
     letter-spacing: 2px;
     font-weight: 200;
 }
