@@ -314,14 +314,14 @@ p {
 
 #left_side {
     padding-top: 80px;
-    width: 25%;
+    width: 30%;
     float: left;
     margin-bottom: -10px;
 }
 
 #right_side {
     padding-top: 80px;
-    width: 25%;
+    width: 30%;
     float: right;
     margin-bottom: -10px;
 }
@@ -331,6 +331,8 @@ hr {
     width: 100%;
     margin: 5px 0;
 }
+
+ 
 
 .left_side_heading {
     width: 60%;
@@ -347,6 +349,8 @@ hr {
 
 .left_side_heading p {
     margin-top: 30px;
+    font-style: normal;
+    text-align: left;
 }
 
 .right_side_heading {
@@ -409,6 +413,8 @@ hr {
     background-size: contain;
     margin: 0 auto;
 }
+
+
 
 /* sign up page*/
 
