@@ -406,6 +406,22 @@ hr {
     margin-top: 4%;
 }
 
+#photo_container:hover {
+    animation-name: photo-zoom;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes photo-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
 #get_ready_photo {
     background: url('../css/images/pexels-photo-6446680.jpeg') no-repeat center center;
     height: 100%;
@@ -413,8 +429,6 @@ hr {
     background-size: contain;
     margin: 0 auto;
 }
-
-
 
 /* sign up page*/
 
