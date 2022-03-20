@@ -647,6 +647,10 @@ footer {
         margin-left: 10%;
         margin-right: 4.5%;
     }
+
+    #get_ready_title1 {
+        padding-bottom: 1.5%;
+    }
 }
 
 /* for large to medium screens size from 1100px wide and smaller */
@@ -661,4 +665,23 @@ footer {
     .get_ready_title {
         font-size: 150%;
     }
+
+    #get_ready_title1 {
+        padding-bottom: 2.5%;
+    }
 }
+
+/* for medium screens size from 1007px wide and smaller */
+
+@media screen and (max-width: 1007px) { 
+
+#ted_talk {
+    margin-left: 7%;
+}
+
+.sign_up_form {
+    left: 6%;
+}
+
+}
+
