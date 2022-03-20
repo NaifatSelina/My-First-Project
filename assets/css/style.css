@@ -471,41 +471,38 @@ hr {
 }
 
 #get_started {
-    color: white;
+    color: #000000;
     font-size: 140%;
     padding-top: 70px;
     padding-left: 80px;
-    font-weight: 600;
+    font-weight: 700;
     
 }
 
 #get_started_sub {
-    color: white;
-    padding-left: 90px;
-    font-weight: 600;
+    color: #000000;
+    padding-left: 80px;
+    font-weight: 700;
     padding-top: 20px;
 }
 
 .fill_in_section {
     clear: left;
-    background-image: url('https://images.pexels.com/photos/9977570/pexels-photo-9977570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
-    background-size: contain;
-    background-position: center;
-
+    background-color: rgb(189, 197, 187);
 }
 
 .sign_up_form {
     margin: 70px 0  0;
-    color: rgb(231, 231, 230);
-    background-color: rgba(123, 75, 70, 0.8);
-    max-width: 400px;
+    color: #000000;
+    background-color: rgba(123, 75, 70, 0.6);
+    max-width: 800px;
     position: absolute;
-    left: 10%;
+    left: 20%;
     padding: 30px;
 }
 
 .sign_up_form>h2 {
-    color: rgb(231, 231, 230);
+    color: #000000;
     margin-bottom: 20px;
 }
 
