@@ -475,11 +475,6 @@ hr {
 
 /* sign up page*/
 
-#sign_up_section {
-    width: 100%;
-    height: 800px;
-}
-
 #get_started {
     color: #000000;
     font-size: 140%;
@@ -494,15 +489,18 @@ hr {
     padding-left: 80px;
     font-weight: 700;
     padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 .fill_in_section {
     clear: left;
     background-color: rgb(189, 197, 187);
+    height: 900px;
+    width: 100%;
 }
 
 .sign_up_form {
-    margin: 70px 0 0;
+    
     color: #000000;
     background-color: rgba(123, 75, 70, 0.6);
     border: 2px solid #000000;
@@ -554,9 +552,9 @@ label {
 }
 
 .join_button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
+    margin-top: 60px;
+    border-radius: 45px;
+    padding: 15px 70px 15px 70px;
     text-align: center;
     font-size: 100%;
     background-color: #4E130D;
