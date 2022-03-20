@@ -154,7 +154,7 @@ h2 {
 }
 
 .ethos_headings {
-    color: #4E130D;
+    color: #000000;
     font-size: 180%;
     font-style: normal;
     letter-spacing: 4px;
@@ -327,7 +327,7 @@ p {
 
 #get_ready {
     height: 800px;
-    background-color: rgb(174, 180, 173);
+    background-color: rgb(217, 226, 215);
     padding-bottom: 5%;
 }
 
@@ -348,7 +348,7 @@ p {
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
-    margin: 5px 0;
+    margin: 5px;
 }
 
  
@@ -359,12 +359,13 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 40px;
-    color: #4E130D;
+    color: #000000;
     padding-top: 10%;
 }
 
 .left_side_heading h2 {
     font-size: medium;
+    font-weight: 600;
 }
 
 .left_side_heading p {
@@ -380,13 +381,14 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-    color: #4E130D;
+    color: #000000;
     padding-top: 10%;
 }
 
 .right_side_heading h2 {
     text-align: right;
     font-size: medium;
+    font-weight: 600;
 }
 
 .right_side_heading p {
@@ -400,6 +402,11 @@ hr {
     font-weight: bold;
     font-style: normal;
     padding-bottom: 1%;
+}
+
+#get_ready hr {
+    width: 95%;
+    margin-left: 2%;
 }
 
 #get_ready_title1 {
@@ -427,7 +434,8 @@ hr {
     border-width: 1px;
     margin: 0 auto;
     margin-top: 7%;
-    border: 2px solid #4E130D;
+    border: 0.5px solid #5c1f19;
+    border-radius: 2px;
 }
 
 #photo_container:hover {
@@ -465,26 +473,29 @@ hr {
 #get_started {
     color: white;
     font-size: 140%;
-    padding-top: 50px;
-    padding-left: 40px;
-    padding-bottom: 10px;
+    padding-top: 70px;
+    padding-left: 80px;
+    font-weight: 600;
+    
 }
 
 #get_started_sub {
-    color: rgb(231, 231, 230);
-    padding-left: 50px;
+    color: white;
+    padding-left: 90px;
+    font-weight: 600;
+    padding-top: 20px;
 }
 
 .fill_in_section {
     clear: left;
-    background-image: url('https://images.pexels.com/photos/6311860/pexels-photo-6311860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-image: url('https://images.pexels.com/photos/9977570/pexels-photo-9977570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: contain;
     background-position: center;
 
 }
 
 .sign_up_form {
-    margin: 70px 10% 0 0;
+    margin: 70px 0  0;
     color: rgb(231, 231, 230);
     background-color: rgba(123, 75, 70, 0.8);
     max-width: 400px;
