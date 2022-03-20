@@ -270,6 +270,28 @@ h3 a:hover {
     text-decoration: underline;
 }
 
+#first_video_text p,
+#second_video_text p,
+#third_video_text p {
+    margin: 0;
+    width: 33%;
+}
+
+#first_video_text p {
+    float: left;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#third_video_text p {
+    float: right;
+}
+
+#second_video_text p {
+    
+}
+
+
 /* videos */
 
 #ted_talk,
@@ -277,7 +299,6 @@ h3 a:hover {
 #nature_sounds {
     margin-left: 45px;
     display: inline-block;
-    line-height: 80px;
     margin-right: 1%;
 }
 
@@ -317,13 +338,13 @@ p {
     font-weight: 600;
     font-style: oblique;
     text-align: center;
-    margin-bottom: 5%;
-    margin-top: 2%;
 }
 
 #nature_sounds {
-    margin-left: 60px;
+    margin-left: 70%;
+    margin-top: -200px;
 }
+
 
 /* get ready section*/
 
@@ -353,7 +374,7 @@ hr {
     margin: 5px;
 }
 
- 
+
 
 .left_side_heading {
     width: 60%;
@@ -413,19 +434,19 @@ hr {
 
 #get_ready_title1 {
     margin-left: 4%;
-    
+
     width: 39%;
     text-align: left;
     padding-top: 6%;
 }
 
 #get_ready_title2 {
-    
+
     width: 43%;
     text-align: right;
     margin-left: 52%;
     margin-top: -56px;
-     
+
 }
 
 #photo_container {
@@ -462,7 +483,7 @@ hr {
     width: 90%;
     background-size: contain;
     margin: 0 auto;
-    
+
 }
 
 /* second better interval*/
@@ -490,7 +511,7 @@ hr {
     padding-top: 70px;
     padding-left: 80px;
     font-weight: 700;
-    
+
 }
 
 #get_started_sub {
@@ -506,7 +527,7 @@ hr {
 }
 
 .sign_up_form {
-    margin: 70px 0  0;
+    margin: 70px 0 0;
     color: #000000;
     background-color: rgba(123, 75, 70, 0.6);
     border: 2px solid #000000;
