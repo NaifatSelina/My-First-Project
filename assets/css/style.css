@@ -223,7 +223,7 @@ img {
     margin-top: 14%;
     margin-left: 42%;
     padding: 15px 40px 15px 40px;
-    
+
 }
 
 #image_interval a {
@@ -361,7 +361,7 @@ hr {
     float: right;
     clear: both;
     color: #000000;
-     
+
 }
 
 .left_side_heading h2 {
@@ -505,7 +505,7 @@ hr {
 }
 
 .sign_up_form {
-    
+
     color: #000000;
     background-color: rgba(123, 75, 70, 0.8);
     border: 2px solid #000000;
@@ -541,7 +541,7 @@ label {
 }
 
 .text_input:hover {
-    border:2px solid #4E130D;
+    border: 2px solid #4E130D;
 }
 
 #special_message {
@@ -619,20 +619,71 @@ footer {
 
 
 
-#get_started {
-    padding-left: 40px;
+    #get_started {
+        padding-left: 40px;
+    }
+
+    #get_started_sub {
+        padding-left: 40px;
+    }
+
+    #sign_up_section hr {
+        margin-left: 40px;
+    }
+
+    .sign_up_form {
+        left: 10%;
+    }
+
+    #ted,
+    #lofi_hiphop,
+    #nature {
+        height: 230px;
+        width: 240px;
+    }
+
+    #ted_talk {
+        width: 210px;
+        margin-left: 10%;
+        margin-right: 4.5%;
+    }
 }
 
-#get_started_sub {
-    padding-left: 40px;
-}
+/* for large to medium screens size from 1100px wide and smaller */
 
-#sign_up_section hr {
-    margin-left: 40px;
-}
+@media screen and (max-width: 1100px) {
 
-.sign_up_form {
-    left: 10%;
-}
+    #photo_container {
+        width: 200px;
+        height: 300px;
+    }
+    
+    #photo_container:hover {
+        animation-name: photo-zoom;
+        animation-duration: 2s;
+        animation-fill-mode: forwards;
+    }
+    
+    @keyframes photo-zoom {
+        from {
+            transform: scale(1);
+        }
+    
+        to {
+            transform: scale(1.1);
+        }
+    }
+    
+    #get_ready_photo {
+        background: url('../css/images/pexels-photo-6446680.jpeg') no-repeat center center;
+        height: 100%;
+        width: 90%;
+        background-size: contain;
+        margin: 0 auto;
+    
+    }
+    
+
+
 
 }
