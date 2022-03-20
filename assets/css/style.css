@@ -198,7 +198,7 @@ h2 {
 /* better section*/
 
 #better_section {
-    height: 300px;
+    height: 250px;
     width: 100%;
     margin-top: -10px;
 
@@ -215,7 +215,7 @@ h2 {
     border-radius: 5px;
     border: 2px solid rgba(121, 153, 123);
 
-    margin-top: 17%;
+    margin-top: 14%;
     margin-left: 42%;
 }
 
@@ -499,6 +499,7 @@ hr {
     position: absolute;
     left: 20%;
     padding: 30px;
+    border-radius: 3px;
 }
 
 .sign_up_form>h2 {
