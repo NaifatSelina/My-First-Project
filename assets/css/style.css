@@ -96,7 +96,7 @@ h2 {
 
 /*main image*/
 
-#main_image {
+.main_image {
     margin-bottom: -10px;
     overflow: hidden;
 }
