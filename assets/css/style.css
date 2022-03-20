@@ -8,11 +8,10 @@
 
 body {
     font-family: "Libre Franklin", sans-serif;
-    font-weight: 150;
     color: #000000;
 }
 
-/* heading sub_logo and logo */
+/* webpage headings, sub_logo and logo */
 
 header {
     height: 17%;
@@ -24,7 +23,6 @@ header {
 
 h1,
 h2 {
-    font-family: "Libre Franklin", sans-serif;
     letter-spacing: 2px;
     font-weight: 200;
 }
@@ -130,7 +128,7 @@ img {
     position: absolute;
 }
 
-/* creates zoom effect*/
+/* creates zoom effect for cover text*/
 
 #cover_text h2 {
     animation-name: video-zoom;
@@ -150,7 +148,7 @@ img {
 }
 
 
-/* ethos sections */
+/* ethos section headings and information text */
 
 #ethos_section {
     height: 400%;
@@ -201,9 +199,9 @@ img {
 }
 
 
-/* better section*/
+/* first image interval and win candle button*/
 
-#better_section {
+#image_interval {
     height: 50px;
     width: 100%;
     margin-top: -10px;
