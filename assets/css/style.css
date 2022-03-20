@@ -725,3 +725,35 @@ footer {
     }
 
 }
+
+/* for medium screens size from 914px wide and smaller */
+
+@media screen and (max-width: 914px) {
+
+    .sign_up_form {
+        max-width: 400px;
+    }
+
+    #photo_container {
+        width: 150px;
+        height: 250px;
+        margin-top: 20%;
+    }
+
+    .get_ready_title {
+        font-size: 110%;
+    }
+
+    #get_ready_title1 {
+        padding-bottom: 4%;
+    }
+
+    #ted_talk,
+    #lofi,
+    #nature_sounds {
+        width: 220px;
+        margin-left: 35px;
+        margin-right: 10px;
+    }
+
+}
