@@ -237,14 +237,14 @@ h2 {
 
 #something_to_listen_to_title {
     font-size: 200%;
-    font-style: oblique;
+    font-style: normal;
     width: 90%;
     color: #000000;
     font-weight: bold;
 
     margin-left: 5%;
-    padding-top: 5%;
-    padding-bottom: 0.5%;
+    padding-top: 8%;
+    padding-bottom: 1.5%;
     border-bottom: 1px solid #000000;
 }
 
@@ -401,7 +401,7 @@ hr {
     border-bottom: 2px solid #000000;
     width: 39%;
     text-align: left;
-    padding-top: 5%;
+    padding-top: 6%;
 }
 
 #get_ready_title2 {
@@ -421,6 +421,7 @@ hr {
     border-width: 1px;
     margin: 0 auto;
     margin-top: 4%;
+    border: 1px solid #4E130D;
 }
 
 #photo_container:hover {
