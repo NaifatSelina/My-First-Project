@@ -489,7 +489,12 @@ hr {
     padding-left: 80px;
     font-weight: 700;
     padding-top: 20px;
-    padding-bottom: 50px;
+}
+
+#sign_up_section hr {
+    width: 90%;
+    margin-left: 70px;
+    margin-bottom: 60px;
 }
 
 .fill_in_section {
@@ -502,7 +507,7 @@ hr {
 .sign_up_form {
     
     color: #000000;
-    background-color: rgba(123, 75, 70, 0.6);
+    background-color: rgba(123, 75, 70, 0.8);
     border: 2px solid #000000;
     max-width: 800px;
     position: absolute;
