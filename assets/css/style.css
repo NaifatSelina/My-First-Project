@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Libre Franklin, sans-serif;
+    font-family: "Libre Franklin", sans-serif;
     font-weight: 150;
     color: #000000;
 }
@@ -24,7 +24,7 @@ header {
 
 h1,
 h2 {
-    font-family: Libre Franklin, sans-serif;
+    font-family: "Libre Franklin", sans-serif;
     letter-spacing: 2px;
     font-weight: 200;
 }
@@ -231,7 +231,6 @@ img {
 #better_section a {
     color: #000000;
     text-decoration: none;
-    font-family: Libre Franklin, sans-serif;
     font-size: 110%;
 }
 
@@ -544,6 +543,14 @@ label {
 
 #special_message {
     height: 60px;
+}
+
+#candle_scent {
+    height: 25px;
+    width: 30%;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 30px;
 }
 
 .join_button {
