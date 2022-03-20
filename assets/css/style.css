@@ -213,9 +213,9 @@ h2 {
 #button {
     width: 15%;
     height: 15%;
-    background-color: #D3E1CC;
+    background-color: #627559;
     border-radius: 5px;
-    border: 2px solid rgba(121, 153, 123);
+    border: 2px solid rgb(147, 180, 149);
 
     margin-top: 14%;
     margin-left: 42%;
@@ -465,6 +465,18 @@ hr {
     
 }
 
+/* second better interval*/
+#better_section2 {
+    height: 250px;
+    width: 100%;
+    margin-top: -10px;
+
+    background-image: url('https://images.pexels.com/photos/7303281/pexels-photo-7303281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 /* sign up page*/
 
 #sign_up_section {
@@ -497,6 +509,7 @@ hr {
     margin: 70px 0  0;
     color: #000000;
     background-color: rgba(123, 75, 70, 0.6);
+    border: 2px solid #000000;
     max-width: 800px;
     position: absolute;
     left: 20%;
@@ -518,9 +531,14 @@ hr {
     border: 1px solid #fafafa;
     border-radius: 2px;
 
-    font-size: 90%;
-    font-weight: 600;
+    font-size: 110%;
     letter-spacing: 1px;
+}
+
+label {
+    font-size: 100%;
+    letter-spacing: 1px;
+    font-weight: bold;
 }
 
 .text_input:hover {
