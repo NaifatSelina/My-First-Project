@@ -358,11 +358,9 @@ hr {
 .left_side_heading {
     width: 60%;
     float: right;
-    line-height: 20px;
     clear: both;
-    margin-bottom: 40px;
     color: #000000;
-    padding-top: 10%;
+     
 }
 
 .left_side_heading h2 {
@@ -371,7 +369,6 @@ hr {
 }
 
 .left_side_heading p {
-    margin-top: 30px;
     font-style: normal;
     text-align: left;
 }
@@ -380,11 +377,8 @@ hr {
 .right_side_heading {
     width: 60%;
     float: left;
-    line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
     color: #000000;
-    padding-top: 10%;
 }
 
 .right_side_heading h2 {
@@ -395,7 +389,6 @@ hr {
 
 .right_side_heading p {
     text-align: right;
-    margin-top: 30px;
 }
 
 .get_ready_title {
