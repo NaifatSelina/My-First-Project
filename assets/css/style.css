@@ -658,32 +658,7 @@ footer {
         height: 300px;
     }
     
-    #photo_container:hover {
-        animation-name: photo-zoom;
-        animation-duration: 2s;
-        animation-fill-mode: forwards;
+    .get_ready_title {
+        font-size: 150%;
     }
-    
-    @keyframes photo-zoom {
-        from {
-            transform: scale(1);
-        }
-    
-        to {
-            transform: scale(1.1);
-        }
-    }
-    
-    #get_ready_photo {
-        background: url('../css/images/pexels-photo-6446680.jpeg') no-repeat center center;
-        height: 100%;
-        width: 90%;
-        background-size: contain;
-        margin: 0 auto;
-    
-    }
-    
-
-
-
 }
