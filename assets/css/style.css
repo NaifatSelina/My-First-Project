@@ -270,28 +270,6 @@ h3 a:hover {
     text-decoration: underline;
 }
 
-#first_video_text p,
-#second_video_text p,
-#third_video_text p {
-    margin: 0;
-    width: 33%;
-}
-
-#first_video_text p {
-    float: left;
-    margin-left: 1%;
-    margin-right: 1%;
-}
-
-#third_video_text p {
-    float: right;
-}
-
-#second_video_text p {
-    
-}
-
-
 /* videos */
 
 #ted_talk,
@@ -308,6 +286,7 @@ h3 a:hover {
     border-radius: 15px;
     border: 3px solid #000000;
 }
+
 
 /*animates zoom effect on hovering over videos */
 #ted_talk:hover,
@@ -329,6 +308,7 @@ h3 a:hover {
     }
 }
 
+/* video descriptions*/
 
 #ted_talk,
 #lofi,
@@ -338,13 +318,9 @@ p {
     font-weight: 600;
     font-style: oblique;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
 }
-
-#nature_sounds {
-    margin-left: 70%;
-    margin-top: -200px;
-}
-
 
 /* get ready section*/
 
