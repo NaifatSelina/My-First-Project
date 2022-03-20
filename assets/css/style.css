@@ -211,9 +211,9 @@ h2 {
 #button {
     width: 15%;
     height: 15%;
-    background-color: rgb(197, 240, 206);
+    background-color: #D3E1CC;
     border-radius: 5px;
-    border: 3px solid rgb(121, 153, 123);
+    border: 2px solid rgba(121, 153, 123);
 
     margin-top: 17%;
     margin-left: 42%;
@@ -328,6 +328,7 @@ p {
 #get_ready {
     height: 800px;
     background-color: rgb(174, 180, 173);
+    padding-bottom: 5%;
 }
 
 #left_side {
@@ -359,6 +360,7 @@ hr {
     clear: both;
     margin-bottom: 40px;
     color: #4E130D;
+    padding-top: 10%;
 }
 
 .left_side_heading h2 {
@@ -371,6 +373,7 @@ hr {
     text-align: left;
 }
 
+
 .right_side_heading {
     width: 60%;
     float: left;
@@ -378,6 +381,7 @@ hr {
     clear: both;
     margin-bottom: 50px;
     color: #4E130D;
+    padding-top: 10%;
 }
 
 .right_side_heading h2 {
@@ -391,38 +395,39 @@ hr {
 }
 
 .get_ready_title {
-    font-size: 220%;
+    font-size: 210%;
     letter-spacing: 6px;
     font-weight: bold;
     font-style: normal;
+    padding-bottom: 1%;
 }
 
 #get_ready_title1 {
-    margin-left: 3%;
-    border-bottom: 2px solid #000000;
+    margin-left: 4%;
+    
     width: 39%;
     text-align: left;
     padding-top: 6%;
 }
 
 #get_ready_title2 {
-    border-bottom: 2px solid #000000;
+    
     width: 43%;
     text-align: right;
-    margin-left: 54%;
-    margin-top: -45px;
+    margin-left: 52%;
+    margin-top: -56px;
      
 }
 
 #photo_container {
     width: 300px;
     height: 400px;
-    padding: 40px;
+    padding: 60px;
     background-color: rgba(123, 75, 70, 0.7);
     border-width: 1px;
     margin: 0 auto;
-    margin-top: 4%;
-    border: 1px solid #4E130D;
+    margin-top: 7%;
+    border: 2px solid #4E130D;
 }
 
 #photo_container:hover {
@@ -447,6 +452,7 @@ hr {
     width: 90%;
     background-size: contain;
     margin: 0 auto;
+    
 }
 
 /* sign up page*/
@@ -471,7 +477,7 @@ hr {
 
 .fill_in_section {
     clear: left;
-    background-image: url('https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-image: url('https://images.pexels.com/photos/6311860/pexels-photo-6311860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: contain;
     background-position: center;
 
