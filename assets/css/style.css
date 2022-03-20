@@ -608,3 +608,29 @@ footer {
     background-color: white;
     letter-spacing: 2px;
 }
+
+/* media queries */
+
+/* for large to medium screens size from 1115px wide and smaller */
+
+@media screen and (max-width: 1115px) {
+
+
+
+#get_started {
+    padding-left: 40px;
+}
+
+#get_started_sub {
+    padding-left: 40px;
+}
+
+#sign_up_section hr {
+    margin-left: 40px;
+}
+
+.sign_up_form {
+    left: 10%;
+}
+
+}
