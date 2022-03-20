@@ -226,13 +226,13 @@ img {
     
 }
 
-#better_section a {
+#image_interval a {
     color: #000000;
     text-decoration: none;
     font-size: 110%;
 }
 
-/* something to listen to section*/
+/* something to listen to section titles*/
 
 #something_to_section {
     height: 500%;
@@ -274,7 +274,7 @@ h3 a:hover {
     text-decoration: underline;
 }
 
-/* videos */
+/* something to listen to section videos */
 
 #ted_talk,
 #lofi,
@@ -312,7 +312,7 @@ h3 a:hover {
     }
 }
 
-/* video descriptions*/
+/* something to listen to section video descriptions*/
 
 #ted_talk,
 #lofi,
@@ -326,7 +326,7 @@ p {
     margin-bottom: 60px;
 }
 
-/* get ready section*/
+/* get ready left and right sections*/
 
 #get_ready {
     height: 800px;
@@ -353,8 +353,6 @@ hr {
     width: 100%;
     margin: 5px;
 }
-
-
 
 .left_side_heading {
     width: 60%;
@@ -422,6 +420,8 @@ hr {
 
 }
 
+/* get ready section image and container*/
+
 #photo_container {
     width: 300px;
     height: 400px;
@@ -459,8 +459,8 @@ hr {
 
 }
 
-/* second better interval*/
-#better_section2 {
+/* second image interval*/
+#image_interval2 {
     height: 250px;
     width: 100%;
     margin-top: -10px;
