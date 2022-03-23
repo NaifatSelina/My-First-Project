@@ -128,7 +128,7 @@ img {
 
     background-color: rgba(44, 10, 7, 0.9);
     border-radius: 5px;
-    border: 3px solid #1a0604;
+    border: 2px solid #1a0604;
 
     bottom: 5px;
     right: 30px;
@@ -226,7 +226,7 @@ img {
     width: 160px;
     height: 40px;
     background-color: #627559;
-    border-radius: 45px;
+    border-radius: 5px;
     border: 2px solid rgb(147, 180, 149);
 
     margin-top: 14%;
@@ -444,7 +444,7 @@ hr {
     border-width: 1px;
     margin: 0 auto;
     margin-top: 7%;
-    border: 0.5px solid #5c1f19;
+    border: 2px solid #5c1f19;
     border-radius: 2px;
 }
 
@@ -662,9 +662,6 @@ footer {
         margin-right: 4.5%;
     }
 
-    #get_ready_title1 {
-        padding-bottom: 1.5%;
-    }
 }
 
 /* for large to medium screens size from 1100px wide and smaller */
@@ -676,13 +673,10 @@ footer {
         height: 300px;
     }
 
-    .get_ready_title {
+    #get_ready_title {
         font-size: 150%;
     }
 
-    #get_ready_title1 {
-        padding-bottom: 2.5%;
-    }
 }
 
 /* for medium screens size from 1007px wide and smaller */
@@ -754,12 +748,8 @@ footer {
         margin-top: 20%;
     }
 
-    .get_ready_title {
+    #get_ready_title {
         font-size: 110%;
-    }
-
-    #get_ready_title1 {
-        padding-bottom: 4%;
     }
 
     #ted_talk,
@@ -827,12 +817,8 @@ footer {
 
     }
 
-    .get_ready_title {
+    #get_ready_title {
         font-size: 100%;
-    }
-
-    #get_ready_title1 {
-        padding-bottom: 5.2%;
     }
 
     #ted_talk,
