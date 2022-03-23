@@ -410,34 +410,20 @@ hr {
     text-align: right;
 }
 
-.get_ready_title {
-    font-size: 210%;
+#get_ready_title {
+    font-size: 220%;
     letter-spacing: 6px;
     font-weight: bold;
     font-style: normal;
-    padding-bottom: 1%;
+    padding-bottom: 0.5%;
+    text-align: center;
+    padding-top: 5%;
 }
+
 
 #get_ready hr {
-    width: 95%;
-    margin-left: 2%;
-}
-
-#get_ready_title1 {
-    margin-left: 4%;
-
-    width: 39%;
-    text-align: left;
-    padding-top: 6%;
-}
-
-#get_ready_title2 {
-
-    width: 43%;
-    text-align: right;
-    margin-left: 52%;
-    margin-top: -56px;
-
+    width: 80%;
+    margin-left: 9%;
 }
 
 /* get ready section image and container*/
