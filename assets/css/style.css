@@ -609,10 +609,12 @@ footer {
 #footer_text {
     color: #000000;
     font-style: oblique;
+    font-weight: bold;
     font-size: 80%;
     text-align: center;
     background-color: white;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    margin: 30px;
 }
 
 /* media queries */
