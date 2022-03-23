@@ -584,7 +584,7 @@ footer {
 
 .social_links {
     text-align: center;
-    background-color: rgb(252, 242, 229);
+    background-color: white;
 }
 
 .social_links i {
@@ -715,7 +715,7 @@ footer {
     #cover_text h2 {
 
         font-size: 90%;
-    
+
         width: 350px;
         height: 50px;
         padding-top: 20px;
@@ -756,4 +756,99 @@ footer {
         margin-right: 10px;
     }
 
+}
+
+/* for medium screens size from 720px wide and smaller */
+
+@media screen and (max-width: 720px) {
+
+    h1 {
+        font-size: 120%;
+    }
+
+    h2 {
+        font-size: 65%;
+    }
+
+    #menu {
+        font-size: 70%;
+
+    }
+
+    #cover_text h2 {
+
+        font-size: 70%;
+
+        width: 300px;
+        height: 30px;
+        padding-top: 20px;
+
+        bottom: 195px;
+        right: 30px;
+    }
+
+    .ethos_headings {
+        font-size: 140%;
+    }
+
+    .ethos_paragraphs {
+        font-size: 80%;
+    }
+
+    #button {
+        margin-left: 37%;
+    }
+
+    #ted_talk,
+    #lofi,
+    #nature_sounds {
+        display: inline;
+    }
+
+    #ted_talk p,
+    #lofi p,
+    #nature_sounds p {
+        text-align: left;
+        margin-left: 30px;
+
+    }
+
+    .get_ready_title {
+        font-size: 100%;
+    }
+
+    #get_ready_title1 {
+        padding-bottom: 5.2%;
+    }
+
+    #ted_talk,
+    #lofi,
+    #nature_sounds,
+    p {
+        font-size: 80%;
+    }
+
+    #get_started {
+        font-size: 120%;
+    }
+
+    #get_started_sub {
+        font-size: 100%;
+    }
+
+    .sign_up_form {
+        max-width: 350px;
+    }
+
+    label {
+        font-size: 80%;
+    }
+
+    .join_button {
+        margin-top: 20px;
+    }
+
+    #footer_text {
+        font-size: 70%;
+    }
 }
