@@ -31,6 +31,7 @@ h1 {
     font-size: 180%;
     color: #4E130D;
     font-weight: bold;
+    margin-top: 8%;
 }
 
 h2 {
@@ -50,10 +51,15 @@ h2 {
 }
 
 #logo_image {
-    height: 80px;
-    width: 100px;
-    border-radius: 15px;
-    margin-top: 20px;
+    height: 40px;
+    width: 40px;
+
+    border-radius: 2px;
+    border: 2px solid #4E130D;
+
+    margin-top: -95px;
+    margin-left: 101%;
+    margin-bottom: 7.5%;
 }
 
 /* navigation menu links*/
@@ -320,8 +326,7 @@ h3 a:hover {
 
 #ted_talk p,
 #lofi p,
-#nature_sounds p
- {
+#nature_sounds p {
     font-size: 90%;
     font-weight: 600;
     font-style: oblique;
