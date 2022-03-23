@@ -238,7 +238,7 @@ img {
     height: 500%;
     width: 100%;
     clear: left;
-    background-color: rgb(189, 197, 187);
+    background-color: rgb(230, 248, 230);
 }
 
 #something_to_listen_to_title {
@@ -316,10 +316,10 @@ h3 a:hover {
 
 /* something to listen to section video descriptions*/
 
-#ted_talk,
-#lofi,
-#nature_sounds,
-p {
+#ted_talk p,
+#lofi p,
+#nature_sounds p
+ {
     font-size: 90%;
     font-weight: 600;
     font-style: oblique;
@@ -499,7 +499,7 @@ hr {
 
 .fill_in_section {
     clear: left;
-    background-color: rgb(189, 197, 187);
+    background-color: rgb(230, 248, 230);
     height: 900px;
     width: 100%;
 }
