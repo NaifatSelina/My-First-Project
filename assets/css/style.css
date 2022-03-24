@@ -227,9 +227,9 @@ img {
 #button {
     width: 160px;
     height: 40px;
-    background-color: #627559;
+    background-color: #4E130D;
     border-radius: 5px;
-    border: 2px solid rgb(147, 180, 149);
+    border: 2px solid rgb(0, 0, 0);
 
     margin-top: 14%;
     margin-left: 42%;
@@ -238,7 +238,7 @@ img {
 }
 
 #image_interval a {
-    color: #000000;
+    color: white;
     text-decoration: none;
     font-size: 110%;
 }
