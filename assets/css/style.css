@@ -750,18 +750,21 @@ header {
 }
 
 #headings { 
-    margin-left: 5%;
+    margin-left: 8%;
 }
 
 #menu li {
-    float: left;
-    margin: 10px 7px 7px 10px;
+    margin: 0 7px 7px 10px;
     padding: 0 1px 0 0;
 }
 
 #menu {
     font-size: 80%;
+    margin: 0 auto;
 }
 
+#sub_logo {
+    margin-left: 2%;
+}
     
 }
