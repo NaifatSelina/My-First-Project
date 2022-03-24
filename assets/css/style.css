@@ -52,11 +52,10 @@ h2 {
 }
 
 #logo_image {
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
 
     border-radius: 2px;
-    border: 2px solid #4E130D;
 
     margin-top: -95px;
     margin-left: 101%;
@@ -129,7 +128,7 @@ img {
 
     background-color: rgba(44, 10, 7, 0.9);
     border-radius: 5px;
-    border: 2px solid #1a0604;
+    border: 3px solid #1a0604;
 
     bottom: 5px;
     right: 30px;
@@ -632,15 +631,27 @@ footer {
 
 @media screen and (max-width: 1600px) {
 
+/* styling for sign up section */
     .sign_up_form {
         left: 23%;
     }
+
+/* styling for header section */
+h1 {
+    margin-top: 11%;
+}
+
+#menu li {
+    margin: 40px 1px 1px 7px;
+}
+
 }
 
 /* for large to medium screens size from 1280px wide and smaller */
 
 @media screen and (max-width: 1280px) {
 
+    /* styling for sign up section */
     .sign_up_form {
         left: 16%;
     }
@@ -650,15 +661,36 @@ footer {
 
 @media screen and (max-width: 768px) {
 
+/* styling for sign up section */
     .sign_up_form {
         left: 2%;
     }
+
+/* styling for header section */
+
+h1 {
+    font-size: 150%;
+    margin-top: 12%;
+}
+
+h2 {
+    font-size: 80%;
+}
+
+#sub_logo {
+    margin-top: 2%;
+}
+
+#menu {
+    font-size: 90%;
+}
 }
 
 /* for medium screens size from 320px wide and smaller */
 
 @media screen and (max-width: 320px) {
 
+/* styling for sign up section */
     .sign_up_form {
         left: 1%;
         right: 1%;
@@ -695,4 +727,41 @@ footer {
         padding: 10px 65px 10px 65px;
         font-size: 80%;
     }
+
+/* styling for header section */
+
+h1 {
+    font-size: 130%;
+    margin-top: 4%;
+}
+
+h2 {
+    font-size: 70%;
+}
+
+#logo_image {
+    margin-top: 2%;
+    margin-left: 42%;
+}
+
+header {
+    height: 20%;
+    position: relative;
+}
+
+#headings { 
+    margin-left: 5%;
+}
+
+#menu li {
+    float: left;
+    margin: 10px 7px 7px 10px;
+    padding: 0 1px 0 0;
+}
+
+#menu {
+    font-size: 80%;
+}
+
+    
 }
