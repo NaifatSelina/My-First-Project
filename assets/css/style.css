@@ -995,9 +995,12 @@ footer {
         float: left;
     }
 
+    /* styling for image intervals and button*/
     #image_interval2 {
         height: 150px;
     }
 
-
+    #image_interval {
+        height: 80px;
+    }
 }
