@@ -631,19 +631,26 @@ footer {
 
 @media screen and (max-width: 1600px) {
 
-/* styling for sign up section */
+    /* styling for sign up section */
     .sign_up_form {
         left: 23%;
     }
 
-/* styling for header section */
-h1 {
-    margin-top: 11%;
-}
+    /* styling for header section */
+    h1 {
+        margin-top: 11%;
+    }
 
-#menu li {
-    margin: 40px 1px 1px 7px;
-}
+    #menu li {
+        margin: 40px 1px 1px 7px;
+    }
+
+    /* styling for cover text */
+
+    #cover_text h2 {
+        bottom: 95px;
+        right: 90px;
+    }
 
 }
 
@@ -655,42 +662,67 @@ h1 {
     .sign_up_form {
         left: 16%;
     }
+
+    /* styling for cover text */
+
+    #cover_text h2 {
+        bottom: 60px;
+        right: 40px;
+    }
 }
 
 /* for medium screens size from 768px wide and smaller */
 
 @media screen and (max-width: 768px) {
 
-/* styling for sign up section */
+    /* styling for sign up section */
     .sign_up_form {
         left: 2%;
     }
 
-/* styling for header section */
 
-h1 {
-    font-size: 150%;
-    margin-top: 12%;
+    /* styling for header section */
+
+    h1 {
+        font-size: 150%;
+        margin-top: 12%;
+    }
+
+    h2 {
+        font-size: 80%;
+    }
+
+    #sub_logo {
+        margin-top: 2%;
+    }
+
+    #menu {
+        font-size: 90%;
+    }
+
+    header {
+        height: 13%;
+    }
+
+    /* styling for cover text */
+
+#cover_text h2 {
+    bottom: 600px;
+    right: 30px;
+    width: 275px;
+    height: 60px;
+    padding-top: 30px;
+    font-size: 100%;
+
 }
 
-h2 {
-    font-size: 80%;
-}
-
-#sub_logo {
-    margin-top: 2%;
-}
-
-#menu {
-    font-size: 90%;
-}
 }
 
 /* for medium screens size from 320px wide and smaller */
 
 @media screen and (max-width: 320px) {
 
-/* styling for sign up section */
+    /* styling for sign up section */
     .sign_up_form {
         left: 1%;
         right: 1%;
@@ -728,43 +760,55 @@ h2 {
         font-size: 80%;
     }
 
-/* styling for header section */
+    /* styling for header section */
 
-h1 {
-    font-size: 130%;
-    margin-top: 4%;
+    h1 {
+        font-size: 130%;
+        margin-top: 4%;
+    }
+
+    h2 {
+        font-size: 70%;
+    }
+
+    #logo_image {
+        margin-top: 2%;
+        margin-left: 42%;
+    }
+
+    header {
+        height: 20%;
+        position: relative;
+    }
+
+    #headings {
+        margin-left: 8%;
+    }
+
+    #menu li {
+        margin: 0 7px 7px 10px;
+        padding: 0 1px 0 0;
+    }
+
+    #menu {
+        font-size: 80%;
+        margin: 0 auto;
+    }
+
+    #sub_logo {
+        margin-left: 2%;
+    }
+
+        /* styling for cover text */
+
+#cover_text h2 {
+    bottom: 150px;
+    right: 10px;
+    width: 120px;
+    height: 30px;
+    padding-top: 15px;
+    font-size: 40%;
+
 }
 
-h2 {
-    font-size: 70%;
-}
-
-#logo_image {
-    margin-top: 2%;
-    margin-left: 42%;
-}
-
-header {
-    height: 20%;
-    position: relative;
-}
-
-#headings { 
-    margin-left: 8%;
-}
-
-#menu li {
-    margin: 0 7px 7px 10px;
-    padding: 0 1px 0 0;
-}
-
-#menu {
-    font-size: 80%;
-    margin: 0 auto;
-}
-
-#sub_logo {
-    margin-left: 2%;
-}
-    
 }
