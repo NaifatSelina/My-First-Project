@@ -106,6 +106,7 @@ h2 {
 #main_image {
     margin-bottom: -10px;
     overflow: hidden;
+    padding-top: 7%;
 }
 
 img {
@@ -165,6 +166,7 @@ img {
     width: 100%;
     background-color: rgb(217, 226, 215);
     margin-top: -10px;
+    padding-top: 7%;
 }
 
 .ethos_headings {
@@ -249,6 +251,7 @@ img {
     width: 100%;
     clear: left;
     background-color: rgb(230, 248, 230);
+
 }
 
 #something_to_listen_to_title {
@@ -343,6 +346,7 @@ h3 a:hover {
     height: 800px;
     background-color: rgb(217, 226, 215);
     padding-bottom: 5%;
+    padding-top: 7%;
 }
 
 #left_side {
@@ -515,6 +519,7 @@ hr {
     background-color: rgb(230, 248, 230);
     height: 900px;
     width: 100%;
+    padding-top: 4%;
 }
 
 .sign_up_form {
