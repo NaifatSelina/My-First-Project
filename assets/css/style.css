@@ -881,7 +881,10 @@ footer {
 
 /* for small screens size from 412px wide and smaller */
 @media screen and (max-width: 412px) {
-    
+    #cover_text h2 {
+        bottom: 550px;
+        right: 30px;
+    }
 }
 
 
