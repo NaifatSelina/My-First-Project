@@ -638,7 +638,6 @@ footer {
 /* media queries */
 
 /* for large to medium screens size from 1600px wide and smaller */
-
 @media screen and (max-width: 1600px) {
 
     /* styling for sign up section */
@@ -684,44 +683,7 @@ footer {
 
 }
 
-/* for large to medium screens size from 1600px wide and larger */
-
-@media screen and (max-width: 1600px) {
-
-    /* styling for sign up section */
-    .sign_up_form {
-        left: 23%;
-    }
-    /* styling for header section */
-    h1 {
-        margin-top: 11%;
-    }
-    #menu li {
-        margin: 40px 1px 1px 7px;
-    }
-    /* styling for cover text */
-    #cover_text h2 {
-        bottom: 95px;
-        right: 90px;
-    }
-    /* styling for button */
-    #button {
-        margin-left: 44%;
-    }
-    /* styling for something to listen to section */
-    #ted_talk {
-        margin-left: 170px;
-    }
-    #lofi {
-        margin-left: 15px;
-    }
-    #nature_sounds {
-        margin-left: 90px;
-    }
-
-}
 /* for large to medium screens size from 1280px wide and smaller */
-
 @media screen and (max-width: 1280px) {
 
     /* styling for sign up section */
@@ -754,8 +716,7 @@ footer {
 }
 
 /* for medium screens size from 768px wide and smaller */
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 920px) {
 
     /* styling for sign up section */
     .sign_up_form {
@@ -854,9 +815,8 @@ footer {
     }
 }
 
-/* for medium screens size from 320px wide and smaller */
-
-@media screen and (max-width: 320px) {
+/* for small screens size from 320px wide and smaller */
+@media screen and (max-width: 550px) {
 
     /* styling for sign up section */
     .sign_up_form {
