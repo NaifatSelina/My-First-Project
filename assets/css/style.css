@@ -692,6 +692,15 @@ footer {
 
     /* styling for something to listen to section */
 
+    #lofi, #ted_talk {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #ted_talk {
+        margin-left: 15px;
+    }
+
 }
 
 /* for medium screens size from 768px wide and smaller */
@@ -760,7 +769,9 @@ footer {
         font-size: 120%;
     }
 
-    #ted_talk, #lofi, #nature_sounds {
+    #ted_talk,
+    #lofi,
+    #nature_sounds {
         display: contents;
     }
 
@@ -769,25 +780,25 @@ footer {
         margin-bottom: 0;
     }
 
-     /* styling for get ready section */
+    /* styling for get ready section */
 
-     #photo_container {
-         width: 150px;
-         height: 270px;
-         padding: 50px;
-         margin-top: 20%;
-     }
+    #photo_container {
+        width: 150px;
+        height: 270px;
+        padding: 50px;
+        margin-top: 20%;
+    }
 
-     #get_ready_title {
-         font-size: 130%;
-         padding-top: 9%;
-     }
+    #get_ready_title {
+        font-size: 130%;
+        padding-top: 9%;
+    }
 
-     #right_side {
-         padding-top: 60px;
-     }
+    #right_side {
+        padding-top: 60px;
+    }
 
-     #left_side {
+    #left_side {
         padding-top: 60px;
     }
 }
