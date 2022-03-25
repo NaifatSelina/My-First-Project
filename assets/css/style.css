@@ -751,6 +751,21 @@ footer {
         margin-left: 36.5%;
     }
 
+    /* styling for something to listen to section */
+
+    #something_to_listen_to_title {
+        font-size: 180%;
+    }
+
+    #audio_titles {
+        font-size: 120%;
+    }
+
+    #ted_talk, #lofi, #nature_sounds {
+        display: contents;
+    }
+
+
 }
 
 /* for medium screens size from 320px wide and smaller */
