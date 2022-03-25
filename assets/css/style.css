@@ -863,7 +863,7 @@ footer {
 
     #logo_image {
         margin-top: 2%;
-        margin-left: 42%;
+        margin-left: 39%;
     }
 
     header {
@@ -928,7 +928,7 @@ footer {
     }
 
     #audio_titles {
-        font-size: 90%;
+        font-size: 80%;
     }
 
     #ted,
@@ -938,5 +938,66 @@ footer {
         width: 250px;
         margin-left: 10%;
     }
+
+    #ted_talk p,
+    #lofi p,
+    #nature_sounds p {
+        font-size: 70%;
+    }
+
+    /* styling for get ready section*/
+
+    #get_ready_title {
+        font-size: 100%;
+        padding-top: 12%;
+    }
+
+    #get_ready {
+        height: 1330px;
+    }
+
+    #photo_container {
+        width: 190px;
+        height: 270px;
+        padding: 20px;
+        margin-top: 15%;
+    }
+
+    #right_side,
+    #left_side {
+        width: 100%;
+    }
+
+    #left_side {
+        padding-top: 390px;
+    }
+
+    #left_side p,
+    #right_side p {
+        font-size: 70%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    #right_side p {
+        text-align: left;
+        margin-left: 5%;
+    }
+
+    .left_side_heading h2 {
+        font-size: 90%;
+        float: right;
+        margin-right: 6%;
+    }
+
+    .right_side_heading h2 {
+        font-size: 90%;
+        float: left;
+    }
+
+    #image_interval2 {
+        height: 150px;
+    }
+
 
 }
