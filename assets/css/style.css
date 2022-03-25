@@ -675,6 +675,42 @@ footer {
 
 }
 
+/* for large to medium screens size from 1600px wide and larger */
+
+@media screen and (max-width: 1600px) {
+
+    /* styling for sign up section */
+    .sign_up_form {
+        left: 23%;
+    }
+    /* styling for header section */
+    h1 {
+        margin-top: 11%;
+    }
+    #menu li {
+        margin: 40px 1px 1px 7px;
+    }
+    /* styling for cover text */
+    #cover_text h2 {
+        bottom: 95px;
+        right: 90px;
+    }
+    /* styling for button */
+    #button {
+        margin-left: 44%;
+    }
+    /* styling for something to listen to section */
+    #ted_talk {
+        margin-left: 170px;
+    }
+    #lofi {
+        margin-left: 15px;
+    }
+    #nature_sounds {
+        margin-left: 90px;
+    }
+
+}
 /* for large to medium screens size from 1280px wide and smaller */
 
 @media screen and (max-width: 1280px) {
@@ -714,7 +750,8 @@ footer {
 
     /* styling for sign up section */
     .sign_up_form {
-        left: 2%;
+        left: 7%;
+        max-width: 600px;
     }
 
     /* styling for header section */
@@ -876,12 +913,12 @@ footer {
     }
 
     #menu li {
-        margin: 0 7px 7px 10px;
+        margin: 0 13px 7px 10px;
         padding: 0 1px 0 0;
     }
 
     #menu {
-        font-size: 80%;
+        font-size: 70%;
         margin: 0 auto;
     }
 
@@ -909,6 +946,7 @@ footer {
 
     .ethos_paragraphs {
         font-size: 60%;
+        padding-top: 10px;
     }
 
     /* styling for button*/
@@ -934,7 +972,7 @@ footer {
     #ted,
     #lofi_hiphop,
     #nature {
-        height: 200px;
+        height: 170px;
         width: 250px;
         margin-left: 10%;
     }
