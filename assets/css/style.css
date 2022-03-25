@@ -56,6 +56,7 @@ h2 {
     width: 50px;
 
     border-radius: 2px;
+    border: 2px solid #4E130D;
 
     margin-top: -95px;
     margin-left: 101%;
@@ -692,7 +693,8 @@ footer {
 
     /* styling for something to listen to section */
 
-    #lofi, #ted_talk {
+    #lofi,
+    #ted_talk {
         margin-left: 0;
         margin-right: 0;
     }
@@ -701,6 +703,9 @@ footer {
         margin-left: 15px;
     }
 
+    #nature_sounds {
+        margin-left: 80px;
+    }
 }
 
 /* for medium screens size from 768px wide and smaller */
@@ -915,6 +920,23 @@ footer {
     #button {
         margin-left: 34%;
         padding: 10px 10px 10px 10px;
+    }
+
+    /* styling for something to listen to section*/
+    #something_to_listen_to_title {
+        font-size: 90%;
+    }
+
+    #audio_titles {
+        font-size: 90%;
+    }
+
+    #ted,
+    #lofi_hiphop,
+    #nature {
+        height: 200px;
+        width: 250px;
+        margin-left: 10%;
     }
 
 }
