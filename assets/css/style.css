@@ -716,6 +716,16 @@ footer {
 
 }
 
+/* styling for ethos section */
+
+.ethos_headings {
+    font-size: 160%;
+}
+
+.ethos_paragraphs {
+    font-size: 90%;
+}
+
 }
 
 /* for medium screens size from 320px wide and smaller */
@@ -809,6 +819,16 @@ footer {
     padding-top: 15px;
     font-size: 40%;
 
+}
+
+/* styling for ethos section */
+
+.ethos_headings {
+    font-size: 80%;
+}
+
+.ethos_paragraphs {
+    font-size: 60%;
 }
 
 }
