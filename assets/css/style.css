@@ -1003,4 +1003,15 @@ footer {
     #image_interval {
         height: 80px;
     }
+
+    /* styling for footer*/
+    #footer li a {
+        padding-right: 5px;
+        padding-left: 10px;
+    }
+
+    #footer_text {
+        font-size: 60%;
+        margin: 20px;
+    }
 }
