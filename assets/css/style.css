@@ -715,8 +715,72 @@ footer {
     }
 }
 
+/* for large to medium screens size from 1224px wide and smaller */
+@media screen and (max-width: 1224px) {
+
+    /* styling for sign up section */
+    .sign_up_form {
+        left: 7%;
+    }
+
+    /* styling for something to listen to section */
+    #something_to_listen_to_title {
+        font-size: 180%;
+    }
+
+    #audio_titles {
+        font-size: 120%;
+    }
+
+    #ted_talk,
+    #lofi,
+    #nature_sounds {
+        display: contents;
+    }
+
+    #nature_sounds p {
+        padding-bottom: 40px;
+        margin-bottom: 0;
+    }
+
+    /* styling for get ready section */
+
+    #photo_container {
+        width: 150px;
+        height: 270px;
+        padding: 50px;
+        margin-top: 20%;
+    }
+
+    #get_ready_title {
+        font-size: 130%;
+        padding-top: 9%;
+    }
+
+    #right_side {
+        padding-top: 60px;
+    }
+
+    #left_side {
+        padding-top: 60px;
+    }
+
+    /* styling for button */
+    #button {
+        margin-left: 39%;
+    }
+
+    /* styling for cover text */
+
+    #cover_text h2 {
+        width: 350px;
+        padding-top: 40px;
+        font-size: 110%;
+    }
+}
+
 /* for medium screens size from 768px wide and smaller */
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 768px) {
 
     /* styling for sign up section */
     .sign_up_form {
@@ -816,7 +880,7 @@ footer {
 }
 
 /* for small screens size from 320px wide and smaller */
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 320px) {
 
     /* styling for sign up section */
     .sign_up_form {
