@@ -130,6 +130,17 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <li>The gallery would include inspiration pictures of different at home work set ups and you be located on a separate page within the webpage.</li>
 </ul>
 
+<!--technologies used-->
+<h2>Technologies Used</h2>
+<ul>
+<li>HTML5- used to provide the content and structure of the webpage. </li>
+<li>CSS3- styling of webpage.</li>
+<li>Balsamiq- wireframes for webpage design.</li>
+<li>GitPod- used to create and update webpage.</li>
+<li>GitBash- used to push project to GitHub after changes through repositories. </li>
+<li>GitHub- stores and deploys the webpage.</li>
+</ul>
+
 
 
 
