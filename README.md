@@ -156,6 +156,17 @@ More so, the main image includes cover text which enlarges as the page is loaded
 
 <!--bugs and fixes-->
 <h2>Bugs and Fixes</h2>
+<hr>
+
+<!--deployment-->
+<h2>Deployment</h2>
+<ol>
+<li>Go to First Project. GitHub repository and enter settings.</li> 
+<li>Navigate to Pages Tab.</li> 
+<li>Select Source and change the branch to master- save.</li> 
+<li>Page refreshes and site is deployed.</li> 
+</ol>
+<hr>
 
 
 
