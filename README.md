@@ -50,5 +50,5 @@
 <!--user experience-->
 <h2>User Experience</h2>
 <h3>Design Wireframes</h3>
-<p>Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
+<p>Initially, to design the layout of Work from Home Guide, <a href="https://balsamiq.com/" target="_blank">Balsamiq</a> was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
 
