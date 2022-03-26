@@ -683,8 +683,8 @@ footer {
 
 }
 
-/* for large to medium screens size from 1280px wide and smaller */
-@media screen and (max-width: 1280px) {
+/* for large to medium screens size from 1680px wide and smaller */
+@media screen and (max-width: 1680px) {
 
     /* styling for sign up section */
     .sign_up_form {
@@ -785,7 +785,7 @@ footer {
     /* styling for sign up section */
     .sign_up_form {
         left: 7%;
-        max-width: 600px;
+        max-width: 550px;
     }
 
     /* styling for header section */
@@ -878,15 +878,6 @@ footer {
         padding-top: 60px;
     }
 }
-
-/* for small screens size from 412px wide and smaller */
-@media screen and (max-width: 412px) {
-    #cover_text h2 {
-        bottom: 550px;
-        right: 30px;
-    }
-}
-
 
 /* for small screens size from 320px wide and smaller */
 @media screen and (max-width: 320px) {
