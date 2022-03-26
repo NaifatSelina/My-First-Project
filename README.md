@@ -5,4 +5,42 @@
 <!--site link-->
 <p>You can view the live site here- Work from Home Guide.</p>
 <!--image of webpage on multiple screens-->
-
+<hr>
+<!--contents-->
+<h2>Contents.</h2>
+<ul>
+<li>Project Aim</li>
+<li>User Experience</li>
+<ul>
+<li>Design Wireframes</li>
+<li>Webpage Structure</li>
+<li>Reasons For Design</li>
+<li>Fonts</li>
+<li>Colour Scheme</li>
+</ul>
+<li>Features</li>
+<ul>
+<li>Home</li>
+<li>Navigation Menu</li>
+<li>Home</li>
+<li>About</li>
+<li>Your Space</li>
+<li>Sign Up</li>
+<li>Footer</li>
+</ul>
+<li>Future Features</li>
+<ul>
+<li>Candle Section</li>
+<li>Chat Forum</li>
+<li>Gallery</li>
+</ul>
+<li>Technologies Used</li>
+<li>Testing</li>
+<li>Bugs and Fixes</li>
+<li>Deployment</li>
+<li>Credits</li>
+<ul>
+<li>Media</li>
+<li>Content</li>
+</ul>
+</ul>
