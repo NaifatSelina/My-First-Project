@@ -11,7 +11,7 @@ body {
     color: #000000;
 }
 
-/* webpage headings, sub_logo and logo */
+/* webpage main and sub heading */
 
 header {
     height: 17%;
@@ -26,8 +26,7 @@ h1 {
     color: #4E130D;
     font-weight: bold;
     margin-top: 8%;
-    letter-spacing: 2px;
-    
+    letter-spacing: 2px;    
 }
 
 h2 {
@@ -36,6 +35,8 @@ h2 {
     font-style: oblique;
     letter-spacing: 2px;
     font-weight: 200;
+    margin-top: 1%;
+    margin-left: 2.7%;
 }
 
 #headings {
@@ -43,11 +44,7 @@ h2 {
     margin-left: 0.5%;
 }
 
-
-#sub_logo {
-    margin-top: 1%;
-    margin-left: 2.7%;
-}
+/* logo image */
 
 #logo_image {
     height: 50px;
@@ -59,6 +56,7 @@ h2 {
     margin-top: -95px;
     margin-left: 101%;
     margin-bottom: 7.5%;
+    padding: 0;
 }
 
 /* navigation menu links*/
@@ -681,40 +679,8 @@ footer {
 
 }
 
-/* for large to medium screens size from 1680px wide and smaller */
-@media screen and (max-width: 1680px) {
-
-    /* styling for sign up section */
-    .sign_up_form {
-        left: 16%;
-    }
-
-    /* styling for cover text */
-
-    #cover_text h2 {
-        bottom: 60px;
-        right: 40px;
-    }
-
-    /* styling for something to listen to section */
-
-    #lofi,
-    #ted_talk {
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    #ted_talk {
-        margin-left: 15px;
-    }
-
-    #nature_sounds {
-        margin-left: 80px;
-    }
-}
-
-/* for large to medium screens size from 1224px wide and smaller */
-@media screen and (max-width: 1224px) {
+/* for large to medium screens size from 1280px wide and smaller */
+@media screen and (max-width: 1280px) {
 
     /* styling for sign up section */
     .sign_up_form {
