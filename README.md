@@ -168,6 +168,20 @@ More so, the main image includes cover text which enlarges as the page is loaded
 </ol>
 <hr>
 
+<!--credits-->
+<h2>Credits</h2>
+<h3>Media</h3>
+<ul>
+<li>Pexels- Images used within webpage.</li>
+<li>YouTube- YouTube videos in the webpage.</li>
+<li>Wix- Logo used in header.</li>
+</ul>
+<h3>Content</h3>
+<ul>
+<li>Font Awesome- Icons used throughout webpage.</li>
+<li>Google Fonts- Font used throughout webpage.</li>
+<li>HTML Color Codes-Used to select colours for webpage.</li>
+</ul>
 
 
 
