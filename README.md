@@ -61,9 +61,9 @@
 <!--reasons for design-->
 <h3>Reasons for Design</h3>
 <ul>
-<li>Fonts</li>
+<h4>Fonts</h4>
 <p>For consistency the chosen font I used was ****, with sans-serif as the fall-back font to be used if **** cannot be loaded by the browser. I gravitated towards **** as it is a font tha maintains a fresh, formal and professional look across the webpage but is still very inviting due to its’ slightly rounded edges. Across the webpage to create a dynamic feel I used a range of font-sizes, font-weights and alternated between a normal and oblique version of the font whilst still keeping it as ****.</p>
-<li>Colour Scheme</li>
+<h4>Colour Scheme</h4>
 <p>The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and welcoming feelings. Combined, the colours perfectly corresponded with the desire overall feel of the webpage.</p>
 </ul>
 <hr>
