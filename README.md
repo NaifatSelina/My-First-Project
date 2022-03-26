@@ -155,6 +155,9 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <hr>
 
 <!--bugs and fixes-->
+<h2>Bugs and Fixes</h2>
+
+
 
 
 
