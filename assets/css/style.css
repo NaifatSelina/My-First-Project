@@ -61,40 +61,25 @@ h2 {
 
 /* navigation menu links*/
 
-#menu {
-    font-size: 100%;
-    letter-spacing: 2px;
-    font-weight: bold;
-}
 
-#menu a:active {
-    font-weight: 700;
-}
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin: 37px 1px 1px 7px;
-    padding: 0px 3px 0 0;
-    border-right: 1px solid #000000;
-}
-
-#menu li:first-child {
-    border-right: none;
+    margin-right: 30px;
 }
 
 #menu a {
     text-decoration: none;
-    color: #4E130D;
-
+    color: inherit;
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #000000;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
-    border-bottom: 2px solid #000000;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 
@@ -992,12 +977,23 @@ footer {
         font-size: 90%;
         float: left;
     }
+
 }
 
 /* for medium screens size from 646px wide and smaller */
 @media screen and (max-width: 646px) {
+/* styling to remove cover text */
 #cover_text h2 {
     display: none;
+}
+
+/* styling for navigation menu */
+#menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
 }
 }
 
@@ -1146,7 +1142,7 @@ footer {
     }
 
     #get_ready {
-        height: 1330px;
+        height: 1530px;
     }
 
     #photo_container {
