@@ -7,7 +7,7 @@
 <!--image of webpage on multiple screens-->
 <hr>
 <!--contents-->
-<h2>Contents.</h2>
+<h2>Contents</h2>
 <ul>
 <li>Project Aim</li>
 <li>User Experience</li>
@@ -44,3 +44,6 @@
 <li>Content</li>
 </ul>
 </ul>
+<!--project aim-->
+<h2>Project Aim</h2>
+<p>The goal of my first project is to create a professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
