@@ -47,3 +47,8 @@
 <!--project aim-->
 <h2>Project Aim</h2>
 <p>The goal of my first project is to create a professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
+<!--user experience-->
+<h2>User Experience</h2>
+<h3>Design Wireframes</h3>
+<p>Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
+
