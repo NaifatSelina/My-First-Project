@@ -20,8 +20,7 @@
 </ul>
 <li>Features</li>
 <ul>
-<li>Home</li>
-<li>Navigation Menu</li>
+<li>Main Titles Navigation Menu</li>
 <li>Home</li>
 <li>About</li>
 <li>Your Space</li>
@@ -67,6 +66,32 @@
 <p>The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and welcoming feelings. Combined, the colours perfectly corresponded with the desire overall feel of the webpage.</p>
 </ul>
 <hr>
+<!--features-->
+<h2>Features</h2>
+<p>The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this. </p>
+<hr>
+<h4>Main Titles and Navigation Menu</h4>
+<ul>
+<p>The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.</p>
+<p>The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user.</p>
+</ul>
+<h4>Home</h4>
+<ul>
+<p>The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.</p>
+<p>The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop.  
+More so, the main image includes cover text which enlarges as the page is loaded, with the main aim of the webpage encompassed in a single sentence ‘intertwining...’ to immediately inform the user on what to expect and the aim of the webpage.</p>
+</ul>
+<h4>About</h4>
+<ul>
+</ul>
+<h4>Your Space</h4>
+<ul>
+</ul>
+<h4>Sign Up</h4>
+<ul>
+</ul>
+<h4>Footer</h4>
+
 
 
 
