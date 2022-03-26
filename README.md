@@ -5,5 +5,4 @@
 <!--site link-->
 <p>You can view the live site here- Work from Home Guide.</p>
 <!--image of webpage on multiple screens-->
-<img src="https://images.pexels.com/photos/4050284/pexels-photo-4050284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-     alt="image of webpage on various devices">
+
