@@ -51,4 +51,6 @@
 <h2>User Experience</h2>
 <h3>Design Wireframes</h3>
 <p>Initially, to design the layout of Work from Home Guide, <a href="https://balsamiq.com/" target="_blank">Balsamiq</a> was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
+<h3>Webpage Structure</h3>
+<p>Work from Home is a webpage the occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. </p>
 
