@@ -680,6 +680,14 @@ footer {
 
 }
 
+/* for large to medium screens size from 1454px wide and smaller and 734px and larger*/
+@media screen and (max-width: 1454px) and (min-width: 734px ) {
+
+    #cover_text h2 {
+        display: none;
+    }
+}
+
 /* for large to medium screens size from 1400px wide and smaller */
 @media screen and (max-width: 1400px) {
 
@@ -931,6 +939,12 @@ footer {
     #left_side {
         padding-top: 60px;
     }
+}
+
+/* for medium screens size from 646px wide and smaller */
+@media screen and (max-width: 646px) {
+#cover_text h2 {
+    display: none;
 }
 
 /* for small screens size from 320px wide and smaller */
