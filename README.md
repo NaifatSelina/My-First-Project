@@ -72,14 +72,14 @@
 <hr>
 <h4>Main Titles and Navigation Menu</h4>
 <ul>
-<p>The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.</p>
-<p>The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user.</p>
+<li>The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.</li>
+<li>The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user.</li>
 </ul>
 <h4>Home</h4>
 <ul>
-<p>The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.</p>
-<p>The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop.  
-More so, the main image includes cover text which enlarges as the page is loaded, with the main aim of the webpage encompassed in a single sentence ‘intertwining...’ to immediately inform the user on what to expect and the aim of the webpage.</p>
+<li>The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.</li>
+<li>The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop.  
+More so, the main image includes cover text which enlarges as the page is loaded, with the main aim of the webpage encompassed in a single sentence ‘intertwining...’ to immediately inform the user on what to expect and the aim of the webpage.</li>
 </ul>
 <h4>About</h4>
 <ul>
