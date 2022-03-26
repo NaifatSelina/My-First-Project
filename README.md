@@ -114,10 +114,21 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <h2>Future Features</h2>
 <!--candle section-->
 <h4>Candle Section</h4>
+<ul>
+<li>A candle section will allow the user to shop for an array of candles once on the site to begin their self-care journey and journey in enhancing their work space at home.</li>
+<li>This would be on a separate page within the webpage and would allow the user to sign-up for a candle subscription if they would prefer to do so.</li>
+</ul>
 <!--chat forum-->
 <h4>Chat Forum</h4>
+<ul>
+<li>The chat forum would allow users working from home to chat about their day and engage in socialising to reduce feelings of loneliness.</li>
+<li>This would be a monitored chat forum to avoid cyber abuse or offensive language.</li>
+</ul>
 <!--gallery-->
 <h4>Gallery</h4>
+<ul>
+<li>The gallery would include inspiration pictures of different at home work set ups and you be located on a separate page within the webpage.</li>
+</ul>
 
 
 
