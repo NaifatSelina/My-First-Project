@@ -50,7 +50,7 @@
 
 <!--project aim-->
 <h2>Project Aim</h2>
-<p>The goal of my first project is to create a professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
+<p>The goal of my first project is to create a visually professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
 
 <!--user experience-->
 <h2>User Experience</h2>
@@ -61,15 +61,15 @@
 <hr>
 <!--webpage structure-->
 <h3>Webpage Structure</h3>
-<p>Work from Home is a webpage the occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. </p>
+<p>Work from Home is a webpage that occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed on desktop and tablet devices, the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. To enchance user experience the header is not fixed on mobiles to avoid the header taking up a large majority of the screen and becoming distractive. </p>
 <hr>
 <!--reasons for design-->
 <h3>Reasons for Design</h3>
 <ul>
 <h4>Fonts</h4>
-<li>For consistency the chosen font I used was ****, with sans-serif as the fall-back font to be used if **** cannot be loaded by the browser. I gravitated towards **** as it is a font tha maintains a fresh, formal and professional look across the webpage but is still very inviting due to its’ slightly rounded edges. Across the webpage to create a dynamic feel I used a range of font-sizes, font-weights and alternated between a normal and oblique version of the font whilst still keeping it as ****.</li>
+<li>For consistency the chosen font I used was Libre Franklin, with sans-serif as the fall-back font to be used if Libre Franklin cannot be loaded by the browser. I gravitated towards Libre Franklin as it is a font tha maintains a fresh, formal and professional look across the webpage but is still very inviting due to its’ slightly rounded edges. Across the webpage, to create a dynamic feel, I used a range of font-sizes, font-weights and alternated between a normal and oblique version of the font whilst still keeping it as Libre Franklin.</li>
 <h4>Colour Scheme</h4>
-<li>The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and welcoming feelings. Combined, the colours perfectly corresponded with the desire overall feel of the webpage.</li>
+<li>The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and a welcoming feel. Combined, the colours perfectly corresponded with the desired overall feel of the webpage.</li>
 </ul>
 <hr>
 <!--features-->
