@@ -89,11 +89,19 @@ More so, the main image includes cover text which enlarges as the page is loaded
 </ul>
 <h4>Your Space</h4>
 <ul>
+<li>The Your Space Section begins with the ‘Something...’ which allows the user to select a YouTube video to listen to before the continue- with options including a Ted Talk, Lofi Hip-Hip video or a video of Nature Sounds. Under the sub-heading the Ted Talk, Lofi and Nature Sounds headings can be clicked and take you to each individual YouTube page if the user would prefer to select a different talk, lofi video or nature sounds video to listen to. If not, the user can select one of the three videos presented with their short description and carry on to the next portion of the webpage.</li>
+<li>Followed by this is the Get Ready portion of the Your Space section which gives the user information on how they can get themselves, their space, desk and work chair ready for the day in an effective way to ensure productivity and calm. This information is short and simple to prevent information overload.</li>
 </ul>
 <h4>Sign Up</h4>
 <ul>
+<li>Above the Sign-Up section is another image interval that is identical to the one under the About section.</li>
+<li>The Sign-Up section is an opportunity for the user to enter in a draw to win a candle of their choice. It maintains the simple and fresh look of the webpage and once submitted presents the user with a pop up thanking them for entering the draw- upon closing this pop up the webpage will take the user back to the home section.</li>
 </ul>
 <h4>Footer</h4>
+<ul>
+<li>The footer is very simplistic, occupying a white background to match the header it simply includes three social media icons that are black to match the colour scheme and will take the user to each social media page which opens on a different tab.</li>
+<li>Under the social media tabs there is a brief line of text stated the webpage creator and copyright information.</li>
+</ul>
 
 
 
