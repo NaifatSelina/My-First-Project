@@ -21,23 +21,21 @@ header {
     z-index: 5;
 }
 
-h1,
-h2 {
-    letter-spacing: 2px;
-    font-weight: 200;
-}
-
 h1 {
     font-size: 180%;
     color: #4E130D;
     font-weight: bold;
     margin-top: 8%;
+    letter-spacing: 2px;
+    
 }
 
 h2 {
     font-size: 90%;
     color: #000000;
     font-style: oblique;
+    letter-spacing: 2px;
+    font-weight: 200;
 }
 
 #headings {
