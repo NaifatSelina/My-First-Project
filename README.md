@@ -1,11 +1,15 @@
 <!--main title-->
 <h1>Work from Home Guide- Project Portfolio 1 – HTML & CSS.</h1>
+
 <!--description paragraph-->
 <p>Work from Home Guide is an independently built website aimed to help the large majority or people who have settled into remote or hybrid working, post the coronavirus pandemic, navigate the dally schedule required to efficiently work from home. The simplicity and straight forward fashion of the website makes it perfect for busy professionals looking for simple tips and information to help them reach their work life balance goals.</p>
+
 <!--site link-->
 <p>You can view the live site here- Work from Home Guide.</p>
+
 <!--image of webpage on multiple screens-->
 <hr>
+
 <!--contents-->
 <h2>Contents</h2>
 <ul>
@@ -43,9 +47,11 @@
 <li>Content</li>
 </ul>
 </ul>
+
 <!--project aim-->
 <h2>Project Aim</h2>
 <p>The goal of my first project is to create a professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
+
 <!--user experience-->
 <h2>User Experience</h2>
 <hr>
@@ -102,6 +108,16 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <li>The footer is very simplistic, occupying a white background to match the header it simply includes three social media icons that are black to match the colour scheme and will take the user to each social media page which opens on a different tab.</li>
 <li>Under the social media tabs there is a brief line of text stated the webpage creator and copyright information.</li>
 </ul>
+<hr>
+
+<!--future features-->
+<h2>Future Features</h2>
+<!--candle section-->
+<h4>Candle Section</h4>
+<!--chat forum-->
+<h4>Chat Forum</h4>
+<!--gallery-->
+<h4>Gallery</h4>
 
 
 
