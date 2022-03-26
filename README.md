@@ -57,7 +57,7 @@
 <hr>
 <!--design wireframes-->
 <h3>Design Wireframes</h3>
-<p>Initially, to design the layout of Work from Home Guide, <a href="https://balsamiq.com/" target="_blank">Balsamiq</a> was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
+<p>Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
 <hr>
 <!--webpage structure-->
 <h3>Webpage Structure</h3>
@@ -129,6 +129,7 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <ul>
 <li>The gallery would include inspiration pictures of different at home work set ups and you be located on a separate page within the webpage.</li>
 </ul>
+<hr>
 
 <!--technologies used-->
 <h2>Technologies Used</h2>
@@ -140,6 +141,20 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <li>GitBash- used to push project to GitHub after changes through repositories. </li>
 <li>GitHub- stores and deploys the webpage.</li>
 </ul>
+<hr>
+
+<!--testing-->
+<h2>Testing</h2>
+<p>The code for Work from Home Guide has been tested and validated by W3C HTML Validator, W3C CSS Validator and Chrome Dev Tools.</p>
+<ul>
+<li>W3C HTML Validator</li>
+<li>W3C CSS Validator</li>
+<li>Chrome Dev Tools</li>
+<li>Lighthouse Testing</li>
+</ul>
+<hr>
+
+<!--bugs and fixes-->
 
 
 
