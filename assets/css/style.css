@@ -61,8 +61,6 @@ h2 {
 
 /* navigation menu links*/
 
-
-
 #menu li {
     float: right;
     list-style-type: none;
@@ -71,17 +69,17 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: #000000;
+    font-weight: bold;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 2px solid #1a0604;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 2px solid #1a0604;
 }
-
 
 /*main image*/
 
@@ -994,6 +992,10 @@ footer {
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
+}
+
+header {
+    height: 27%;
 }
 }
 
