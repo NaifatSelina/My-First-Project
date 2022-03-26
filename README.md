@@ -49,8 +49,24 @@
 <p>The goal of my first project is to create a professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
 <!--user experience-->
 <h2>User Experience</h2>
+<hr>
+<!--design wireframes-->
 <h3>Design Wireframes</h3>
 <p>Initially, to design the layout of Work from Home Guide, <a href="https://balsamiq.com/" target="_blank">Balsamiq</a> was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
+<hr>
+<!--webpage structure-->
 <h3>Webpage Structure</h3>
 <p>Work from Home is a webpage the occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. </p>
+<hr>
+<!--reasons for design-->
+<h3>Reasons for Design</h3>
+<ul>
+<li>Fonts</li>
+<p>For consistency the chosen font I used was ****, with sans-serif as the fall-back font to be used if **** cannot be loaded by the browser. I gravitated towards **** as it is a font tha maintains a fresh, formal and professional look across the webpage but is still very inviting due to its’ slightly rounded edges. Across the webpage to create a dynamic feel I used a range of font-sizes, font-weights and alternated between a normal and oblique version of the font whilst still keeping it as ****.</p>
+<li>Colour Scheme</li>
+<p>The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and welcoming feelings. Combined, the colours perfectly corresponded with the desire overall feel of the webpage.</p>
+</ul>
+<hr>
+
+
 
