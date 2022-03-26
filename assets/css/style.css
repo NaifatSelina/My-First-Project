@@ -997,6 +997,10 @@ footer {
 header {
     height: 27%;
 }
+
+hr {
+    display: none;
+}
 }
 
 /* for small screens size from 320px wide and smaller */
