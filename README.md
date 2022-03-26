@@ -83,6 +83,9 @@ More so, the main image includes cover text which enlarges as the page is loaded
 </ul>
 <h4>About</h4>
 <ul>
+<li>The About section of Work from Home Guide is divided into 3 mini sections of information which essentially summarise the main aim of the webpage, the reasons for the webpage and how I aim to help the user reach this aim.</li>
+<li>The About section provides clarity from the start of the webpage, promoting the feeling of calmness within the user.</li>
+<li>The About section is followed by a brief image interval which includes a button that is able to take the user straight to the sign-up page to win a free candle.</li>
 </ul>
 <h4>Your Space</h4>
 <ul>
