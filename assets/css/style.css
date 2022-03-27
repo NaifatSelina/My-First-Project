@@ -618,7 +618,7 @@ footer {
 /* media queries */
 
 /* for large to medium screens size from 1600px wide and smaller */
-@media screen and (max-width: 1600px) {
+@media screen and (max-width: 1900px) {
 
     /* styling for sign up section */
     .sign_up_form {
@@ -664,7 +664,7 @@ footer {
 }
 
 /* for large to medium screens size from 1454px wide and smaller and 734px and larger*/
-@media screen and (max-width: 1454px) and (min-width: 734px ) {
+@media screen and (max-width: 1412px) and (min-width: 734px ) {
 
     #cover_text h2 {
         display: none;
@@ -811,6 +811,19 @@ footer {
         padding-top: 40px;
         font-size: 110%;
     }
+}
+
+/* for medium screens size from 884px wide and smaller */
+@media screen and (max-width: 884px) {
+#ted, #lofi_hiphop, #nature {
+    margin-left: 0;
+}
+
+.sign_up_form {
+    left: 1%;
+    max-width: 700px;
+}
+
 }
 
 /* for medium screens size from 768px wide and smaller */
