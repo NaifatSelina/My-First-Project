@@ -1231,3 +1231,10 @@ hr {
         margin: 20px;
     }
 }
+
+/* for small screens size from 284px wide and smaller */
+@media screen and (max-width: 284px) {
+ #ted, #lofi_hiphop, #nature {
+     width: 180px;
+ }
+}
