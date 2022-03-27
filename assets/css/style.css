@@ -233,8 +233,6 @@ img {
     clear: left;
     background-color: rgb(230, 248, 230);
     padding-bottom: 4%;
-    margin-top: 25px;
-
 }
 
 #something_to_listen_to_title {
@@ -245,6 +243,7 @@ img {
     font-weight: bold;
 
     margin-left: 5%;
+    margin-top: 10px;
     padding-top: 8%;
     padding-bottom: 1.5%;
     border-bottom: 1px solid #000000;
