@@ -379,13 +379,13 @@ hr {
 .left_side_heading h2 {
     font-size: medium;
     font-weight: 600;
+    font-style: normal;
 }
 
 .left_side_heading p {
     font-style: normal;
     text-align: left;
 }
-
 
 .right_side_heading {
     width: 60%;
@@ -398,6 +398,7 @@ hr {
     text-align: right;
     font-size: medium;
     font-weight: 600;
+    font-style: normal;
 }
 
 .right_side_heading p {
@@ -409,6 +410,7 @@ hr {
     letter-spacing: 6px;
     font-weight: bold;
     font-style: normal;
+    color: #5f2019;
     padding-bottom: 0.5%;
     text-align: center;
     padding-top: 5%;
@@ -417,8 +419,15 @@ hr {
 
 #get_ready hr {
     width: 80%;
-    margin-left: 9%;
+    margin: auto;
+    color: #4E130D;
 }
+
+.right_side_heading hr,
+.left_side_heading hr {
+    display: none;
+}
+
 
 /* get ready section image and container*/
 
@@ -929,9 +938,9 @@ footer {
 
 /* for medium screens size from 698px wide and smaller */
 @media screen and (max-width: 698px) {
-hr {
-    display: none;
-}
+    hr {
+        display: none;
+    }
 }
 
 /* for medium screens size from 676px wide and smaller */
@@ -989,7 +998,7 @@ hr {
 }
 
 /* for medium screens size from 646px wide and smaller */
-@media screen and (max-width: 646px){
+@media screen and (max-width: 646px) {
 
     /* styling to remove cover text */
     #cover_text h2 {
@@ -1246,19 +1255,22 @@ hr {
 
 /* for small screens size from 245px wide and smaller */
 @media screen and (max-width: 245px) {
-#menu {
-    font-size: 60%;
-}
+    #menu {
+        font-size: 60%;
+    }
 
-h1 {
-    font-size: 110%;
-}
+    h1 {
+        font-size: 110%;
+    }
 }
 
 
 /* for small screens size from 213px wide and smaller */
 @media screen and (max-width: 213px) {
-    #ted, #lofi_hiphop, #nature {
+
+    #ted,
+    #lofi_hiphop,
+    #nature {
         width: 140px;
     }
 }
