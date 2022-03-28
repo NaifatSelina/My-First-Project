@@ -239,8 +239,7 @@ img {
     width: 90%;
     color: #000000;
     font-weight: bold;
-
-    margin-left: 5%;
+    text-align: center;
     margin-top: 10px;
     padding-top: 8%;
     padding-bottom: 1.5%;
@@ -252,8 +251,7 @@ img {
     font-weight: 500;
     font-style: normal;
     font-size: 90%;
-
-    margin-left: 5%;
+    text-align: center;
     padding-top: 10px;
     padding-bottom: 50px;
 }
@@ -798,7 +796,7 @@ footer {
     }
 
     header {
-        height: 15%;
+        height: 20%;
     }
 }
 
