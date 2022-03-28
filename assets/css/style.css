@@ -267,7 +267,7 @@ h3 a {
 }
 
 h3 a:hover {
-    text-decoration: underline;
+    text-decoration: underline #e45807;
 }
 
 /* something to listen to section videos */
@@ -1242,6 +1242,10 @@ hr {
     #footer_text {
         font-size: 60%;
         margin: 20px;
+    }
+
+    #menu {
+        font-size: 80%;
     }
 }
 
