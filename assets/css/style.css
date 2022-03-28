@@ -591,6 +591,10 @@ footer {
     padding: 10px 0 0 5px;
 }
 
+.social_links i:hover {
+    color: #6b2a24;
+}
+
 .social_links li {
     display: inline;
 }
