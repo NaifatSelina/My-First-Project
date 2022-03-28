@@ -512,8 +512,7 @@ hr {
     background-color: rgba(123, 75, 70, 0.8);
     border: 2px solid #000000;
     max-width: 800px;
-    position: absolute;
-    left: 20%;
+    margin: auto;
     padding: 30px;
     border-radius: 3px;
 }
@@ -620,11 +619,6 @@ footer {
 /* for large to medium screens size from 1600px wide and smaller */
 @media screen and (max-width: 1900px) {
 
-    /* styling for sign up section */
-    .sign_up_form {
-        left: 23%;
-    }
-
     /* styling for header section */
     h1 {
         margin-top: 11%;
@@ -681,9 +675,6 @@ footer {
     }
 
     /* styling for sign up section */
-    .sign_up_form {
-        left: 17%;
-    }
 
     #get_started {
         padding-left: 45px;
@@ -738,10 +729,6 @@ footer {
     }
 
     /* styling for sign up section */
-    .sign_up_form {
-        left: 17%;
-    }
-
     #get_started {
         padding-left: 45px;
     }
@@ -823,7 +810,6 @@ footer {
     }
 
     .sign_up_form {
-        left: 1%;
         max-width: 700px;
     }
 
@@ -834,7 +820,6 @@ footer {
 
     /* styling for sign up section */
     .sign_up_form {
-        left: 7%;
         max-width: 550px;
     }
 
@@ -1003,7 +988,7 @@ hr {
 }
 
 /* for medium screens size from 646px wide and smaller */
-@media screen and (max-width: 646px) {
+@media screen and (max-width: 646px){
 
     /* styling to remove cover text */
     #cover_text h2 {
@@ -1061,11 +1046,6 @@ hr {
 @media screen and (max-width: 320px) {
 
     /* styling for sign up section */
-    .sign_up_form {
-        left: 1%;
-        right: 1%;
-    }
-
     #get_started {
         font-size: 90%;
         padding-left: 10px;
