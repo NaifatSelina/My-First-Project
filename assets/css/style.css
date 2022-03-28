@@ -1258,3 +1258,22 @@ footer {
     }
 
 }
+
+/* for small screens size from 245px wide and smaller */
+@media screen and (max-width: 245px) {
+#menu {
+    font-size: 60%;
+}
+
+h1 {
+    font-size: 110%;
+}
+}
+
+
+/* for small screens size from 213px wide and smaller */
+@media screen and (max-width: 213px) {
+    #ted, #lofi_hiphop, #nature {
+        width: 140px;
+    }
+}
