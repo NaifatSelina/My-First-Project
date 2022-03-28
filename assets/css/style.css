@@ -795,10 +795,22 @@ footer {
         padding-top: 40px;
         font-size: 110%;
     }
+
+    header {
+        height: 15%;
+    }
 }
 
+/* for large to medium screens size from 1024px wide and smaller */
+@media screen and (max-width: 1024px) {
+    header {
+        height: 20%;
+    }
+}
+
+
 /* for medium screens size from 884px wide and smaller */
-@media screen and (max-width: 884px) {
+@media screen and (max-width: 912px) {
 
     #ted,
     #lofi_hiphop,
@@ -808,6 +820,10 @@ footer {
 
     .sign_up_form {
         max-width: 700px;
+    }
+
+    header {
+        height: 10%;
     }
 
 }
