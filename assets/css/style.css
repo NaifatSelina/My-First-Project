@@ -941,6 +941,13 @@ footer {
     }
 }
 
+/* for medium screens size from 698px wide and smaller */
+@media screen and (max-width: 698px) {
+hr {
+    display: none;
+}
+}
+
 /* for medium screens size from 676px wide and smaller */
 @media screen and (max-width: 676px) {
     /* styling for get ready section*/
