@@ -250,13 +250,17 @@ img {
     font-style: normal;
     font-family: Merriweather Sans, sans-serif;
     width: 90%;
-    color: #000000;
+    color: #4E130D;
     font-weight: bold;
     text-align: center;
     margin-top: 10px;
     padding-top: 7%;
     padding-bottom: 1.5%;
-    border-bottom: 1px solid #000000;
+}
+
+#something_to_section hr {
+    width: 80%;
+    margin: auto;
 }
 
 #audio_titles {
