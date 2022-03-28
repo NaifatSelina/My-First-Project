@@ -71,6 +71,7 @@ h2 {
     text-decoration: none;
     color: #000000;
     font-weight: bold;
+    font-size: 120%;
 }
 
 #menu a:hover {
@@ -1003,6 +1004,7 @@ hr {
     hr {
         display: none;
     }
+
 }
 
 /* for medium screens size from 468px wide and smaller */
