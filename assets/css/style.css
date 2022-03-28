@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -23,6 +23,7 @@ header {
 
 h1 {
     font-size: 180%;
+    font-family: Merriweather Sans, sans-serif;
     color: #4E130D;
     font-weight: bold;
     margin-top: 8%;
@@ -155,6 +156,7 @@ img {
     margin-bottom: 1%;
     font-size: 200%;
     color: #4E130D;
+    font-family: Merriweather Sans, sans-serif;
 }
 
 #ethos hr {
@@ -177,7 +179,7 @@ img {
     font-weight: 300;
     text-align: left;
 
-    width: 90%;
+    width: 100%;
     margin: 0;
     padding-top: 0.5%;
     padding-bottom: 1.5%;
@@ -244,8 +246,9 @@ img {
 }
 
 #something_to_listen_to_title {
-    font-size: 200%;
+    font-size: 220%;
     font-style: normal;
+    font-family: Merriweather Sans, sans-serif;
     width: 90%;
     color: #000000;
     font-weight: bold;
@@ -415,6 +418,7 @@ hr {
 
 #get_ready_title {
     font-size: 220%;
+    font-family: Merriweather Sans, sans-serif;
     letter-spacing: 6px;
     font-weight: bold;
     font-style: normal;
@@ -492,7 +496,8 @@ hr {
 
 #get_started_sub {
     color: #000000;
-    font-size: 140%;
+    font-size: 200%;
+    font-family: Merriweather Sans, sans-serif;
     padding-top: 50px;
     text-align: center;
     font-weight: 700;
