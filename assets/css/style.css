@@ -148,16 +148,26 @@ img {
     padding-bottom: 3%;
 }
 
+#ethos_title {
+    text-align: center;
+    color: #000000;
+    margin-top: 7%;
+    margin-bottom: 1%;
+    font-size: 200%;
+    color: #4E130D;
+}
+
+#ethos hr {
+    width: 80%;
+    margin: auto;
+}
+
 .ethos_headings {
     color: #000000;
     font-size: 180%;
     font-style: normal;
     letter-spacing: 4px;
     font-weight: bold;
-
-    padding-top: 3%;
-    border-bottom: #000000 1px solid;
-    width: 95%;
 }
 
 .ethos_paragraphs {
