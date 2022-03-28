@@ -72,7 +72,7 @@ h2 {
     color: #000000;
     font-weight: bold;
     font-size: 120%;
-    margin-right: 15px;
+    margin: 10px;
 }
 
 #menu a:hover {
@@ -473,18 +473,18 @@ hr {
 
 /* sign up page*/
 
-#get_started {
+#get_started_sub {
     color: #000000;
     font-size: 140%;
     padding-top: 70px;
-    padding-left: 80px;
+    text-align: center;
     font-weight: 700;
 
 }
 
-#get_started_sub {
+#get_started {
     color: #000000;
-    padding-left: 80px;
+    text-align: center;
     font-weight: 700;
     padding-top: 20px;
 }
@@ -672,12 +672,6 @@ footer {
         margin-left: 0%;
     }
 
-    /* styling for sign up section */
-
-    #get_started {
-        padding-left: 45px;
-    }
-
     /* styling for something to listen to section */
     #something_to_listen_to_title {
         font-size: 180%;
@@ -724,11 +718,6 @@ footer {
 
     .ethos_headings {
         margin-left: 0%;
-    }
-
-    /* styling for sign up section */
-    #get_started {
-        padding-left: 45px;
     }
 
     /* styling for something to listen to section */
@@ -1027,12 +1016,7 @@ hr {
 /* for medium screens size from 468px wide and smaller */
 @media screen and (max-width: 468px) {
     #get_started {
-        padding-left: 5%;
         font-size: 140%;
-    }
-
-    #get_started_sub {
-        padding-left: 40px;
     }
 }
 
@@ -1055,24 +1039,18 @@ hr {
     h2 {
         margin-left: 1%
     }
-
-    .sign_up_form {
-        margin: 30px;
-    }
 }
 
 /* for small screens size from 320px wide and smaller */
 @media screen and (max-width: 320px) {
 
     /* styling for sign up section */
-    #get_started {
+    #get_started_sub {
         font-size: 90%;
-        padding-left: 10px;
     }
 
-    #get_started_sub {
+    #get_started {
         font-size: 80%;
-        padding-left: 10px;
         padding-top: 5px;
     }
 
@@ -1084,8 +1062,7 @@ hr {
 
     .sign_up_form {
         max-width: 800px;
-        margin: 5%;
-        padding: 15px;
+
     }
 
     label {
