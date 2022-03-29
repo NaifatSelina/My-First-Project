@@ -122,6 +122,7 @@ On tablets and other medium sized screens the videos float either more to the le
 <!--responsive navigation menu-->
 ### Responsive Navigation Menu
 - The corresponding navigation menu link will be made bold when you are on that section of the webpage.
+
 [Back to Contents](<##contents>)
 
 <!--technologies used-->
@@ -150,6 +151,9 @@ W3C CSS Validator.
 
 Lighthouse Testing.
  
+* For mobiles compressing the images will done done in the future if the webpage was to be used outside of educational purposes. Compressing the images would have saved loading time however as the images were added through css as background images this was not possible.
+* In future webpages I shall also aim to use a facade for my youtube videos and passive listeners to further reduce loading time for users.
+
 [Back to Contents](<##contents>)
 
 <!--bugs and fixes-->
