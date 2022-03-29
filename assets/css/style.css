@@ -878,8 +878,6 @@ footer {
     }
 }
 
-
-
 /* for large to medium screens size from 1024px wide and smaller */
 @media screen and (max-width: 1024px) {
     header {
@@ -1265,6 +1263,10 @@ footer {
 
     .ethos_headings {
         font-size: 80%;
+    }
+
+    #ethos_title {
+        font-size: 120%;
     }
 
     .ethos_paragraphs {
