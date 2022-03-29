@@ -163,16 +163,12 @@ Lighthouse Testing.
 
 <!--deployment-->
 # Deployment 
-Go to First Project. GitHub repository and enter settings. 
-
-Navigate to Pages Tab.
-
-Select Source and change the branch to master- save.
-
-Page refreshes and site is deployed.
+-Go to **First Project.** GitHub repository and enter **settings**. 
+-Navigate to **Pages** Tab.
+-Select **Source** and **change the branch to master**- ***save***.
+-Page refreshes and **site is deployed**.
 
 [Back to Contents](<##contents>)
-
 <!--credits-->
 # Credits 
 ## Media
