@@ -77,22 +77,31 @@ The Work from Home Guide webpage is designed to be easy to navigate with clear, 
 * The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user and maximum relaxation.
 * The logo was inserted to add professionalism to the webpage, however is removed on smaller screens as it causes the header to become too cramped- going against the aim for a spacious and relaxed webpage.
 ### Home 
-The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.
-The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop.  
-More so, the main image includes cover text which enlarges as the page is loaded, with the main aim of the webpage encompassed in a single sentence ‘intertwining...’ to immediately inform the user on what to expect and the aim of the webpage.
+* The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.
+* The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop. The main images' colour scheme corresponds to the webpage and adds to the consistency of the webpage consequently.
+* The main image includes cover text which enlarges as the page is loaded, with the main aim of the webpage encompassed in a single sentence ‘intertwining work and relaxation’ to immediately inform the user on what to expect and the aim of the webpage.
+For smaller screens the cover text is removed as it causes the home portion of the webpage to look cramped.
 ### About
-The About section of Work from Home Guide is divided into 3 mini sections of information which essentially summarise the main aim of the webpage, the reasons for the webpage and how I aim to help the user reach this aim.
+* The About section of Work from Home Guide is divided into 3 mini sections of information which essentially summarise the main aim of the webpage, the reasons for the webpage and how I aim to help the user reach this aim.
 The About section provides clarity from the start of the webpage, promoting the feeling of calmness within the user.
-The About section is followed by a brief image interval which includes a button that is able to take the user straight to the sign-up page to win a free candle.
+* The About section is followed by a brief image interval which includes a button that is able to take the user straight to the sign-up page to win a free candle. The image interval includes a calming image that fits the colour scheme of the webpage and is set to a fixed position to create a 3D effect when the user scrolls past the image. This is also to draw attention to the interval and the button that urges them to sign up to win a free candle.
 ### Your Space 
-The Your Space Section begins with the ‘Something...’ which allows the user to select a YouTube video to listen to before the continue- with options including a Ted Talk, Lofi Hip-Hip video or a video of Nature Sounds. Under the sub-heading the Ted Talk, Lofi and Nature Sounds headings can be clicked and take you to each individual YouTube page if the user would prefer to select a different talk, lofi video or nature sounds video to listen to. If not, the user can select one of the three videos presented with their short description and carry on to the next portion of the webpage.
-Followed by this is the Get Ready portion of the Your Space section which gives the user information on how they can get themselves, their space, desk and work chair ready for the day in an effective way to ensure productivity and calm. This information is short and simple to prevent information overload.
+* The Your Space Section begins with the Something To Listen To section which allows the user to select a YouTube video to listen to before they continue- with options including a Ted Talk, Lofi Hip-Hip video or a video of Nature Sounds.
+* Under the sub-heading the Ted Talk, Lofi and Nature Sounds headings can be clicked and take you to each individual YouTube page if the user would prefer to select a different talk, lofi video or nature sounds video to listen to. The links not only open in a new tab but also open to the videos section of the youtube channels not the main channel page as the main channel page would auto-play a video where as the videos section of the channel pages will just provide the user with a range of videos that they can choose from. If the user does not wish to do this, the user can select one of the three videos presented with their short description and carry on to the next portion of the webpage.
+* The three videos also become larger as you hover over them to alow for users to get a closer look at the videos and video descriptions.
+* As screens reduce in size the videos fall under eachother.
+On tablets and other medium sized screens the videos float either more to the left or the right so users scrolling wwith their hand will still be able to see the full size and descriptions of the videos without their hand getting in the way.
+* Followed by this is the Get Ready portion of the Your Space section, which gives the user information on how they can get themselves and their space ready for the day in an effective way to ensure productivity and calm. This information is short and simple to prevent information overload.
+* The Get Ready section of the webpage includes an image in the center which enlarges when hovered over to increase user experience- it demonstrates an example of a clean and fresh work desk that can be used as inspiration by the user when thinking of how they want to begin getting their space ready.
+* On smaller screens the Get Ready section collapses into a string of vertical content and centers itself to avoid a cramped look.
 ### Sign Up
-Above the Sign-Up section is another image interval that is identical to the one under the About section.
-The Sign-Up section is an opportunity for the user to enter in a draw to win a candle of their choice. It maintains the simple and fresh look of the webpage and once submitted presents the user with a pop up thanking them for entering the draw- upon closing this pop up the webpage will take the user back to the home section.
+* Above the Sign-Up section is another image interval that is identical to the one under the About section- enhancing the 3D effect of the webpage and consistency across the webpage.
+* The Sign-Up section is an opportunity for the user to enter in a draw to win a candle of their choice. It maintains the simple and fresh look of the webpage, and once submitted, presents the user with a pop up thanking them for entering the draw- upon closing this pop up the webpage will take the user back to the home section.
+* The sign up form is centered in correspondence with the section headings and footer to maintain the consistency across the webpage and aligns with the colour scheme of the webpage too.
 ### Footer 
-The footer is very simplistic, occupying a white background to match the header it simply includes three social media icons that are black to match the colour scheme and will take the user to each social media page which opens on a different tab.
-Under the social media tabs there is a brief line of text stated the webpage creator and copyright information.
+* The footer is very simplistic, occupying a white background to match the header it simply includes three social media icons that are black to match the colour scheme and will take the user to each social media page which opens on a different tab.
+* The icons in the footer turn maroon when hovered over to alert the user that they are about to select that particular icon if they choose to. Furthermore, the icons and footer text below are centered to correspond with the centered headings throughout the webpage and centered content.
+* Under the social media tabs there is a brief line of text stated the webpage creator and copyright information for added professionalism.
 
 [Back to Contents](<##contents>)
 
