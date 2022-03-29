@@ -931,41 +931,34 @@ footer {
     hr {
         display: none;
     }
-
     #menu a {
         margin-left: 0;
     }
 }
 
-/* for medium screens size from 676px wide and smaller */
+/* for small screens size from 676px wide and smaller */
 @media screen and (max-width: 676px) {
     /* styling for get ready section*/
-
     #get_ready_title {
         font-size: 100%;
         padding-top: 12%;
     }
-
     #get_ready {
         height: 1330px;
     }
-
     #photo_container {
         width: 250px;
         height: 270px;
         padding: 20px;
         margin-top: 6%;
     }
-
     #right_side,
     #left_side {
         width: 100%;
     }
-
     #left_side {
         padding-top: 390px;
     }
-
     #left_side p,
     #right_side p {
         font-size: 70%;
@@ -973,43 +966,35 @@ footer {
         margin-bottom: 30px;
         text-align: center;
     }
-
     .left_side_heading,
     .right_side_heading {
         float: none;
         clear: none;
         width: 100%;
     }
-
-
     .left_side_heading h2 {
         font-size: 90%;
         text-align: center;
         padding-top: 20px;
         font-weight: bold
     }
-
     .right_side_heading h2 {
         font-size: 90%;
         text-align: center;
         font-weight: bold;
     }
-
     /* styling to remove cover text */
     #cover_text h2 {
         display: none;
     }
-
 }
 
-/* for medium screens size from 646px wide and smaller */
+/* for small screens size from 646px wide and smaller */
 @media screen and (max-width: 646px) {
-
     /* styling to remove cover text */
     #cover_text h2 {
         display: none;
     }
-
     /* styling for navigation menu */
     #menu {
         clear: left;
@@ -1018,35 +1003,35 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
-
+    /* styling for sign up form*/
     hr {
         display: none;
     }
-
+    /* styling for ethos section*/
     #ethos_title {
         font-size: 150%;
     }
-
     .ethos_headings {
         font-size: 130%;
     }
-
 }
 
-/* for medium screens size from 610px wide and smaller */
+/* for small screens size from 610px wide and smaller */
 @media screen and (max-width: 610px) {
+    /* styling for sign up form*/
     .sign_up_form {
         margin-left: 20px;
         margin: 20px;
     }
 }
 
-/* for medium screens size from 468px wide and smaller */
+/* for small screens size from 468px wide and smaller */
 @media screen and (max-width: 468px) {
+    /* styling for get ready title*/
     #get_started {
         font-size: 140%;
     }
-
+    /* styling for nav menu*/
     #menu {
         margin-left: 0;
     }
@@ -1054,91 +1039,74 @@ footer {
 
 /* for small screens size from 649px wide and smaller */
 @media screen and (max-width: 649px) {
+    /* styling for header section */
     header {
         height: 22%;
         position: relative;
     }
-
     #sub_logo {
         margin-bottom: -25px;
     }
-
     #menu {
         margin-bottom: 10px;
         margin-left: 3px;
     }
-
     h2 {
         margin-left: 1%
     }
 }
 
-/* for medium screens size from 468px wide and smaller */
+/* for small screens size from 468px wide and smaller */
 @media screen and (max-width: 468px) {
+    /* styling for nav menu*/
     #menu a {
         margin-left: 0;
         font-size: 90%;
     }
-
-
 }
 
 /* for small screens size from 320px wide and smaller */
 @media screen and (max-width: 320px) {
-
     /* styling for sign up section */
     #get_started_sub {
         font-size: 90%;
     }
-
     #get_started {
         font-size: 80%;
         padding-top: 5px;
     }
-
     #sign_up_section hr {
         width: 95%;
         margin-left: 10px;
         margin-bottom: 40px;
     }
-
     .sign_up_form {
         max-width: 800px;
-
     }
-
     label {
         font-size: 80%;
     }
-
     .join_button {
         padding: 10px 65px 10px 65px;
         font-size: 80%;
     }
-
     /* styling for header section */
-
     h1 {
         font-size: 130%;
         margin-top: 4%;
     }
-
     h2 {
         font-size: 70%;
     }
-
     #logo_image {
         margin-top: 2%;
         margin-left: 39%;
     }
-
     header {
         height: 20%;
         position: relative;
     }
-
     /* styling for cover text */
-
     #cover_text h2 {
         bottom: 150px;
         right: 10px;
@@ -1146,44 +1114,33 @@ footer {
         height: 30px;
         padding-top: 15px;
         font-size: 40%;
-
     }
-
     /* styling for ethos section */
-
     .ethos_headings {
         font-size: 80%;
     }
-
     #ethos_title {
         font-size: 120%;
     }
-
     .ethos_paragraphs {
         font-size: 60%;
         padding-top: 10px;
     }
-
     /* styling for button*/
-
     #image_interval a {
         font-size: 65%;
     }
-
     #button {
         margin-left: 34%;
         padding: 10px 10px 10px 10px;
     }
-
     /* styling for something to listen to section*/
     #something_to_listen_to_title {
         font-size: 90%;
     }
-
     #audio_titles {
         font-size: 80%;
     }
-
     #ted,
     #lofi_hiphop,
     #nature {
@@ -1191,40 +1148,32 @@ footer {
         width: 250px;
         margin-left: 10%;
     }
-
     #ted_talk p,
     #lofi p,
     #nature_sounds p {
         font-size: 70%;
     }
-
     /* styling for get ready section*/
-
     #get_ready_title {
         font-size: 100%;
         padding-top: 12%;
     }
-
     #get_ready {
         height: 1310px;
     }
-
     #photo_container {
         width: 190px;
         height: 270px;
         padding: 20px;
         margin-top: 15%;
     }
-
     #right_side,
     #left_side {
         width: 100%;
     }
-
     #left_side {
         padding-top: 390px;
     }
-
     #left_side p,
     #right_side p {
         font-size: 70%;
@@ -1232,84 +1181,74 @@ footer {
         margin-bottom: 30px;
         text-align: center;
     }
-
     .left_side_heading,
     .right_side_heading {
         float: none;
         clear: none;
         width: 100%;
     }
-
-
     .left_side_heading h2 {
         font-size: 90%;
         text-align: center;
         padding-top: 20px;
         font-weight: bold
     }
-
     .right_side_heading h2 {
         font-size: 90%;
         text-align: center;
         font-weight: bold;
     }
-
-
     /* styling for image intervals and button*/
     #image_interval2 {
         height: 150px;
     }
-
     #image_interval {
         height: 80px;
     }
-
     /* styling for footer*/
     #footer li a {
         padding-right: 5px;
         padding-left: 10px;
     }
-
     #footer_text {
         font-size: 60%;
         margin: 20px;
     }
-
 }
 
 /* for small screens size from 284px wide and smaller */
 @media screen and (max-width: 284px) {
-
+/* styling for something to section */
     #ted,
     #lofi_hiphop,
     #nature {
         width: 180px;
     }
-
+/* styling for get ready section */
     #photo_container {
         width: 120px;
     }
-
+/* styling for sign up form */
     .join_button {
         padding: 10px 35px 10px 35px;
     }
-
+/* styling for nav menu*/
     #menu a {
         margin: 0;
     }
-
 }
 
 /* for small screens size from 245px wide and smaller */
 @media screen and (max-width: 245px) {
+/* styling for nav menu */
     #menu {
         font-size: 60%;
     }
-
+/* styling for main title */
     h1 {
         font-size: 110%;
     }
-
+/* styling for ethos title */
     #ethos_title {
         font-size: 100%;
     }
@@ -1318,13 +1257,13 @@ footer {
 
 /* for small screens size from 213px wide and smaller */
 @media screen and (max-width: 213px) {
-
+/* styling for videos*/
     #ted,
     #lofi_hiphop,
     #nature {
         width: 140px;
     }
-
+/* styling for get ready section */
     #photo_container {
         width: 100px;
     }
