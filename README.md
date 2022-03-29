@@ -176,19 +176,15 @@ Page refreshes and site is deployed.
 <!--credits-->
 # Credits 
 ## Media
-Pexels- Images used within webpage.
-
-YouTube- YouTube videos in the webpage.
-
-Wix- Logo used in header.
+* [Pexels](https://www.pexels.com/). - Images used within webpage.
+* [YouTube](https://www.youtube.com/). - YouTube videos in the webpage.
+* [Wix](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiojsmguOz2AhXngFAGHSzSBJgYABAAGgJkZw&ae=2&ohost=www.google.com&cid=CAESaOD2fBpTDA5K9faGkz8X0_7n2JrlmC226nYQQp7KImQ2s0_patV3cW3vBArTDZRIXpUR0aQ18qiZkNthljzRPa3Y1PPvOrM7UdYPuDRruXusry9_Y0ls1HA4Qumme4LUtkEmKpX48Dew&sig=AOD64_3Vv9BMjNL6bW_GXdc4Ld9a6nqMWw&q&adurl&ved=2ahUKEwjatMKguOz2AhWyQUEAHQGxAX8Q0Qx6BAgCEAE). - Logo used in header.
 
 [Back to Contents](<##contents>)
 ## Content
-Font Awesome- Icons used throughout webpage.
-
-Google Fonts- Font used throughout webpage.
-
-HTML Color Codes-Used to select colours for webpage.
+* [Font Awesome](https://fontawesome.com/). - Icons used throughout webpage.
+* [Google Fonts](https://fonts.google.com/). - Font used throughout webpage.
+* [HTML Color Codes](https://htmlcolorcodes.com/). -Used to select colours for webpage.
 
 [Back to Contents](<##contents>)
 
