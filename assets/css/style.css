@@ -824,21 +824,25 @@ footer {
 /* for large to medium screens size from 1024px wide and smaller */
 @media screen and (max-width: 1024px) {
     header {
-        height: 20%;
+        height: 17%;
     }
 }
 
 /* for large to medium screens size from 1024px wide and smaller */
 @media screen and (max-width: 912px){
     header {
-        height: 10%;
+        height: 16%;
     }
 }
 
 /* for large to medium screens size from 1024px wide and smaller */
 @media screen and (max-width: 820px){
     header {
-        height: 10%;
+        height: 16%;
+    }
+
+    #logo_image {
+        display: none;
     }
 }
 
@@ -976,6 +980,10 @@ footer {
     hr {
         display: none;
     }
+
+    #menu a {
+        margin-left: 0;
+    }
 }
 
 /* for medium screens size from 676px wide and smaller */
@@ -1035,6 +1043,11 @@ footer {
         text-align: center;
         font-weight: bold;
     }
+
+        /* styling to remove cover text */
+        #cover_text h2 {
+            display: none;
+        }
 
 }
 
@@ -1111,10 +1124,12 @@ footer {
 
 /* for medium screens size from 468px wide and smaller */
 @media screen and (max-width: 468px) {
-    #menu {
+    #menu a {
         margin-left: 0;
-        font-size: 70%;
+        font-size: 90%;
     }
+
+
 }
 
 /* for small screens size from 320px wide and smaller */
