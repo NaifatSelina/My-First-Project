@@ -74,7 +74,7 @@ Work from Home is a webpage that occupies only one page, with a navigation menu 
 The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this.
 ### Main Titles and Navigation Menu 
 * The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.
-* The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user and maximum relaxation.
+* The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. When the user hovers over each navigation link it will be underlined to confirm to the user they are clicking the the correct section they wish to go to. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user and maximum relaxation.
 * The logo was inserted to add professionalism to the webpage, however is removed on smaller screens as it causes the header to become too cramped- going against the aim for a spacious and relaxed webpage.
 ### Home 
 * The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.
@@ -109,16 +109,18 @@ On tablets and other medium sized screens the videos float either more to the le
 # Future Features
 <!--candle section-->
 ### Candle Section
-A candle section will allow the user to shop for an array of candles once on the site to begin their self-care journey and journey in enhancing their work space at home.
-This would be on a separate page within the webpage and would allow the user to sign-up for a candle subscription if they would prefer to do so.
+- A candle section will allow the user to shop for an array of candles once on the site to begin their self-care journey and journey in enhancing their work space at home.
+- This would be on a separate page within the webpage and would allow the user to sign-up for a candle subscription if they would prefer to do so.
 <!--chat forum-->
 ### Chat Forum
-The chat forum would allow users working from home to chat about their day and engage in socialising to reduce feelings of loneliness.
-This would be a monitored chat forum to avoid cyber abuse or offensive language.
+- The chat forum would allow users working from home to chat about their day and engage in socialising to reduce feelings of loneliness.
+- This would be a monitored chat forum to avoid cyber abuse or offensive language.
 <!--gallery-->
 ### Gallery 
-The gallery would include inspiration pictures of different at home work set ups and you be located on a separate page within the webpage.
- 
+- The gallery would include inspiration pictures of different at home work set ups and you be located on a separate page within the webpage.
+<!--responsive navigation menu-->
+### Responsive Navigation Menu
+- The corresponding navigation menu link will be made bold when you are on that section of the webpage.
 [Back to Contents](<##contents>)
 
 <!--technologies used-->
