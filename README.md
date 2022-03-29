@@ -8,7 +8,7 @@ Work from Home Guide is an independently built website aimed to help the large q
 You can view the live site here- <a href="" target="_blank" rel="noopener" >Work from Home Guide.</a>
 
 <!--image of webpage on multiple screens-->
-
+![Work From Home Guide Responsiveness]()
 <!--contents-->
 # Contents 
 * [**Project Aim**](<#project-aim>)
