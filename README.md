@@ -114,11 +114,11 @@ CSS3- styling of webpage.
 
 [Balsamiq](https://balsamiq.com/). - wireframes for webpage design. 
 
-GitPod- used to create and update webpage. 
+[GitPod](https://www.gitpod.io/). - used to create and update webpage. 
 
 GitBash- used to push project to GitHub after changes through repositories.
 
-GitHub- stores and deploys the webpage.
+[GitHub](https://github.com/). - stores and deploys the webpage.
  
 [Back to Contents](<##contents>)
 
