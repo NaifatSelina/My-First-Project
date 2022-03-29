@@ -5,48 +5,38 @@
 Work from Home Guide is an independently built website aimed to help the large quantity of people who have settled into remote or hybrid working, post the coronavirus pandemic, navigate their daily schedule required to efficiently work from home. The simplicity and straight forward fashion of the website makes it perfect for busy professionals looking for simple tips and information to help them reach their work life balance goals.
 
 <!--site link-->
-You can view the live site here- <a href="" target="_blank" rel=""noopener >Work from Home Guide.</a>
+You can view the live site here- <a href="" target="_blank" rel="noopener" >Work from Home Guide.</a>
 
 <!--image of webpage on multiple screens-->
 <hr>
 
 <!--contents-->
 ## Contents 
-
 * [**Project Aim**](<#project-aim>)
 * [**User Experience**](<#user-experience>)
-<li>Design Wireframes</li>
-<li>Webpage Structure</li>
-<li>Reasons For Design</li>
-<li>Fonts</li>
-<li>Colour Scheme</li>
-</ul>
-
+* [Design Wireframes](<#design-wireframes>)
+* [Webpage Structure](<#webpage-structure>)
+* [Reasons For Design](<#reasons-for-design>)
+* [Fonts](<#fonts>)
+* [Colour Scheme](<#colour-scheme>)
 * [**Features**](<#features>)
-<ul>
-<li>Main Titles Navigation Menu</li>
-<li>Home</li>
-<li>About</li>
-<li>Your Space</li>
-<li>Sign Up</li>
-<li>Footer</li>
-</ul>
-
+* [Main Titles and Navigation Menu](<#main-titles-and-navigation-menu>)
+* [Home](<#home>)
+* [About](<#about>)
+* [Your Space](<#your-space>)
+* [Sign Up](<#sign-up>)
+* [Footer](<#footer>)
 * [**Future Features**](<#future-features>)
-<ul>
-<li>Candle Section</li>
-<li>Chat Forum</li>
-<li>Gallery</li>
-</ul>
-
+* [Candle Section](<#candle-section>)
+* [Chat Forum](<#chat-forum>)
+* [Gallery](<#gallery>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Bugs and Fixes**](<#bugs-and-fixes>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
-<ul>
-<li>Media</li>
-<li>Content</li>
+* [Media](<#media>)
+* [Content](<#content>)
 
 <!--project aim-->
 ## Project Aim 
