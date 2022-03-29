@@ -151,7 +151,6 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 * In future webpages I shall also aim to use a facade for my youtube videos and passive listeners to further reduce loading time for users.
 
 [Back to Contents](<##contents>)
-
 <!--bugs and fixes-->
 # Bugs and Fixes 
  
@@ -159,10 +158,10 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 
 <!--deployment-->
 # Deployment 
--Go to **First Project.** GitHub repository and enter **settings**. 
--Navigate to **Pages** Tab.
--Select **Source** and **change the branch to master**- ***save***.
--Page refreshes and **site is deployed**.
+1. Go to **First Project.** GitHub repository and enter **settings**. 
+2. Navigate to **Pages** Tab.
+3. Select **Source** and **change the branch to master**- ***save***.
+4. Page refreshes and **site is deployed**.
 
 [Back to Contents](<##contents>)
 <!--credits-->
