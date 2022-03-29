@@ -1,6 +1,8 @@
+/* font links */
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 
+/* default body styling*/
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +15,6 @@ body {
 }
 
 /* webpage main and sub heading */
-
 header {
     height: 17%;
     width: 100%;
@@ -47,14 +48,11 @@ h2 {
 }
 
 /* logo image */
-
 #logo_image {
     height: 50px;
     width: 50px;
-
     border-radius: 2px;
     border: 2px solid #4E130D;
-
     margin-top: -95px;
     margin-left: 101%;
     margin-bottom: 7.5%;
@@ -62,7 +60,6 @@ h2 {
 }
 
 /* navigation menu links*/
-
 #menu li {
     float: right;
     list-style-type: none;
@@ -75,6 +72,7 @@ h2 {
     font-weight: bold;
     font-size: 120%;
     margin: 10px;
+    margin-left: 0;
 }
 
 #menu a:hover {
@@ -82,7 +80,6 @@ h2 {
 }
 
 /*main image*/
-
 #main_image {
     margin-bottom: -10px;
     overflow: hidden;
@@ -94,33 +91,24 @@ img {
 }
 
 /* cover text*/
-
-
 #cover_text h2 {
     color: white;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
     font-size: 120%;
-
     width: 500px;
     height: 80px;
-
     padding-top: 60px;
-
     background-color: rgba(44, 10, 7, 0.9);
     border-radius: 5px;
     border: 3px solid #1a0604;
-
     bottom: 5px;
     right: 30px;
-
-
     position: absolute;
 }
 
 /* creates zoom effect for cover text*/
-
 #cover_text h2 {
     animation-name: video-zoom;
     animation-duration: 4s;
@@ -138,9 +126,7 @@ img {
     }
 }
 
-
 /* ethos section headings and information text */
-
 #ethos_section {
     height: 400%;
     width: 100%;
@@ -179,7 +165,6 @@ img {
     font-size: 100%;
     font-weight: 300;
     text-align: left;
-
     width: 100%;
     margin: 0;
     padding-top: 0.5%;
@@ -202,7 +187,6 @@ img {
     padding-top: 3.5%;
 }
 
-
 /* first image interval and win candle button*/
 
 #image_interval {
@@ -210,7 +194,6 @@ img {
     width: 100%;
     margin-top: -10px;
     padding-top: 15%;
-
     background-image: url('https://images.pexels.com/photos/7303281/pexels-photo-7303281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     background-position: center;
@@ -223,11 +206,9 @@ img {
     background-color: #4E130D;
     border-radius: 5px;
     border: 2px solid rgb(0, 0, 0);
-
     margin-top: 14%;
     margin-left: 42%;
     padding: 15px 40px 15px 40px;
-
 }
 
 #image_interval a {
@@ -237,7 +218,6 @@ img {
 }
 
 /* something to listen to section titles*/
-
 #something_to_section {
     height: 500%;
     width: 100%;
@@ -284,7 +264,6 @@ h3 a:hover {
 }
 
 /* something to listen to section videos */
-
 #ted_talk,
 #lofi,
 #nature_sounds {
@@ -301,7 +280,6 @@ h3 a:hover {
     height: 300px;
     width: 350px;
 }
-
 
 /*animates zoom effect on hovering over videos */
 #ted_talk:hover,
@@ -324,7 +302,6 @@ h3 a:hover {
 }
 
 /* something to listen to section video descriptions*/
-
 #ted_talk p,
 #lofi p,
 #nature_sounds p {
@@ -337,7 +314,6 @@ h3 a:hover {
 }
 
 /* get ready left and right sections*/
-
 #get_ready {
     height: 800px;
     background-color: rgb(217, 226, 215);
@@ -389,7 +365,6 @@ hr {
     float: right;
     clear: both;
     color: #000000;
-
 }
 
 .left_side_heading h2 {
@@ -433,7 +408,6 @@ hr {
     padding-top: 5%;
 }
 
-
 #get_ready hr {
     width: 80%;
     margin: auto;
@@ -445,9 +419,7 @@ hr {
     display: none;
 }
 
-
 /* get ready section image and container*/
-
 #photo_container {
     width: 300px;
     height: 400px;
@@ -482,7 +454,6 @@ hr {
     width: 90%;
     background-size: contain;
     margin: 0 auto;
-
 }
 
 /* second image interval*/
@@ -490,7 +461,6 @@ hr {
     height: 250px;
     width: 100%;
     margin-top: -10px;
-
     background-image: url('https://images.pexels.com/photos/7303281/pexels-photo-7303281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     background-position: center;
@@ -498,7 +468,6 @@ hr {
 }
 
 /* sign up page*/
-
 #get_started_sub {
     color: #4E130D;
     font-size: 200%;
@@ -508,7 +477,6 @@ hr {
     font-weight: 700;
     font-style: normal;
     margin-left: 0;
-
 }
 
 #get_started {
@@ -534,8 +502,8 @@ hr {
     padding-bottom: 7%;
 }
 
+/* sign up form*/
 .sign_up_form {
-
     color: #000000;
     background-color: rgba(123, 75, 70, 0.8);
     border: 2px solid #000000;
@@ -559,7 +527,6 @@ hr {
     padding-left: 5px;
     border-radius: 2px;
     border: white;
-
     font-size: 110%;
     letter-spacing: 1px;
 }
@@ -598,12 +565,9 @@ label {
 .join_button:hover {
     background-color: antiquewhite;
     color: #4E130D;
-
-
 }
 
 /* footer */
-
 footer {
     height: 12%;
     width: 100%;
@@ -647,100 +611,80 @@ footer {
 
 /* media queries */
 
-/* for large to medium screens size from 2000px wide and smaller */
+/* for large screens size from 2000px wide and smaller */
 @media screen and (max-width: 2000px) {
-
     /* styling for header section */
     h1 {
         margin-top: 11%;
         font-size: 185%;
     }
-
     h2 {
         font-size: 110%;
         margin-left: 0;
     }
-
     #menu li {
         margin: 40px 1px 1px 7px;
     }
-
     #menu a {
-        font-size: 170%;
+        font-size: 150%;
     }
-
     /* styling for cover text */
-
     #cover_text h2 {
         bottom: 95px;
         right: 90px;
     }
-
-    /* styling for button */
-
+    /* styling for button and image interval */
     #button {
         margin-left: 44%;
     }
-
     #image_interval {
         height: 90px;
     }
-
     /* styling for something to listen to section */
-
     #something_to_listen_to_title {
         margin-top: -10px;
         margin: auto;
     }
-
     #ted_talk {
         margin-left: 170px;
         margin-right: 5%;
     }
-
     #lofi {
         margin-left: 45px;
     }
-
     #nature_sounds {
         margin-left: 130px;
     }
-
     #ted,
     #lofi_hiphop,
     #nature {
         height: 400px;
         width: 450px;
-
     }
-
 }
 
-/* for large to medium screens size from 2000px wide and smaller */
+/* for large to medium screens size from 1855px wide and smaller */
 @media screen and (max-width: 1855px) {
-
+/* styling for something to section*/
     #ted,
     #lofi_hiphop,
     #nature {
         width: 850px;
     }
-
     #ted_talk {
         margin-left: 0;
     }
-
     #lofi {
         margin-left: 0;
     }
-
     #nature_sounds {
         margin-left: 0;
     }
 }
 
-/* for large to medium screens size from 1454px wide and smaller and 734px and larger*/
+/* for medium to small screens size from 1454px wide and smaller and 734px and larger*/
 @media screen and (max-width: 1412px) and (min-width: 734px) {
-
+/* styling to remove cover text */
     #cover_text h2 {
         display: none;
     }
@@ -748,50 +692,39 @@ footer {
 
 /* for large to medium screens size from 1400px wide and smaller */
 @media screen and (max-width: 1400px) {
-
     /* styling for ethos section */
-
     .ethos_headings {
         margin-left: 0%;
     }
-
-    /* styling for something to listen to section */
+    /* styling for something to section */
     #something_to_listen_to_title {
         font-size: 180%;
     }
-
     #audio_titles {
         font-size: 120%;
     }
-
     #ted_talk,
     #lofi,
     #nature_sounds {
         display: contents;
     }
-
     #nature_sounds p {
         padding-bottom: 40px;
         margin-bottom: 0;
     }
-
     #ted,
     #lofi_hiphop,
     #nature {
         width: 650px;
         margin-left: 24.5%;
     }
-
     #something_to_section {
         margin-top: -12px;
     }
-
     /* styling for button */
     #button {
         margin-left: 39%;
     }
-
-
 }
 
 /* for large to medium screens size from 1280px wide and smaller */
@@ -897,7 +830,7 @@ footer {
 }
 
 /* for large to medium screens size from 1024px wide and smaller */
-@media screen and (max-width: 820px) {
+@media screen and (max-width: 862px) {
     header {
         height: 16%;
     }
