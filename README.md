@@ -59,9 +59,13 @@ Work from Home is a webpage that occupies only one page, with a navigation menu 
 <!--reasons for design-->
 ## Reasons for Design 
 ### Fonts 
-For consistency the main chosen font I decided to use was Libre Franklin, with sans-serif as the fall-back font to be used if Libre Franklin cannot be loaded by the browser. I gravitated towards Libre Franklin as it is a font tha maintains a fresh, formal and professional look across the webpage but is still very inviting due to its’ slightly rounded edges. Across the webpage, to create a dynamic feel, I used a range of font-sizes, font-weights and alternated between a normal and oblique version of the font. For the main heading, and section titles I decided to change the font to Merriweather Sans, with sans-serif as the fal-back font once again as it enhanced the professional look of the website and helped the section titles stand out.
+- For consistency the main chosen font I decided to use was Libre Franklin, with sans-serif as the fall-back font to be used if Libre Franklin cannot be loaded by the browser. I gravitated towards Libre Franklin as it is a font tha maintains a fresh, formal and professional look across the webpage but is still very inviting due to its’ slightly rounded edges. 
+- Across the webpage, to create a dynamic feel, I used a range of font-sizes, font-weights and alternated between a normal and oblique version of the font. 
+- For the main heading, and section titles I decided to change the font to Merriweather Sans, with sans-serif as the fal-back font once again as it enhanced the professional look of the website and helped the section titles stand out.
 ### Colour Scheme 
-The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and a welcoming feel. The maroon titles used aid to create consistency across the webpage as the user is clear that they have entered a new section of the webpage when seeing the maroon title. More so, the use of black text effectively complimented the maroon. Combined, the colours perfectly corresponded with the desired overall feel of the webpage and enhanced user experience with the dark black and maroon colours standing out completely from the white and white-sage background colours used throughout the webpage.
+- The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and a welcoming feel. 
+- The maroon titles used aid to create consistency across the webpage as the user is clear that they have entered a new section of the webpage when seeing the maroon title. 
+- More so, the use of black text effectively complimented the maroon. Combined, the colours perfectly corresponded with the desired overall feel of the webpage and enhanced user experience with the dark black and maroon colours standing out completely from the white and white-sage background colours used throughout the webpage.
 
 [Back to Contents](<##contents>)
 
@@ -69,8 +73,9 @@ The colour scheme chosen for the Work from Home Guide webpage is a balance of fr
 # Features
 The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this.
 ### Main Titles and Navigation Menu 
-The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.
-The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user.
+* The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.
+* The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user and maximum relaxation.
+* The logo was inserted to add professionalism to the webpage, however is removed on smaller screens as it causes the header to become too cramped- going against the aim for a spacious and relaxed webpage.
 ### Home 
 The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.
 The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop.  
