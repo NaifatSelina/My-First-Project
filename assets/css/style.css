@@ -648,7 +648,7 @@ footer {
 /* media queries */
 
 /* for large to medium screens size from 2000px wide and smaller */
-@media screen and (max-width: 2000px){
+@media screen and (max-width: 2000px) {
 
     /* styling for header section */
     h1 {
@@ -714,6 +714,28 @@ footer {
 
     }
 
+}
+
+/* for large to medium screens size from 2000px wide and smaller */
+@media screen and (max-width: 1855px) {
+
+    #ted,
+    #lofi_hiphop,
+    #nature {
+        width: 850px;
+    }
+
+    #ted_talk {
+        margin-left: 0;
+    }
+
+    #lofi {
+        margin-left: 0;
+    }
+
+    #nature_sounds {
+        margin-left: 0;
+    }
 }
 
 /* for large to medium screens size from 1454px wide and smaller and 734px and larger*/
