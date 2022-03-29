@@ -1324,6 +1324,10 @@ footer {
         padding: 10px 35px 10px 35px;
     }
 
+    #menu a {
+        margin: 0;
+    }
+
 }
 
 /* for small screens size from 245px wide and smaller */
