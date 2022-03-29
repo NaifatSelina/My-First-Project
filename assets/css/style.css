@@ -975,10 +975,10 @@ footer {
     }
 
     #photo_container {
-        width: 190px;
+        width: 250px;
         height: 270px;
         padding: 20px;
-        margin-top: 15%;
+        margin-top: 6%;
     }
 
     #right_side,
@@ -995,22 +995,27 @@ footer {
         font-size: 70%;
         margin-top: 20px;
         margin-bottom: 30px;
+        text-align: center;
     }
 
-    #right_side p {
-        text-align: left;
-        margin-left: 5%;
+    .left_side_heading, .right_side_heading {
+        float: none;
+        clear: none;
+        width: 100%;
     }
+
 
     .left_side_heading h2 {
         font-size: 90%;
-        float: right;
-        margin-right: 6%;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: bold
     }
 
     .right_side_heading h2 {
         font-size: 90%;
-        float: left;
+        text-align: center;
+        font-weight: bold;
     }
 
 }
@@ -1193,7 +1198,7 @@ footer {
     }
 
     #get_ready {
-        height: 1530px;
+        height: 1310px;
     }
 
     #photo_container {
@@ -1217,23 +1222,29 @@ footer {
         font-size: 70%;
         margin-top: 20px;
         margin-bottom: 30px;
+        text-align: center;
     }
 
-    #right_side p {
-        text-align: left;
-        margin-left: 5%;
+    .left_side_heading, .right_side_heading {
+        float: none;
+        clear: none;
+        width: 100%;
     }
+
 
     .left_side_heading h2 {
         font-size: 90%;
-        float: right;
-        margin-right: 6%;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: bold
     }
 
     .right_side_heading h2 {
         font-size: 90%;
-        float: left;
+        text-align: center;
+        font-weight: bold;
     }
+
 
     /* styling for image intervals and button*/
     #image_interval2 {
@@ -1302,5 +1313,9 @@ footer {
     #lofi_hiphop,
     #nature {
         width: 140px;
+    }
+
+    #photo_container {
+        width: 100px;
     }
 }
