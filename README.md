@@ -8,7 +8,6 @@ Work from Home Guide is an independently built website aimed to help the large q
 You can view the live site here- <a href="" target="_blank" rel="noopener" >Work from Home Guide.</a>
 
 <!--image of webpage on multiple screens-->
-<hr>
 
 <!--contents-->
 # Contents 
@@ -49,7 +48,9 @@ The goal of my first project is to create a visually professional and fresh webs
 
 <!--design wireframes-->
 ## Design Wireframes
-Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.
+Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage. Any changes made from the wireframe were to enhance the professional look of the webpage.
+
+![Design Wireframes]()
 
 <!--webpage structure-->
 ## Webpage Structure
