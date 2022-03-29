@@ -29,6 +29,7 @@ You can view the live site here- <a href="" target="_blank" rel="noopener" >Work
 * [Candle Section](<#candle-section>)
 * [Chat Forum](<#chat-forum>)
 * [Gallery](<#gallery>)
+* [Responsive Navigation Menu](<#responsive-navigation-menu>)
 * [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Bugs and Fixes**](<#bugs-and-fixes>)
