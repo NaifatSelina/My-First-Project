@@ -647,16 +647,26 @@ footer {
 
 /* media queries */
 
-/* for large to medium screens size from 1600px wide and smaller */
-@media screen and (max-width: 1900px) {
+/* for large to medium screens size from 2000px wide and smaller */
+@media screen and (max-width: 2000px){
 
     /* styling for header section */
     h1 {
         margin-top: 11%;
+        font-size: 185%;
+    }
+
+    h2 {
+        font-size: 110%;
+        margin-left: 0;
     }
 
     #menu li {
         margin: 40px 1px 1px 7px;
+    }
+
+    #menu a {
+        font-size: 170%;
     }
 
     /* styling for cover text */
@@ -672,18 +682,36 @@ footer {
         margin-left: 44%;
     }
 
+    #image_interval {
+        height: 90px;
+    }
+
     /* styling for something to listen to section */
+
+    #something_to_listen_to_title {
+        margin-top: -10px;
+        margin: auto;
+    }
 
     #ted_talk {
         margin-left: 170px;
+        margin-right: 5%;
     }
 
     #lofi {
-        margin-left: 15px;
+        margin-left: 45px;
     }
 
     #nature_sounds {
-        margin-left: 90px;
+        margin-left: 130px;
+    }
+
+    #ted,
+    #lofi_hiphop,
+    #nature {
+        height: 400px;
+        width: 450px;
+
     }
 
 }
@@ -745,7 +773,7 @@ footer {
 }
 
 /* for large to medium screens size from 1280px wide and smaller */
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1280px) {
 
     /* styling for ethos section */
 
@@ -822,24 +850,34 @@ footer {
     header {
         height: 17%;
     }
+
+    #menu a {
+        font-size: 160%;
+    }
 }
+
+
 
 /* for large to medium screens size from 1024px wide and smaller */
 @media screen and (max-width: 1024px) {
     header {
         height: 17%;
     }
+
+    #menu a {
+        font-size: 140%;
+    }
 }
 
 /* for large to medium screens size from 1024px wide and smaller */
-@media screen and (max-width: 912px){
+@media screen and (max-width: 912px) {
     header {
         height: 16%;
     }
 }
 
 /* for large to medium screens size from 1024px wide and smaller */
-@media screen and (max-width: 820px){
+@media screen and (max-width: 820px) {
     header {
         height: 16%;
     }
@@ -866,9 +904,9 @@ footer {
 
 /* for medium screens size from 884px wide and smaller */
 @media screen and (max-width: 804px) {
-#logo_image {
-    display: none;
-}
+    #logo_image {
+        display: none;
+    }
 }
 
 /* for medium screens size from 768px wide and smaller */
@@ -1047,10 +1085,10 @@ footer {
         font-weight: bold;
     }
 
-        /* styling to remove cover text */
-        #cover_text h2 {
-            display: none;
-        }
+    /* styling to remove cover text */
+    #cover_text h2 {
+        display: none;
+    }
 
 }
 
