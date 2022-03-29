@@ -2,10 +2,10 @@
 # Work from Home Guide- Project Portfolio 1 – HTML & CSS. 
 
 <!--description paragraph-->
-<p>Work from Home Guide is an independently built website aimed to help the large quantity of people who have settled into remote or hybrid working, post the coronavirus pandemic, navigate their daily schedule required to efficiently work from home. The simplicity and straight forward fashion of the website makes it perfect for busy professionals looking for simple tips and information to help them reach their work life balance goals.</p>
+Work from Home Guide is an independently built website aimed to help the large quantity of people who have settled into remote or hybrid working, post the coronavirus pandemic, navigate their daily schedule required to efficiently work from home. The simplicity and straight forward fashion of the website makes it perfect for busy professionals looking for simple tips and information to help them reach their work life balance goals.
 
 <!--site link-->
-<p>You can view the live site here- Work from Home Guide.</p>
+You can view the live site here- <a href="" target="_blank" rel=""noopener >Work from Home Guide.</a>
 
 <!--image of webpage on multiple screens-->
 <hr>
