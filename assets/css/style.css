@@ -1036,6 +1036,10 @@ footer {
         display: none;
     }
 
+    #ethos_title {
+        font-size: 150%;
+    }
+
 }
 
 /* for medium screens size from 468px wide and smaller */
@@ -1279,6 +1283,10 @@ footer {
 
     h1 {
         font-size: 110%;
+    }
+
+    #ethos_title {
+        font-size: 100%;
     }
 }
 
