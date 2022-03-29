@@ -126,15 +126,15 @@ On tablets and other medium sized screens the videos float either more to the le
 
 <!--technologies used-->
 # Technologies Used
-HTML5- used to provide the content and structure of the webpage. 
+[HTML5](https://en.wikipedia.org/wiki/HTML5). - used to provide the content and structure of the webpage. 
 
-CSS3- styling of webpage.
+[CSS3](https://en.wikipedia.org/wiki/CSS). - styling of webpage.
 
 [Balsamiq](https://balsamiq.com/). - wireframes for webpage design. 
 
 [GitPod](https://www.gitpod.io/). - used to create and update webpage. 
 
-GitBash- used to push project to GitHub after changes through repositories.
+[GitBash](https://www.gitkraken.com/blog/what-is-git-bash). - used to push project to GitHub after changes through repositories.
 
 [GitHub](https://github.com/). - stores and deploys the webpage.
  
