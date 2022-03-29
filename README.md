@@ -12,17 +12,17 @@ You can view the live site here- <a href="" target="_blank" rel=""noopener >Work
 
 <!--contents-->
 ## Contents 
-<ul>
-<li>Project Aim</li>
-<li>User Experience</li>
-<ul>
+
+* [**Project Aim**](<#project-aim>)
+* [**User Experience**](<#user-experience>)
 <li>Design Wireframes</li>
 <li>Webpage Structure</li>
 <li>Reasons For Design</li>
 <li>Fonts</li>
 <li>Colour Scheme</li>
 </ul>
-<li>Features</li>
+
+* [**Features**](<#features>)
 <ul>
 <li>Main Titles Navigation Menu</li>
 <li>Home</li>
@@ -31,22 +31,22 @@ You can view the live site here- <a href="" target="_blank" rel=""noopener >Work
 <li>Sign Up</li>
 <li>Footer</li>
 </ul>
-<li>Future Features</li>
+
+* [**Future Features**](<#future-features>)
 <ul>
 <li>Candle Section</li>
 <li>Chat Forum</li>
 <li>Gallery</li>
 </ul>
-<li>Technologies Used</li>
-<li>Testing</li>
-<li>Bugs and Fixes</li>
-<li>Deployment</li>
-<li>Credits</li>
+
+* [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+* [**Bugs and Fixes**](<#bugs-and-fixes>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
 <ul>
 <li>Media</li>
 <li>Content</li>
-</ul>
-</ul>
 
 <!--project aim-->
 ## Project Aim 
