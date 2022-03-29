@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -998,7 +999,8 @@ footer {
         text-align: center;
     }
 
-    .left_side_heading, .right_side_heading {
+    .left_side_heading,
+    .right_side_heading {
         float: none;
         clear: none;
         width: 100%;
@@ -1049,6 +1051,14 @@ footer {
         font-size: 130%;
     }
 
+}
+
+/* for medium screens size from 610px wide and smaller */
+@media screen and (max-width: 610px) {
+    .sign_up_form {
+        margin-left: 20px;
+        margin: 20px;
+    }
 }
 
 /* for medium screens size from 468px wide and smaller */
@@ -1225,7 +1235,8 @@ footer {
         text-align: center;
     }
 
-    .left_side_heading, .right_side_heading {
+    .left_side_heading,
+    .right_side_heading {
         float: none;
         clear: none;
         width: 100%;
