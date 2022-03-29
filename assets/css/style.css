@@ -808,32 +808,28 @@ footer {
 @media screen and (max-width: 912px) {
     /* styling for header*/
     header {
-        height: 16%;
+        height: 12%;
     }
+/* styling for something to section*/
+#ted,
+#lofi_hiphop,
+#nature {
+    margin-left: 0;
+}
+/* styling for sign up form*/
+.sign_up_form {
+    max-width: 700px;
+}
 }
 
 /* for small screens size from 862px wide and smaller */
 @media screen and (max-width: 862px) {
     /* styling for header*/
     header {
-        height: 16%;
+        height: 13%;
     }
     #logo_image {
         display: none;
-    }
-}
-
-/* for medium screens size from 912px wide and smaller */
-@media screen and (max-width: 912px) {
-/* styling for something to section*/
-    #ted,
-    #lofi_hiphop,
-    #nature {
-        margin-left: 0;
-    }
-/* styling for sign up form*/
-    .sign_up_form {
-        max-width: 700px;
     }
 }
 
