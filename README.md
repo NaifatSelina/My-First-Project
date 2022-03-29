@@ -42,6 +42,8 @@ You can view the live site here- <a href="" target="_blank" rel="noopener" >Work
 ## Project Aim 
 The goal of my first project is to create a visually professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.
 
+[Back to Contents](<##contents>)
+
 <!--user experience-->
 ## User Experience 
 <hr>
@@ -67,9 +69,10 @@ Work from Home is a webpage that occupies only one page, with a navigation menu 
 #### Colour Scheme 
 <li>The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and a welcoming feel. Combined, the colours perfectly corresponded with the desired overall feel of the webpage.</li>
 </ul>
-<hr>
-<!--features-->
 
+[Back to Contents](<##contents>)
+
+<!--features-->
 ## Features
 The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this.
 <hr>
@@ -111,7 +114,8 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <li>The footer is very simplistic, occupying a white background to match the header it simply includes three social media icons that are black to match the colour scheme and will take the user to each social media page which opens on a different tab.</li>
 <li>Under the social media tabs there is a brief line of text stated the webpage creator and copyright information.</li>
 </ul>
-<hr>
+
+[Back to Contents](<##contents>)
 
 <!--future features-->
 ## Future Features
@@ -134,7 +138,8 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <ul>
 <li>The gallery would include inspiration pictures of different at home work set ups and you be located on a separate page within the webpage.</li>
 </ul>
-<hr>
+ 
+[Back to Contents](<##contents>)
 
 <!--technologies used-->
 ## Technologies Used
@@ -146,7 +151,8 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <li>GitBash- used to push project to GitHub after changes through repositories. </li>
 <li>GitHub- stores and deploys the webpage.</li>
 </ul>
-<hr>
+ 
+[Back to Contents](<##contents>)
 
 <!--testing-->
 ## Testing 
@@ -156,11 +162,13 @@ The code for Work from Home Guide has been tested and validated by W3C HTML Vali
 <li>W3C CSS Validator</li>
 <li>Lighthouse Testing</li>
 </ul>
-<hr>
+ 
+[Back to Contents](<##contents>)
 
 <!--bugs and fixes-->
 ## Bugs and Fixes 
-<hr>
+ 
+[Back to Contents](<##contents>)
 
 <!--deployment-->
 ## Deployment 
@@ -170,7 +178,8 @@ The code for Work from Home Guide has been tested and validated by W3C HTML Vali
 <li>Select Source and change the branch to master- save.</li> 
 <li>Page refreshes and site is deployed.</li> 
 </ol>
-<hr>
+
+[Back to Contents](<##contents>)
 
 <!--credits-->
 ## Credits 
@@ -181,12 +190,16 @@ The code for Work from Home Guide has been tested and validated by W3C HTML Vali
 <li>Wix- Logo used in header.</li>
 </ul>
 
+[Back to Contents](<##contents>)
+
 ### Content
 <ul>
 <li>Font Awesome- Icons used throughout webpage.</li>
 <li>Google Fonts- Font used throughout webpage.</li>
 <li>HTML Color Codes-Used to select colours for webpage.</li>
 </ul>
+
+[Back to Contents](<##contents>)
 
 
 
