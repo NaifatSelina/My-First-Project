@@ -50,7 +50,7 @@ You can view the live site here- <a href="" target="_blank" rel=""noopener >Work
 
 <!--project aim-->
 ## Project Aim 
-<p>The goal of my first project is to create a visually professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.</p>
+The goal of my first project is to create a visually professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.
 
 <!--user experience-->
 ## User Experience 
@@ -58,12 +58,12 @@ You can view the live site here- <a href="" target="_blank" rel=""noopener >Work
 <!--design wireframes-->
 
 ### Design Wireframes
-<p>Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.</p>
+Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage.
 <hr>
 <!--webpage structure-->
 
 ### Webpage Structure
-<p>Work from Home is a webpage that occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed on desktop and tablet devices, the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. To enchance user experience the header is not fixed on mobiles to avoid the header taking up a large majority of the screen and becoming distractive. </p>
+Work from Home is a webpage that occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed on desktop and tablet devices, the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. To enchance user experience the header is not fixed on mobiles to avoid the header taking up a large majority of the screen and becoming distractive.
 <hr>
 <!--reasons for design-->
 
@@ -81,7 +81,7 @@ You can view the live site here- <a href="" target="_blank" rel=""noopener >Work
 <!--features-->
 
 ## Features
-<p>The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this. </p>
+The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this.
 <hr>
 
 #### Main Titles and Navigation Menu 
@@ -151,7 +151,7 @@ More so, the main image includes cover text which enlarges as the page is loaded
 <ul>
 <li>HTML5- used to provide the content and structure of the webpage. </li>
 <li>CSS3- styling of webpage.</li>
-<li>Balsamiq- wireframes for webpage design.</li>
+<li>[Balsamiq](https://balsamiq.com/). - wireframes for webpage design.</li>
 <li>GitPod- used to create and update webpage.</li>
 <li>GitBash- used to push project to GitHub after changes through repositories. </li>
 <li>GitHub- stores and deploys the webpage.</li>
@@ -160,11 +160,10 @@ More so, the main image includes cover text which enlarges as the page is loaded
 
 <!--testing-->
 ## Testing 
-<p>The code for Work from Home Guide has been tested and validated by W3C HTML Validator, W3C CSS Validator and Chrome Dev Tools.</p>
+The code for Work from Home Guide has been tested and validated by W3C HTML Validator, W3C CSS Validator and Chrome Dev Tools.
 <ul>
 <li>W3C HTML Validator</li>
 <li>W3C CSS Validator</li>
-<li>Chrome Dev Tools</li>
 <li>Lighthouse Testing</li>
 </ul>
 <hr>
