@@ -650,7 +650,7 @@ footer {
 
     /* styling for cover text */
     #cover_text h2 {
-        bottom: 95px;
+        bottom: 195px;
         right: 90px;
     }
 
@@ -699,6 +699,13 @@ footer {
     #cover_text h2 {
         display: none;
     }
+}
+/* for large to medium screens size from 1508px wide and smaller */
+@media screen and (max-width: 1508px) {
+        /* styling for cover text */
+        #cover_text h2 {
+            bottom: 295px;
+        }
 }
 
 /* for large to medium screens size from 1400px wide and smaller */
@@ -898,12 +905,7 @@ footer {
 
     /* styling for cover text */
     #cover_text h2 {
-        bottom: 600px;
-        right: 30px;
-        width: 275px;
-        height: 60px;
-        padding-top: 30px;
-        font-size: 100%;
+        display: none;
     }
 
     /* styling for ethos section */
