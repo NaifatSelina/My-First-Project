@@ -77,6 +77,7 @@ The Work from Home Guide webpage is designed to be easy to navigate with clear, 
 * The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.
 * The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. When the user hovers over each navigation link it will be underlined to confirm to the user they are clicking the the correct section they wish to go to. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user and maximum relaxation.
 * The logo was inserted to add professionalism to the webpage, however is removed on smaller screens as it causes the header to become too cramped- going against the aim for a spacious and relaxed webpage.
+![Main Titles and Navigation Menu](../First-Project./assets/readme-images/header%20image..png)
 ### Home 
 * The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.
 * The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop. The main images' colour scheme corresponds to the webpage and adds to the consistency of the webpage consequently.
