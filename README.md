@@ -207,6 +207,11 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 
 ![Compressor](assets/readme-images/compressor..png)
 
+### Responsive Design Checker 
+* As well as Chrome Dev Tools I also used responsive design checker to further ensure Work From Guide is fully responsive.
+
+![Responsive Design Checker](assets/readme-images/responsive%20design..png)
+
 ### Manual Tests.
 #### Header
 * Ensure header fixed to the top of the screen.
