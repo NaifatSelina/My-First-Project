@@ -187,6 +187,12 @@ img {
     padding-top: 3.5%;
 }
 
+#ethos_image {
+    height: 200px;
+    width: 30%;
+    float: right;
+    margin: 5%;
+}
 /* first image interval and win candle button*/
 
 #image_interval {
