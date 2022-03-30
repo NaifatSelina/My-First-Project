@@ -180,7 +180,7 @@ On tablets and other medium sized screens the videos float either more to the le
 
 <!--testing-->
 ## Testing 
-The code for Work from Home Guide has been tested and validated by [W3C HTML Validator](https://validator.w3.org/), [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and [Chrome Dev Tools](https://developers.google.com/web/tools/lighthouse).
+The code for Work from Home Guide has been tested and validated by [W3C HTML Validator](https://validator.w3.org/), [W3C CSS Validator](https://jigsaw.w3.org/css-validator/), [A11y](https://color.a11y.com/Contrast/) and [Chrome Dev Tools](https://developers.google.com/web/tools/lighthouse).
 ### W3C HTML Validator.
 ![W3C HTML Validator](assets/readme-images/html%20w3c%20image..png)
 ### W3C CSS Validator.
