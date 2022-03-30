@@ -147,6 +147,9 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 ### W3C HTML Validator.
 ### W3C CSS Validator.
 ### Lighthouse Testing.
+![Work From Home Guide Responsiveness](assets/readme-images/lighthouse%20desktop.jpg)
+
+![Work From Home Guide Responsiveness](assets/readme-images/lighthouse%20mobile.jpg)
  * For mobiles compressing the images will done done in the future if the webpage was to be used outside of educational purposes. Compressing the images would have saved loading time however as the images were added through css as background images this was not possible.
 * In future webpages I shall also aim to use a facade for my youtube videos and passive listeners to further reduce loading time for users.
 
