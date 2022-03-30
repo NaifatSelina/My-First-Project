@@ -149,6 +149,8 @@ On tablets and other medium sized screens the videos float either more to the le
 [GitBash](https://www.gitkraken.com/blog/what-is-git-bash). - used to push project to GitHub after changes through repositories.
 
 [GitHub](https://github.com/). - stores and deploys the webpage.
+
+[Compressor](https://compressor.io/). -compress images for readme.md.
  
 [Back to Contents](<#contents>)
 
