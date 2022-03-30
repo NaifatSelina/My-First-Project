@@ -48,15 +48,25 @@ The goal of my first project is to create a visually professional and fresh webs
 <!--design wireframes-->
 ## Design Wireframes
 Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage. Any changes made from the wireframe were to enhance the professional look of the webpage.
+
 ![Design Wireframes](assets/readme-images/desktop%20wireframe%201%20image..png)
+
 ![Design Wireframes](assets/readme-images/desktop%20wireframe%202%20image..png)
+
 ![Design Wireframes](assets/readme-images/desktop%20wireframe%203%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%201%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%202%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%203%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%204%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%205%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%206%20image..png)
+
 ![Design Wireframes](assets/readme-images/mobile%20wireframe%207%20image..png)
 <!--webpage structure-->
 ## Webpage Structure
@@ -122,6 +132,7 @@ On tablets and other medium sized screens the videos float either more to the le
 * The icons in the footer turn maroon when hovered over to alert the user that they are about to select that particular icon if they choose to. Furthermore, the icons and footer text below are centered to correspond with the centered headings throughout the webpage and centered content.
 * Under the social media tabs there is a brief line of text stated the webpage creator and copyright information for added professionalism.
 ![Footer](assets/readme-images/footer%20image..png)
+![Footer](assets/readme-images/collapsed%20footer..png)
 
 [Back to Contents](<#contents>)
 
