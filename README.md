@@ -43,20 +43,15 @@ You can view the live site here- <a href="" target="_blank" rel="noopener" >Work
 The goal of my first project is to create a visually professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.
 
 [Back to Contents](<##contents>)
-
 <!--user experience-->
 ### User Experience 
-
 <!--design wireframes-->
 ## Design Wireframes
 Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage. Any changes made from the wireframe were to enhance the professional look of the webpage.
-
 ![Design Wireframes]()
-
 <!--webpage structure-->
 ## Webpage Structure
 Work from Home is a webpage that occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed on desktop and tablet devices, the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. To enchance user experience the header is not fixed on mobiles and smaller screens to avoid the header taking up a large majority of the screen and becoming distractive.
-
 <!--reasons for design-->
 ## Reasons for Design 
 ### Fonts 
@@ -69,7 +64,6 @@ Work from Home is a webpage that occupies only one page, with a navigation menu 
 - More so, the use of black text effectively complimented the maroon. Combined, the colours perfectly corresponded with the desired overall feel of the webpage and enhanced user experience with the dark black and maroon colours standing out completely from the white and white-sage background colours used throughout the webpage.
 
 [Back to Contents](<##contents>)
-
 <!--features-->
 ## Features
 The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this.
