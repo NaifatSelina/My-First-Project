@@ -11,41 +11,41 @@ You can view the live site here- <a href="" target="_blank" rel="noopener" >Work
 ![Work From Home Guide Responsiveness]()
 <!--contents-->
 # Contents 
-### [**Project Aim**](<#project-aim>)
-### [**User Experience**](<#user-experience>)
+## [**Project Aim**](<#project-aim>)
+## [**User Experience**](<#user-experience>)
 * [Design Wireframes](<#design-wireframes>)
 * [Webpage Structure](<#webpage-structure>)
 * [Reasons For Design](<#reasons-for-design>)
 * [Fonts](<#fonts>)
 * [Colour Scheme](<#colour-scheme>)
-### [**Features**](<#features>)
+## [**Features**](<#features>)
 * [Main Titles and Navigation Menu](<#main-titles-and-navigation-menu>)
 * [Home](<#home>)
 * [About](<#about>)
 * [Your Space](<#your-space>)
 * [Sign Up](<#sign-up>)
 * [Footer](<#footer>)
-### [**Future Features**](<#future-features>)
+## [**Future Features**](<#future-features>)
 * [Candle Section](<#candle-section>)
 * [Chat Forum](<#chat-forum>)
 * [Gallery](<#gallery>)
 * [Responsive Navigation Menu](<#responsive-navigation-menu>)
-### [**Technologies Used**](<#technologies-used>)
-### [**Testing**](<#testing>)
-### [**Bugs and Fixes**](<#bugs-and-fixes>)
-### [**Deployment**](<#deployment>)
-### [**Credits**](<#credits>)
+## [**Technologies Used**](<#technologies-used>)
+## [**Testing**](<#testing>)
+## [**Bugs and Fixes**](<#bugs-and-fixes>)
+## [**Deployment**](<#deployment>)
+## [**Credits**](<#credits>)
 * [Media](<#media>)
 * [Content](<#content>)
 
 <!--project aim-->
-# Project Aim 
+## Project Aim
 The goal of my first project is to create a visually professional and fresh website that helps people balance their mental wellbeing and productivity whilst working from home. I aim to competently use HTML and CSS to showcase clean code and detailed testing to produce a smooth flowing webpage.
 
 [Back to Contents](<##contents>)
 
 <!--user experience-->
-# User Experience 
+### User Experience 
 
 <!--design wireframes-->
 ## Design Wireframes
@@ -71,7 +71,7 @@ Work from Home is a webpage that occupies only one page, with a navigation menu 
 [Back to Contents](<##contents>)
 
 <!--features-->
-# Features
+## Features
 The Work from Home Guide webpage is designed to be easy to navigate with clear, minimal and unintrusive amounts of information for the user in order to maintain the calm and relaxed feeling of the webpage. Each feature of the webpage is minimalistic and promotes a calm and relaxed reaction from the user. The familiar layout of the webpage supports this.
 ### Main Titles and Navigation Menu 
 * The main title, sub title, and logo are all located at the top of the webpage in the header on the left-hand side with the navigation menu occupying the right side of the header.
@@ -104,10 +104,10 @@ On tablets and other medium sized screens the videos float either more to the le
 * The icons in the footer turn maroon when hovered over to alert the user that they are about to select that particular icon if they choose to. Furthermore, the icons and footer text below are centered to correspond with the centered headings throughout the webpage and centered content.
 * Under the social media tabs there is a brief line of text stated the webpage creator and copyright information for added professionalism.
 
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 
 <!--future features-->
-# Future Features
+## Future Features
 <!--candle section-->
 ### Candle Section
 - A candle section will allow the user to shop for an array of candles once on the site to begin their self-care journey and journey in enhancing their work space at home.
@@ -123,10 +123,10 @@ On tablets and other medium sized screens the videos float either more to the le
 ### Responsive Navigation Menu
 - The corresponding navigation menu link will be made bold when you are on that section of the webpage.
 
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 
 <!--technologies used-->
-# Technologies Used
+## Technologies Used
 [HTML5](https://en.wikipedia.org/wiki/HTML5). - used to provide the content and structure of the webpage. 
 
 [CSS3](https://en.wikipedia.org/wiki/CSS). - styling of webpage.
@@ -139,10 +139,10 @@ On tablets and other medium sized screens the videos float either more to the le
 
 [GitHub](https://github.com/). - stores and deploys the webpage.
  
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 
 <!--testing-->
-# Testing 
+## Testing 
 The code for Work from Home Guide has been tested and validated by [W3C HTML Validator](https://validator.w3.org/), [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and [Chrome Dev Tools](https://developers.google.com/web/tools/lighthouse).
 ### W3C HTML Validator.
 ### W3C CSS Validator.
@@ -153,34 +153,34 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
  * For mobiles compressing the images will done done in the future if the webpage was to be used outside of educational purposes. Compressing the images would have saved loading time however as the images were added through css as background images this was not possible.
 * In future webpages I shall also aim to use a facade for my youtube videos and passive listeners to further reduce loading time for users.
 
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 <!--bugs and fixes-->
-# Bugs and Fixes 
+## Bugs and Fixes 
  
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 
 <!--deployment-->
-# Deployment 
+## Deployment 
 1. Go to **First Project.** GitHub repository and enter **settings**. 
 2. Navigate to **Pages** Tab.
 3. Select **Source** and **change the branch to master**- ***save***.
 4. Page refreshes and **site is deployed**.
 
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 <!--credits-->
-# Credits 
+## Credits 
 ## Media
 * [Pexels](https://www.pexels.com/). - Images used within webpage.
 * [YouTube](https://www.youtube.com/). - YouTube videos in the webpage.
 * [Wix](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiojsmguOz2AhXngFAGHSzSBJgYABAAGgJkZw&ae=2&ohost=www.google.com&cid=CAESaOD2fBpTDA5K9faGkz8X0_7n2JrlmC226nYQQp7KImQ2s0_patV3cW3vBArTDZRIXpUR0aQ18qiZkNthljzRPa3Y1PPvOrM7UdYPuDRruXusry9_Y0ls1HA4Qumme4LUtkEmKpX48Dew&sig=AOD64_3Vv9BMjNL6bW_GXdc4Ld9a6nqMWw&q&adurl&ved=2ahUKEwjatMKguOz2AhWyQUEAHQGxAX8Q0Qx6BAgCEAE). - Logo used in header.
 
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 ## Content
 * [Font Awesome](https://fontawesome.com/). - Icons used throughout webpage.
 * [Google Fonts](https://fonts.google.com/). - Font used throughout webpage.
 * [HTML Color Codes](https://htmlcolorcodes.com/). -Used to select colours for webpage.
 
-[Back to Contents](<##contents>)
+[Back to Contents](<#contents>)
 
 
 
