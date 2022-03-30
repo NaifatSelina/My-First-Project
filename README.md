@@ -78,17 +78,20 @@ The Work from Home Guide webpage is designed to be easy to navigate with clear, 
 * The header is fixed to the screen to avoid the user having to scroll back to the top of the page to refresh the page or to navigate through the different sections of the page. When the user hovers over each navigation link it will be underlined to confirm to the user they are clicking the the correct section they wish to go to. The decision against using the hamburger navigation menu and constantly using a standard navigation menu was to maintain the simplicity and the goal for minimum effort for the user and maximum relaxation.
 * The logo was inserted to add professionalism to the webpage, however is removed on smaller screens as it causes the header to become too cramped- going against the aim for a spacious and relaxed webpage.
 ![Main Titles and Navigation Menu](assets/readme-images/header%20image..png)
+![Main Titles and Navigation Menu](assets/readme-images/collapsed%20header..png)
 ### Home 
 * The home section is the first section the user will be presented with once the webpage is loaded, when refreshed and when the home navigation menu link is clicked.
 * The section is completely occupied by the main image of the site which is light, fresh and relevant, showing a woman sitting in professional wear in front of her laptop. The main images' colour scheme corresponds to the webpage and adds to the consistency of the webpage consequently.
 * The main image includes cover text which enlarges as the page is loaded, with the main aim of the webpage encompassed in a single sentence ‘intertwining work and relaxation’ to immediately inform the user on what to expect and the aim of the webpage.
 For smaller screens the cover text is removed as it causes the home portion of the webpage to look cramped.
 ![Home](assets/readme-images/home%20image..png)
+![Home](assets/readme-images/collapsed%20home..png)
 ### About
 * The About section of Work from Home Guide, also referred to as the Ethos section, is divided into 3 mini sections of information which essentially summarise the main aim of the webpage, the reasons for the webpage and how I aim to help the user reach this aim.
 The About section provides clarity from the start of the webpage, promoting the feeling of calmness within the user.
 * The About section includes an image of stacked pebbles on a blank and calm background to further add the feeling of serenity to the webpage.
 ![About](assets/readme-images/ethos%20image..png)
+![About](assets/readme-images/collapsed%20ethos..png)
 * The About section is followed by a brief image interval which includes a button that is able to take the user straight to the sign-up page to win a free candle. The image interval includes a calming image that fits the colour scheme of the webpage and is set to a fixed position to create a 3D effect when the user scrolls past the image. This is also to draw attention to the interval and the button that urges them to sign up to win a free candle.
 ![About](assets/readme-images/image%20interval%201%20image..png)
 ### Your Space 
@@ -103,12 +106,14 @@ On tablets and other medium sized screens the videos float either more to the le
 * The Get Ready section of the webpage includes an image in the center which enlarges when hovered over to increase user experience- it demonstrates an example of a clean and fresh work desk that can be used as inspiration by the user when thinking of how they want to begin getting their space ready.
 * On smaller screens the Get Ready section collapses into a string of vertical content and centers itself to avoid a cramped look.
 ![Your Space](assets/readme-images/get%20ready%20image..png)
+![Your Space](assets/readme-images/collapsed%20get%20ready..png)
 ### Sign Up
 * Above the Sign-Up section is another image interval that is identical to the one under the About section- enhancing the 3D effect of the webpage and consistency across the webpage.
 ![Sign Up](assets/readme-images/image%20interval%202%20image..png)
 * The Sign-Up section is an opportunity for the user to enter in a draw to win a candle of their choice. It maintains the simple and fresh look of the webpage, and once submitted, presents the user with a pop up thanking them for entering the draw- upon closing this pop up the webpage will take the user back to the home section.
 * The sign up form is centered in correspondence with the section headings and footer to maintain the consistency across the webpage and aligns with the colour scheme of the webpage too.
 ![Sign Up](assets/readme-images/sign%20up%20image..png)
+![Sign Up](assets/readme-images/collapsed%20sign%20up..png)
 ### Footer 
 * The footer is very simplistic, occupying a white background to match the header it simply includes three social media icons that are black to match the colour scheme and will take the user to each social media page which opens on a different tab.
 * The icons in the footer turn maroon when hovered over to alert the user that they are about to select that particular icon if they choose to. Furthermore, the icons and footer text below are centered to correspond with the centered headings throughout the webpage and centered content.
