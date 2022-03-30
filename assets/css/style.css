@@ -810,6 +810,14 @@ footer {
     }
 }
 
+/* for large to medium screens size from 1102px wide and smaller */
+@media screen and (max-width: 1102px) {
+/* styling for ethos image */
+#ethos_image {
+    display: none;
+}
+}
+
 /* for medium screens size from 912px wide and smaller */
 @media screen and (max-width: 912px) {
     /* styling for header*/
