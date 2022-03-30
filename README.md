@@ -197,15 +197,78 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 
 ![A11y](assets/readme-images/ally..png)
 
-### Chrome Dev Tools 
+### Chrome Dev Tools.
 * I also used chrome dev tools to check responsiveness across devices, trying each dimension and ensuring the webpage is fully responsive across all dimensions.
 
 ![Chrome Dev Tools](assets/readme-images/chrome%20dev%20tools..png)
 
-### Compressor 
+### Compressor. 
 * Compresser was also used to compress images for the readme.md file.
 
 ![Compressor](assets/readme-images/compressor..png)
+
+### Manual Tests.
+#### Header
+* Ensure header fixed to the top of the screen.
+* Ensure header does not cover main image.
+* Ensure text on header contrasts well enough.
+* Ensure responsiveness of all header links work correctly.
+* Ensure navigation menu works how it is supposed to.
+* Ensure on smaller screens, nothing overlaps.
+* Ensure the navigation menu falls under main titles on smaller screens.
+* Ensure logo isn't overlapped by navigation menu as screens get smaller.
+#### Home
+* Ensure main image covers entire width of screen.
+* Ensure image is not stretched or pixelated at any size.
+* Ensure cover text is always correctly position on screen sizes.
+* Ensure cover text is removed on small screens.
+* Ensure transform property of cover text works correctly.
+* Ensure cover text background colour contrasted enough with image.
+#### About
+* Ensure text color contrasts well with background.
+* Ensure each section is evenly spaced out with no overlap.
+* Ensure text reduces in size as screens reduce.
+* Ensure image in ethos section reduced in size as screens reduce.
+* Ensure image in ethos section does not overlap with text.
+* Ensure image in ethos section is removed on smaller screens.
+* Ensure title is centered.
+#### Image Interval
+* Ensure image interval button is centered on large screens.
+* Ensure image interval button takes user t sign up page.
+* Ensure fixed position works on background image.
+* Ensure button contrasts well with background image.
+#### Your Space
+##### Something To Section
+* Ensure title and sub-titles are centered.
+* Ensure audio title links take user to youtube channel on seperate tab.
+* Ensure hover on audio titles works correctly.
+* Ensure main title reduces in size as screen sizes reduce.
+* Ensure videos and video descriptions are centered.
+* Ensure videos reduce in size as screen size reduces.
+* Ensure transform style rule on video works as expected.
+##### Get Ready Section
+* Ensure title is centered.
+* Ensure title reduces in size as screen size reduces.
+* Ensure photo containers size is proportionate to screen size.
+* Ensure photo containers transform style rule works correctly.
+* Ensure photo container color and all text color contrasts well to background.
+* Ensure on smaller screens text collapses to one stream of centered text.
+* Ensure image remains within container and proportionate in size.
+#### Sign Up
+* Ensure titles are centered and contrast well with background.
+* Ensure titles reduce in size as screen size reduces.
+* Ensure sign up form is centered and contrasts well to background.
+* Ensure sign up form reduces in size as screen size reduces.
+* Ensure dropdown menu works correctly.
+* Ensure input field required rule works correctly.
+* Ensure form works and upon submission correct message is presented to user.
+* Ensure user is taken back top Home section after submitting form.
+#### Footer
+* Ensure footer is same colour as header.
+* Ensure footer text and icons colors contrasts to background correctly.
+* Ensure footer icons change color when hovered over.
+* Ensure social media links open in a new tab.
+* Ensure social media links take user to correct pages.
 
 [Back to Contents](<#contents>)
 <!--bugs and fixes-->
