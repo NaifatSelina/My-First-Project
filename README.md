@@ -48,7 +48,16 @@ The goal of my first project is to create a visually professional and fresh webs
 <!--design wireframes-->
 ## Design Wireframes
 Initially, to design the layout of Work from Home Guide, Balsamiq was used to create different wireframes for Desktop, Tablet and Mobiles. Ultimately, the final deployed site ended up differentiating to the original wireframes in terms of colour scheme and minor structural components after feedback from others and personal change of opinion whilst building the webpage. Any changes made from the wireframe were to enhance the professional look of the webpage.
-![Design Wireframes]()
+![Design Wireframes](assets/readme-images/desktop%20wireframe%201%20image..png)
+![Design Wireframes](assets/readme-images/desktop%20wireframe%202%20image..png)
+![Design Wireframes](assets/readme-images/desktop%20wireframe%203%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%201%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%202%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%203%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%204%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%205%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%206%20image..png)
+![Design Wireframes](assets/readme-images/mobile%20wireframe%207%20image..png)
 <!--webpage structure-->
 ## Webpage Structure
 Work from Home is a webpage that occupies only one page, with a navigation menu including four links that will take the user to the section of the webpage that they select. The Home section is the default page with the About, Your Space and Sign-Up section following consecutively. As the header is fixed on desktop and tablet devices, the user always has the option to also select the main logo, title and sub-title of the webpage to refresh the entire page and be taken back to the initial home page. To enchance user experience the header is not fixed on mobiles and smaller screens to avoid the header taking up a large majority of the screen and becoming distractive.
