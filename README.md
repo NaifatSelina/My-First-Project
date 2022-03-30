@@ -197,6 +197,11 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 
 ![A11y](assets/readme-images/ally..png)
 
+### Chrome Dev Tools 
+* I also used chrome dev tools to check responsiveness across devices, trying each dimension and ensuring the webpage is fully responsive across all dimensions.
+
+![Chrome Dev Tools](assets/readme-images/chrome%20dev%20tools..png)
+
 [Back to Contents](<#contents>)
 <!--bugs and fixes-->
 ## Bugs and Fixes 
