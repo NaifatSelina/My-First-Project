@@ -81,6 +81,10 @@ Work from Home is a webpage that occupies only one page, with a navigation menu 
 - The colour scheme chosen for the Work from Home Guide webpage is a balance of fresh and comforting. The main background colours of white and white-sage provide a fresh feel, with the black and maroon accent colours providing warmth and a welcoming feel. 
 - The maroon titles used aid to create consistency across the webpage as the user is clear that they have entered a new section of the webpage when seeing the maroon title. 
 - More so, the use of black text effectively complimented the maroon. Combined, the colours perfectly corresponded with the desired overall feel of the webpage and enhanced user experience with the dark black and maroon colours standing out completely from the white and white-sage background colours used throughout the webpage.
+![Colours](assets/readme-images/black..png)
+![Colours](assets/readme-images/dark%20brown..png)
+![Colours](assets/readme-images/maroon..png)
+![Colours](assets/readme-images/white%20sage..png)
 
 [Back to Contents](<##contents>)
 <!--features-->
