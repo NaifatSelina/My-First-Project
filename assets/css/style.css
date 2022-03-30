@@ -1224,7 +1224,6 @@ footer {
     #lofi_hiphop,
     #nature {
         height: 170px;
-        width: 250px;
     }
 
     #ted_talk p,
@@ -1311,12 +1310,6 @@ footer {
 /* for small screens size from 284px wide and smaller */
 @media screen and (max-width: 284px) {
 
-    /* styling for something to section */
-    #ted,
-    #lofi_hiphop,
-    #nature {
-        width: 180px;
-    }
 
     /* styling for get ready section */
     #photo_container {
