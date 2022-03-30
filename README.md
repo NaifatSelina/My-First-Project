@@ -202,6 +202,11 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 
 ![Chrome Dev Tools](assets/readme-images/chrome%20dev%20tools..png)
 
+### Compressor 
+* Compresser was also used to compress images for the readme.md file.
+
+![Compressor](assets/readme-images/compressor..png)
+
 [Back to Contents](<#contents>)
 <!--bugs and fixes-->
 ## Bugs and Fixes 
