@@ -278,7 +278,26 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 [Back to Contents](<#contents>)
 <!--bugs and fixes-->
 ## Bugs and Fixes 
- 
+### Bugs Fixed
+
+* I encountered an error whilst checking my code through w3c html validator that bought to my attention that there were sections in my html that did not include a header tag- to resolve, I turned these sections into divs.
+
+![headings error](assets/readme-images/add%20headings%20error..png)
+
+* I encountered an error stating there was a void a tag in my html through w3c html validator, closing an anchor tag I had left open solved this issue.
+
+![a tag error](assets/readme-images/a%20tag%20error..png)
+
+### Bugs with no images
+* I encountered a bug which cause my navigation menu to float under the header and on to the main image on smaller screens- this was resolved by removing the margin-left property from the navigation links.
+* I encountered a bug which caused white space above various sections depending on the screen size- this was resolved by adding a margin-top of -20px or -10px to the section effected.
+* I encountered an error which caused the videos to float out of the something to section- I resolved this by change the height to a percentage.
+* I encountered an error that caused the checkbox on the sign up form to be in line with the drop down menu instead of under it- this was resolved by adding the display: block property to the dropdown menu.
+
+### Bugs Unfixed
+* Unable to add lazy loading facade to videos.
+* Unable to add passive scroll to webpage.
+
 [Back to Contents](<#contents>)
 
 <!--deployment-->
