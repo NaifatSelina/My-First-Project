@@ -11,33 +11,33 @@ You can view the live site here- <a href="" target="_blank" rel="noopener" >Work
 ![Work From Home Guide Responsiveness](assets/readme-images/responsiveness%20image..png)
 <!--contents-->
 # Contents 
-## [**Project Aim**](<#project-aim>)
-## [**User Experience**](<#user-experience>)
-* [Design Wireframes](<#design-wireframes>)
-* [Webpage Structure](<#webpage-structure>)
-* [Reasons For Design](<#reasons-for-design>)
-* [Fonts](<#fonts>)
-* [Colour Scheme](<#colour-scheme>)
-## [**Features**](<#features>)
-* [Main Titles and Navigation Menu](<#main-titles-and-navigation-menu>)
-* [Home](<#home>)
-* [About](<#about>)
-* [Your Space](<#your-space>)
-* [Sign Up](<#sign-up>)
-* [Footer](<#footer>)
-## [**Future Features**](<#future-features>)
-* [Candle Section](<#candle-section>)
-* [Chat Forum](<#chat-forum>)
-* [Gallery](<#gallery>)
-* [Responsive Navigation Menu](<#responsive-navigation-menu>)
-## [**Technologies Used**](<#technologies-used>)
-## [**Testing**](<#testing>)
-## [**Bugs and Fixes**](<#bugs-and-fixes>)
-## [**Deployment**](<#deployment>)
-## [**Credits**](<#credits>)
-* [Media](<#media>)
-* [Content](<#content>)
-## [**Acknowledgements**](<#acknowledgments>)
+## [**Project Aim**](<##project-aim>)
+## [**User Experience**](<##user-experience>)
+* [Design Wireframes](<##design-wireframes>)
+* [Webpage Structure](<##webpage-structure>)
+* [Reasons For Design](<##reasons-for-design>)
+* [Fonts](<###fonts>)
+* [Colour Scheme](<###colour-scheme>)
+## [**Features**](<##features>)
+* [Main Titles and Navigation Menu](<###main-titles-and-navigation-menu>)
+* [Home](<###home>)
+* [About](<###about>)
+* [Your Space](<###your-space>)
+* [Sign Up](<###sign-up>)
+* [Footer](<###footer>)
+## [**Future Features**](<##future-features>)
+* [Candle Section](<###candle-section>)
+* [Chat Forum](<###chat-forum>)
+* [Gallery](<###gallery>)
+* [Responsive Navigation Menu](<###responsive-navigation-menu>)
+## [**Technologies Used**](<##technologies-used>)
+## [**Testing**](<##testing>)
+## [**Bugs and Fixes**](<##bugs-and-fixes>)
+## [**Deployment**](<##deployment>)
+## [**Credits**](<##credits>)
+* [Media](<##media>)
+* [Content](<##content>)
+## [**Acknowledgements**](<##acknowledgments>)
 
 <!--project aim-->
 ## Project Aim
@@ -304,9 +304,9 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 <!--deployment-->
 ## Deployment 
 1. Go to **First Project.** GitHub repository and enter **settings**. 
-2. Navigate to **Pages** Tab.
+2. Navigate to **Pages** Tab on the left-hand side.
 3. Select **Source** and **change the branch to master**- ***save***.
-4. Page refreshes and **site is deployed**.
+4. Page refreshes automatically and **site is deployed**.
 
 The live link to the GitHub Repository can be found [here](https://github.com/NaifatSelina/First-Project.).
 
@@ -325,7 +325,6 @@ The live link to the GitHub Repository can be found [here](https://github.com/Na
 * [HTML Color Codes](https://htmlcolorcodes.com/). -Used to select colours for webpage.
 
 [Back to Contents](<#contents>)
-
 
 
 
