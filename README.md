@@ -306,6 +306,8 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 3. Select **Source** and **change the branch to main**- ***save***.
 4. Page refreshes automatically and **site is deployed**.
 
+![Deployment](assets/readme-images/deployment..png)
+
 The live link to the GitHub Repository can be found [here](https://github.com/NaifatSelina/First-Project.).
 
 [Back to Contents](<#contents>)
