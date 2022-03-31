@@ -37,6 +37,7 @@ You can view the live site here- <a href="" target="_blank" rel="noopener" >Work
 ## [**Credits**](<#credits>)
 * [Media](<#media>)
 * [Content](<#content>)
+## [**Acknowledgements**](<#acknowledgments>)
 
 <!--project aim-->
 ## Project Aim
@@ -328,4 +329,7 @@ The live link to the GitHub Repository can be found [here](https://github.com/Na
 
 
 
+## Acknowledgements
+The Work from Home Guide webpage was my first ever webpage created and was completed as my first project in the Full Stack Web Development Diploma I am pursuing with Code Institute. A special thanks to my course coach Luke, my mentor Seun and the slack community. 
 
+Naifat Selina 2022. 
