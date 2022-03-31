@@ -303,7 +303,7 @@ The code for Work from Home Guide has been tested and validated by [W3C HTML Val
 ## Deployment 
 1. Go to **First Project.** GitHub repository and enter **settings**. 
 2. Navigate to **Pages** Tab on the left-hand side.
-3. Select **Source** and **change the branch to master**- ***save***.
+3. Select **Source** and **change the branch to main**- ***save***.
 4. Page refreshes automatically and **site is deployed**.
 
 The live link to the GitHub Repository can be found [here](https://github.com/NaifatSelina/First-Project.).
