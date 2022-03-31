@@ -141,7 +141,6 @@ On tablets and other medium sized screens the videos float either more to the le
 ![Footer](assets/readme-images/collapsed%20footer..png)
 
 [Back to Contents](<#contents>)
-
 <!--future features-->
 ## Future Features
 <!--candle section-->
@@ -160,7 +159,6 @@ On tablets and other medium sized screens the videos float either more to the le
 - The corresponding navigation menu link will be made bold when you are on that section of the webpage.
 
 [Back to Contents](<#contents>)
-
 <!--technologies used-->
 ## Technologies Used
 [HTML5](https://en.wikipedia.org/wiki/HTML5). - used to provide the content and structure of the webpage. 
@@ -325,8 +323,6 @@ The live link to the GitHub Repository can be found [here](https://github.com/Na
 * [HTML Color Codes](https://htmlcolorcodes.com/). -Used to select colours for webpage.
 
 [Back to Contents](<#contents>)
-
-
 
 ## Acknowledgements
 The Work from Home Guide webpage was my first ever webpage created and was completed as my first project in the Full Stack Web Development Diploma I am pursuing with Code Institute. A special thanks to my course coach Luke, my mentor Seun and the slack community. 
