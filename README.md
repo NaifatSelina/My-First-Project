@@ -5,7 +5,7 @@
 Work from Home Guide is an independently built website aimed to help the large quantity of people who have settled into remote or hybrid working, post the coronavirus pandemic, navigate their daily schedule required to efficiently work from home. The simplicity and straight forward fashion of the website makes it perfect for busy professionals looking for simple tips and information to help them reach their work life balance goals.
 
 <!--site link-->
-You can view the live site here- <a href="" target="_blank" rel="noopener" >Work from Home Guide.</a>
+You can view the live site here- <a href="https://naifatselina.github.io/First-Project./" target="_blank" rel="noopener" >Work from Home Guide.</a>
 
 <!--image of webpage on multiple screens-->
 ![Work From Home Guide Responsiveness](assets/readme-images/responsiveness%20image..png)
